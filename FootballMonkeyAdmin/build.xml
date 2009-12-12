@@ -1,0 +1,29 @@
+<!-- Final Build File Version -->
+<project name="FootballMonkeyAdmin" default="build">
+    <!-- project specific properties -->
+    <!-- This overrides the default in build-common-properties.xml 
+    <property name="project.name" value="Main" />-->
+	
+	<property name="air.certificate" location="sitebuilder.p12"/>
+		<property name="air.certificate.type" value="pkcs12"/>
+		<property name="air.certificate.password" value="sitebuilder"/>
+
+    <!-- pull in shared information -->
+    <import file="build-imports.xml" />
+	
+	<!-- In order to use the flex-application target, a flex.lib.path must be defined -->
+    <path id="flex.lib.path">
+		<pathelement location="${moccasin.swc}"/>
+		<pathelement location="${springactionscript.swc}"/>
+    	<pathelement location="${flexorm.swc}"/>
+	</path>
+
+    <!-- project specific targets, these override the defaults in build-common-targets.xml -->
+    <target name="build" depends="init,air-application,echo.flex.options" description="Build the application" />
+	<target name="dist" depends="stage,air-package" description="Create a distribution" />
+	
+	<target name="echo.flex.options">
+		<echo>flex options ${flex.compc.options}</echo>
+	</target>
+
+</project>

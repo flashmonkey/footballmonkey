@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>FootballMonkeyAdmin</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.apollo.apollobuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexbuilder.apollo.apollonature</nature>
+		<nature>com.adobe.flexbuilder.project.flexnature</nature>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] actionscript</name>
+			<type>2</type>
+			<location>D:/projects/se-springactionscript-as/trunk/spring-actionscript-core/src/main/actionscript</location>
+		</link>
+		<link>
+			<name>[source path] flexorm-src</name>
+			<type>2</type>
+			<location>D:/projects/flexorm/trunk/flexorm/src</location>
+		</link>
+		<link>
+			<name>[source path] moccasin-core-src</name>
+			<type>2</type>
+			<location>D:/projects/moccasin/moccasin-core/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>

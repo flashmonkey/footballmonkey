@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects
+	xsi:schemaLocation="http://www.springactionscript.org/schema/objects http://www.springactionscript.org/schema/objects/spring-actionscript-objects-1.0.xsd"
+	xmlns="http://www.springactionscript.org/schema/objects"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+		
+	<property file="strings.properties"/>
+		
+	<object id="controller" class="com.footballmonkey.mvcs.controller.FootballMonkeyController">
+		<property name="statsService" ref="statsService"/>
+	</object>
+		
+	<object id="statsService" class="com.footballmonkey.mvcs.service.AFSService" lazy-init="true">
+		<property name="baseUrl" value="http://11v11.com/api/"/>
+		<property name="appendix" value="/xml"/>
+		<property name="teamsToken" value="teams"/>
+		<property name="playersToken" value="players"/>
+		<property name="matchesToken" value="matches"/>
+	</object>
+	
+</objects>

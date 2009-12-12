@@ -1,0 +1,17 @@
+<!-- Assets imported by this project -->
+<project name="footballmonkey.imports">
+	<!--
+          ant.file.[projectname] is a built-in property that contains
+          the current file's full path. Each file must have a name
+          and each name must be unique for a project.
+    -->
+    <dirname property="footballmonkey.imports.dir" file="${ant.file.footballmonkey.imports}"/>
+	
+	<property file="${footballmonkey.imports.dir}/build-user.properties" />
+	
+	<property name="flex.compc.options" value="-keep-as3-metadata+=Table,Id,Column" />
+	
+    <import file="../antennae/tools/build-common-imports.xml" />
+
+    <import file="build-assets.xml" />
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Main
+	xmlns="com.footballmonkey.*"
+	xmlns:mx="http://www.adobe.com/2006/mxml" 
+	layout="absolute">
+	
+	<mx:Script>
+		<![CDATA[
+			import com.footballmonkey.mvcs.model.vo.Match;
+			import com.footballmonkey.mvcs.model.vo.Team;
+			import com.footballmonkey.mvcs.model.vo.PlayerStat;
+			import com.footballmonkey.mvcs.model.vo.ClubHistoryPeriod;
+			import com.footballmonkey.mvcs.model.vo.Player;
+			import com.footballmonkey.mvcs.service.AFSService;
+			import com.footballmonkey.mvcs.controller.FootballMonkeyController;
+			
+			private var controller:FootballMonkeyController;
+			private var service:AFSService;
+			private var player:Player;
+			private var clubHistoryPeriod:ClubHistoryPeriod;
+			private var playerStat:PlayerStat;
+			private var team:Team;
+			private var match:Match;
+		]]>
+	</mx:Script>
+	
+	<mx:Button x="10" y="10" label="Load Context File" id="loadContextFileButton"/>
+	
+</Main>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xsd:schema xmlns="http://www.springactionscript.org/schema/util"
+			xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+			targetNamespace="http://www.springactionscript.org/schema/util"
+			elementFormDefault="qualified">
+
+	<xsd:annotation>
+		<xsd:documentation><![CDATA[
+			Spring ActionScript Framework 1.0 Util Schema
+			Schema Authors: Christophe Herreman
+			]]>
+		</xsd:documentation>
+	</xsd:annotation>
+
+	<xsd:import namespace="http://www.springactionscript.org/schema/objects"/>
+
+	<xsd:element name="constant">
+		<xsd:annotation>
+			<xsd:documentation>
+	Reference a public, static field on a type and expose its value as
+	a bean. For example <code>&lt;util:constant static-field=&quot;Number.MAX_VALUE&quot;/&gt;</code>.
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="id" type="xsd:ID"/>
+			<xsd:attribute name="static-field" type="xsd:string" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+</xsd:schema>

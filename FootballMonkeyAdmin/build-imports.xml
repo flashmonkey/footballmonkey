@@ -1,0 +1,4 @@
+<!-- Assets imported by this project -->
+<project name="FootballMonkeyAdmin.imports">
+    <import file="../build-imports.xml" />
+</project>

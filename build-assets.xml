@@ -1,0 +1,8 @@
+<project name="footballmonkey.assets">
+    <import file="FootballMonkeyAdmin/build-assets.xml" />
+	
+	<property name="moccasin.swc" location="${footballmonkey.dir}/FootballMonkeyAdmin/libs/moccasin-core.swc"/>
+	<property name="springactionscript.swc" location="${footballmonkey.dir}/FootballMonkeyAdmin/libs/springactionscript.swc"/>
+	<property name="flexorm.swc" location="${footballmonkey.dir}/FootballMonkeyAdmin/libs/flexorm.swc"/>
+	
+</project>
