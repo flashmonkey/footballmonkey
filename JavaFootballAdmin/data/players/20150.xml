@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="20150"><name>David Bentley</name>
+
+<details>
+<country>ENG</country>
+<born>27 August 1984</born>
+<birthplace>Peterborough</birthplace>
+<weight>67 kg</weight>
+<height>1.78 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>An England Under-21 midfielder who excelled in the Premiership in his season on loan at Norwich City. 
+David was made available for transfer by Arsenal in August 2005.
+After a loan spell, he joined Blackburn Rovers in January 2006 with a contract to June 2009 that was extended to June 2011 in February 2007.
+David joined Tottenham Hotspur in July 2008 with a six-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="2001-09-08">08-09-2001</date_joined>
+<date_left unformated="2006-01-31">31-01-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Norwich City</club>
+<date_joined unformated="2004-07-01">01-07-2004</date_joined>
+<date_left unformated="2005-05-31">31-05-2005</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="2005-08-31">31-08-2005</date_joined>
+<date_left unformated="2006-01-30">30-01-2006</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="2006-01-31">31-01-2006</date_joined>
+<date_left unformated="2008-07-30">30-07-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Tottenham Hotspur</club>
+<date_joined unformated="2008-07-30">30-07-2008</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Under 18</competition>
+<team>England</team>
+<period>2001 - 2002</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 19</competition>
+<team>England</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 19</competition>
+<team>England</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Arsenal</team>
+<period>2003 - 2004</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>England</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 20</competition>
+<team>England</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Norwich City</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Norwich City</team>
+<period>2004 - 2005</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Norwich City</team>
+<period>2004 - 2005</period>
+<fullapps>22</fullapps>
+<subs>4</subs>
+<goals>2</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2005 - 2006</period>
+<fullapps>23</fullapps>
+<subs>5</subs>
+<goals>3</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>England</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2005 - 2006</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2006 - 2007</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2006 - 2007</period>
+<fullapps>8</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2006 - 2007</period>
+<fullapps>36</fullapps>
+<subs>0</subs>
+<goals>4</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>England</team>
+<period>2006 - 2007</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>2006 - 2007</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>England</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>England</team>
+<period>2007 - 2008</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2007 - 2008</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2007 - 2008</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Intertoto Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2007 - 2008</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2007 - 2008</period>
+<fullapps>37</fullapps>
+<subs>0</subs>
+<goals>6</goals>
+
+<yellowcards>8</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>England</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>2008 - 2009</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Tottenham Hotspur</team>
+<period>2008 - 2009</period>
+<fullapps>20</fullapps>
+<subs>5</subs>
+<goals>1</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>2008 - 2009</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>2008 - 2009</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Tottenham Hotspur</team>
+<period>2009 - 2010</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>2009 - 2010</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

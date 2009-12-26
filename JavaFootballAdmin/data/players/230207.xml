@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="230207"><name>David Hoilett</name>
+
+<details>
+<country>CAN</country>
+<born>05 June 1990</born>
+<birthplace>Ottawa</birthplace>
+<weight>70 kg</weight>
+<height>1.73 m</height>
+<position>Forward</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="2007-07-01">01-07-2007</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Paderborn</club>
+<date_joined unformated="2007-08-01">01-08-2007</date_joined>
+<date_left unformated="2008-05-31">31-05-2008</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>FC St Pauli</club>
+<date_joined unformated="2008-08-01">01-08-2008</date_joined>
+<date_left unformated="2009-05-31">31-05-2009</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2009 - 2010</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2009 - 2010</period>
+<fullapps>1</fullapps>
+<subs>7</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

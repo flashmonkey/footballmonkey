@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="4490"><name>Matthew Taylor</name>
+
+<details>
+<country>ENG</country>
+<born>27 November 1981</born>
+<birthplace>Oxford</birthplace>
+<weight>73 kg</weight>
+<height>1.78 m</height>
+<position>Defender/Midfielder</position>
+
+</details>
+
+<description>Matthew continued to impress in a struggling Luton Town side in 2000-01 and was a near ever-present during the campaign.
+A fast-raiding midfielder or wing back, he created panic in opposition defences with his surging runs and showed that he can shoot equally well with either foot.
+He scored an amazing goal against Cambridge United when he fired home a shot from 40 yards over the retreating 'keeper and into the net to clinch a 1-0 victory for the Hatters.
+His efforts during the campaign were rewarded when he received the supporters' club's Player of the Season and players' Player of the Season awards.
+After rejecting the offer of a new contract, Matthew was placed on the Luton transfer list in March 2002.
+Matthew's contract at Portsmouth was extended to June 2010 in July 2006.
+He joined Bolton Wanderers in January 2008 with a contract to June 2011 that was extended to June 2012 in July 2009.
+
+<i>In addition to the yellow cards totals shown below, as an unused sub, Matthew was booked after 66 minutes of Portsmouth's Premier League game against Reading at Fratton Park on 29 September 2007 for dissent following an incident on the touchline after Reading were awarded a penalty.</i></description>
+
+<club_history>
+
+<period>
+<club>Luton Town</club>
+<date_joined unformated="1999-02-09">09-02-1999</date_joined>
+<date_left unformated="2002-07-03">03-07-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Portsmouth</club>
+<date_joined unformated="2002-07-03">03-07-2002</date_joined>
+<date_left unformated="2008-01-17">17-01-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2008-01-17">17-01-2008</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Under 21</competition>
+<team>England</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Luton Town</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Luton Town</team>
+<period>2000 - 2001</period>
+<fullapps>45</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Luton Town</team>
+<period>2000 - 2001</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Luton Town</team>
+<period>2000 - 2001</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Luton Town</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Luton Town</team>
+<period>2001 - 2002</period>
+<fullapps>43</fullapps>
+<subs>0</subs>
+<goals>11</goals>
+
+<yellowcards>8</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Luton Town</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Portsmouth</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Portsmouth</team>
+<period>2002 - 2003</period>
+<fullapps>35</fullapps>
+<subs>0</subs>
+<goals>7</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Portsmouth</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>England</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Portsmouth</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Portsmouth</team>
+<period>2003 - 2004</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Portsmouth</team>
+<period>2003 - 2004</period>
+<fullapps>18</fullapps>
+<subs>12</subs>
+<goals>0</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Portsmouth</team>
+<period>2004 - 2005</period>
+<fullapps>21</fullapps>
+<subs>11</subs>
+<goals>1</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Portsmouth</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Portsmouth</team>
+<period>2004 - 2005</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Portsmouth</team>
+<period>2005 - 2006</period>
+<fullapps>32</fullapps>
+<subs>2</subs>
+<goals>6</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Portsmouth</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Portsmouth</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Portsmouth</team>
+<period>2006 - 2007</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Portsmouth</team>
+<period>2006 - 2007</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Portsmouth</team>
+<period>2006 - 2007</period>
+<fullapps>30</fullapps>
+<subs>5</subs>
+<goals>8</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2007 - 2008</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2007 - 2008</period>
+<fullapps>16</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Portsmouth</team>
+<period>2007 - 2008</period>
+<fullapps>3</fullapps>
+<subs>10</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Portsmouth</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2008 - 2009</period>
+<fullapps>33</fullapps>
+<subs>1</subs>
+<goals>10</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2009 - 2010</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2009 - 2010</period>
+<fullapps>15</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

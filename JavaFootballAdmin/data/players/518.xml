@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="518"><name>Tim Sherwood</name>
+
+<details>
+<country>ENG</country>
+<born>06 February 1969</born>
+<birthplace>St Albans</birthplace>
+<weight>80 kg</weight>
+<height>1.83 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Tim was again a highly influential figure for Tottenham Hotspur in 2000-01, often taking over the captain's armband in the absence of Sol Campbell. He performed consistently all season, perhaps his only weakness being a lack of goals - he netted just twice in the wins over Sunderland and Liverpool. 
+ A talented midfield play maker, he is a stabilising figure in the centre of the park and his pace is very effective when joining the attack. His superb organisational skills are a great benefit to the team. 
+ Tim joined Coventry City in July 2004 with a two-year contract but was made available for transfer in May 2005. He announced his retirement in July 2005.</description>
+
+<club_history>
+
+<period>
+<club>Watford</club>
+<date_joined unformated="1987-02-07">07-02-1987</date_joined>
+<date_left unformated="1989-07-18">18-07-1989</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Norwich City</club>
+<date_joined unformated="1989-07-18">18-07-1989</date_joined>
+<date_left unformated="1992-02-12">12-02-1992</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1992-02-12">12-02-1992</date_joined>
+<date_left unformated="1999-02-05">05-02-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Tottenham Hotspur</club>
+<date_joined unformated="1999-02-05">05-02-1999</date_joined>
+<date_left unformated="2003-01-29">29-01-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Portsmouth</club>
+<date_joined unformated="2003-01-29">29-01-2003</date_joined>
+<date_left unformated="2004-06-30">30-06-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Coventry City</club>
+<date_joined unformated="2004-07-08">08-07-2004</date_joined>
+<date_left unformated="2005-07-29">29-07-2005</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1992 - 1993</period>
+<fullapps>38</fullapps>
+<subs>1</subs>
+<goals>3</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1993 - 1994</period>
+<fullapps>38</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Charity Shield</competition>
+<team>Blackburn Rovers</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1994 - 1995</period>
+<fullapps>38</fullapps>
+<subs>0</subs>
+<goals>6</goals>
+
+<yellowcards>8</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1995 - 1996</period>
+<fullapps>33</fullapps>
+<subs>0</subs>
+<goals>4</goals>
+
+<yellowcards>9</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1996 - 1997</period>
+<fullapps>37</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards>8</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1996 - 1997</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1997 - 1998</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1997 - 1998</period>
+<fullapps>29</fullapps>
+<subs>2</subs>
+<goals>5</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>1998 - 1999</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1998 - 1999</period>
+<fullapps>19</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>2</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Tottenham Hotspur</team>
+<period>1998 - 1999</period>
+<fullapps>12</fullapps>
+<subs>2</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>1999 - 2000</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Tottenham Hotspur</team>
+<period>1999 - 2000</period>
+<fullapps>23</fullapps>
+<subs>4</subs>
+<goals>8</goals>
+
+<yellowcards>10</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>2000 - 2001</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Tottenham Hotspur</team>
+<period>2000 - 2001</period>
+<fullapps>31</fullapps>
+<subs>2</subs>
+<goals>2</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Tottenham Hotspur</team>
+<period>2001 - 2002</period>
+<fullapps>15</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>2001 - 2002</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Portsmouth</team>
+<period>2002 - 2003</period>
+<fullapps>17</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Portsmouth</team>
+<period>2003 - 2004</period>
+<fullapps>7</fullapps>
+<subs>6</subs>
+<goals/>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Portsmouth</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Coventry City</team>
+<period>2004 - 2005</period>
+<fullapps>10</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="22548"><name>Gordon Cowans</name>
+
+<details>
+<country>ENG</country>
+<born>27 October 1958</born>
+<birthplace>Cornforth</birthplace>
+<weight>61 kg</weight>
+<height>1.70 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>England International 
+With Aston Villa, 1st Division Champion 1981, League Cup winner 1977, European Cup winner 1982. Had three spells at Aston Villa</description>
+
+<club_history>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="1988-07-01">01-07-1988</date_joined>
+<date_left unformated="1991-11-01">01-11-1991</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1975 - 1976</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coppa Principe Alberto</competition>
+<team>England</team>
+<period>1976 - 1977</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1976 - 1977</period>
+<fullapps>16</fullapps>
+<subs>3</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1976 - 1977</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Cup</competition>
+<team>Aston Villa</team>
+<period>1976 - 1977</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1977 - 1978</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Aston Villa</team>
+<period>1977 - 1978</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Cup</competition>
+<team>Aston Villa</team>
+<period>1977 - 1978</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1977 - 1978</period>
+<fullapps>30</fullapps>
+<subs>5</subs>
+<goals>7</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1978 - 1979</period>
+<fullapps>34</fullapps>
+<subs>0</subs>
+<goals>4</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1978 - 1979</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Cup</competition>
+<team>Aston Villa</team>
+<period>1978 - 1979</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>England</team>
+<period>1978 - 1979</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>1979 - 1980</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1979 - 1980</period>
+<fullapps>42</fullapps>
+<subs>0</subs>
+<goals>6</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Cup</competition>
+<team>Aston Villa</team>
+<period>1979 - 1980</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1979 - 1980</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1980 - 1981</period>
+<fullapps>42</fullapps>
+<subs>0</subs>
+<goals>5</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1980 - 1981</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>1980 - 1981</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Cup</competition>
+<team>Aston Villa</team>
+<period>1980 - 1981</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>England</team>
+<period>1980 - 1981</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Cup</competition>
+<team>Aston Villa</team>
+<period>1981 - 1982</period>
+<fullapps>9</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Milk Cup</competition>
+<team>Aston Villa</team>
+<period>1981 - 1982</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>4</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1981 - 1982</period>
+<fullapps>42</fullapps>
+<subs>0</subs>
+<goals>6</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1981 - 1982</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>World Club Championship</competition>
+<team>Aston Villa</team>
+<period>1982 - 1983</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>British Championships</competition>
+<team>England</team>
+<period>1982 - 1983</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Milk Cup</competition>
+<team>Aston Villa</team>
+<period>1982 - 1983</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>England</team>
+<period>1982 - 1983</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Cup</competition>
+<team>Aston Villa</team>
+<period>1982 - 1983</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>England</team>
+<period>1982 - 1983</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1982 - 1983</period>
+<fullapps>42</fullapps>
+<subs>0</subs>
+<goals>10</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Super Cup</competition>
+<team>Aston Villa</team>
+<period>1982 - 1983</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1982 - 1983</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Milk Cup</competition>
+<team>Aston Villa</team>
+<period>1984 - 1985</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1984 - 1985</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1984 - 1985</period>
+<fullapps>29</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>England</team>
+<period>1985 - 1986</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1988 - 1989</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1988 - 1989</period>
+<fullapps>32</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Littlewoods Cup</competition>
+<team>Aston Villa</team>
+<period>1988 - 1989</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1989 - 1990</period>
+<fullapps>34</fullapps>
+<subs>0</subs>
+<goals>4</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1989 - 1990</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>B Inter</competition>
+<team>England</team>
+<period>1989 - 1990</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Littlewoods Cup</competition>
+<team>Aston Villa</team>
+<period>1989 - 1990</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1990 - 1991</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1990 - 1991</period>
+<fullapps>38</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Rumbelows League Cup</competition>
+<team>Aston Villa</team>
+<period>1990 - 1991</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Aston Villa</team>
+<period>1990 - 1991</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>England</team>
+<period>1990 - 1991</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1991 - 1992</period>
+<fullapps>10</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Rumbelows League Cup</competition>
+<team>Aston Villa</team>
+<period>1991 - 1992</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1992 - 1993</period>
+<fullapps>23</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Derby County</team>
+<period>1993 - 1994</period>
+<fullapps>19</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1993 - 1994</period>
+<fullapps>9</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1 Play-Offs</competition>
+<team>Derby County</team>
+<period>1993 - 1994</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Aston Villa</team>
+<period>1993 - 1994</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Aston Villa</team>
+<period>1993 - 1994</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Derby County</team>
+<period>1994 - 1995</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Derby County</team>
+<period>1994 - 1995</period>
+<fullapps>17</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

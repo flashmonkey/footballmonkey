@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="7898"><name>Stephen Cooke</name>
+
+<details>
+<country>ENG</country>
+<born>15 February 1983</born>
+<birthplace>Walsall</birthplace>
+<weight>62 kg</weight>
+<height>1.70 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Having developed through the ranks at Aston Villa, Stephen stepped up to make his bow in senior football when he came off the subs' bench to replace Julian Joachim for the final 15 minutes of the Inter Toto Semi-Final second leg against Celta Vigo.
+A talented midfield player, he spent the remainder of the campaign developing in the club's junior teams.
+He was a regular for England Under-17s, winning six caps during the 2000-01 season.
+After earlier loan spells, Stephen joined AFC Bournemouth in July 2005 with a two-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="2000-02-22">22-02-2000</date_joined>
+<date_left unformated="2005-06-30">30-06-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>AFC Bournemouth</club>
+<date_joined unformated="2002-03-08">08-03-2002</date_joined>
+<date_left unformated="2002-04-08">08-04-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>AFC Bournemouth</club>
+<date_joined unformated="2004-01-06">06-01-2004</date_joined>
+<date_left unformated="2004-02-02">02-02-2004</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Wycombe Wanderers</club>
+<date_joined unformated="2004-12-10">10-12-2004</date_joined>
+<date_left unformated="2005-01-10">10-01-2005</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>AFC Bournemouth</club>
+<date_joined unformated="2005-07-04">04-07-2005</date_joined>
+<date_left unformated="2007-06-30">30-06-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Torquay United</club>
+<date_joined unformated="2007-01-16">16-01-2007</date_joined>
+<date_left unformated="2007-05-31">31-05-2007</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Halesowen Town</club>
+<date_joined unformated="2007-08-03">03-08-2007</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Intertoto Cup</competition>
+<team>Aston Villa</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 19</competition>
+<team>England</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>AFC Bournemouth</team>
+<period>2001 - 2002</period>
+<fullapps>6</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 19</competition>
+<team>England</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 19</competition>
+<team>England</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 20</competition>
+<team>England</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>AFC Bournemouth</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 20</competition>
+<team>England</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Wycombe Wanderers</team>
+<period>2004 - 2005</period>
+<fullapps>4</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>AFC Bournemouth</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>AFC Bournemouth</team>
+<period>2005 - 2006</period>
+<fullapps>18</fullapps>
+<subs>13</subs>
+<goals>2</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>AFC Bournemouth</team>
+<period>2005 - 2006</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>AFC Bournemouth</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Torquay United</team>
+<period>2006 - 2007</period>
+<fullapps>9</fullapps>
+<subs>4</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>AFC Bournemouth</team>
+<period>2006 - 2007</period>
+<fullapps>6</fullapps>
+<subs>4</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>AFC Bournemouth</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

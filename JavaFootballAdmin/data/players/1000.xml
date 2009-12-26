@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="1000"><name>Ferdinand Coly</name>
+
+<details>
+<country>SEN</country>
+<born>10 September 1973</born>
+<birthplace>Dakar</birthplace>
+<weight>81 kg</weight>
+<height>1.79 m</height>
+<position>Defender</position>
+
+</details>
+
+<description>Born in Senegal but raised in France, Ferdinand began his career in the French Third Division playing for Poitiers. His performances earned him a contract at Chataeroux in the French First Division at the start of the 1997-98 season. After two successful seasons he moved to Lens in the 1999 close season and has been instrumental in their title challenge. 
+ An experienced central defender, Ferdinand made a major impact after becoming a regular in the Senegal squad under new coach Bruno Metsu. Strong in the air and quick in the tackle, he was a key figure in a back line that conceded just two goals in what was the strongest of the African qualifying groups for the 2002 World Cup Finals. He played exceptionally well in the African Nations� Cup Finals when used as an emergency right back.</description>
+
+<club_history>
+
+<period>
+<club>Poitiers</club>
+<date_joined unformated="1994-07-01">01-07-1994</date_joined>
+<date_left unformated="1996-07-01">01-07-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Chateauroux</club>
+<date_joined unformated="1996-07-01">01-07-1996</date_joined>
+<date_left unformated="1999-07-01">01-07-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>RC Lens</club>
+<date_joined unformated="1999-07-01">01-07-1999</date_joined>
+<date_left unformated="2003-07-01">01-07-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2003-01-01">01-01-2003</date_joined>
+<date_left unformated="2003-02-04">04-02-2003</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Perugia</club>
+<date_joined unformated="2003-07-01">01-07-2003</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Senegal</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>RC Lens</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>RC Lens</team>
+<period>2000 - 2001</period>
+<fullapps>22</fullapps>
+<subs>6</subs>
+<goals>1</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Senegal</team>
+<period>2000 - 2001</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Senegal</team>
+<period>2001 - 2002</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Senegal</team>
+<period>2001 - 2002</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Senegal</team>
+<period>2001 - 2002</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>RC Lens</team>
+<period>2001 - 2002</period>
+<fullapps>26</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Joola Disaster Charity Match</competition>
+<team>Senegal</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Senegal</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>RC Lens</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Senegal</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>RC Lens</team>
+<period>2002 - 2003</period>
+<fullapps>7</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Senegal</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Senegal</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Serie A</competition>
+<team>Perugia</team>
+<period>2003 - 2004</period>
+<fullapps>8</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Senegal</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Senegal</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Senegal</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Senegal</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Senegal</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

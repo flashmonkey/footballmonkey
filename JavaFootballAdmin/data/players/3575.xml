@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="3575"><name>Lee Makel</name>
+
+<details>
+<country>ENG</country>
+<born>11 January 1973</born>
+<birthplace>Sunderland</birthplace>
+<weight>72 kg</weight>
+<height>1.80 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>iven his chance as a 17 year-old by Ossie Ardiles, the revolution under Kevin Keegan led Lee's long career by sought away from the confines of Tyneside. Lee joined Plymouth Argyle in July 2004 with a two-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Newcastle United</club>
+<date_joined unformated="1991-02-11">11-02-1991</date_joined>
+<date_left unformated="1992-07-20">20-07-1992</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1992-07-20">20-07-1992</date_joined>
+<date_left unformated="1995-10-13">13-10-1995</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Huddersfield Town</club>
+<date_joined unformated="1995-10-13">13-10-1995</date_joined>
+<date_left unformated="1998-03-13">13-03-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Heart of Midlothian</club>
+<date_joined unformated="1998-03-13">13-03-1998</date_joined>
+<date_left unformated="2001-06-30">30-06-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Portsmouth</club>
+<date_joined unformated="1999-12-02">02-12-1999</date_joined>
+<date_left unformated="1999-12-31">31-12-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bradford City</club>
+<date_joined unformated="2001-08-30">30-08-2001</date_joined>
+<date_left unformated="2001-12-28">28-12-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Livingston</club>
+<date_joined unformated="2001-12-29">29-12-2001</date_joined>
+<date_left unformated="2004-06-30">30-06-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Plymouth Argyle</club>
+<date_joined unformated="2004-07-01">01-07-2004</date_joined>
+<date_left unformated="2004-12-31">31-12-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Dunfermline Athletic</club>
+<date_joined unformated="2004-12-31">31-12-2004</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>League Division Two</competition>
+<team>Newcastle United</team>
+<period>1990 - 1991</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Rumbelows League Cup</competition>
+<team>Newcastle United</team>
+<period>1991 - 1992</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division Two</competition>
+<team>Newcastle United</team>
+<period>1991 - 1992</period>
+<fullapps>5</fullapps>
+<subs>4</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1992 - 1993</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1993 - 1994</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1995 - 1996</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Huddersfield Town</team>
+<period>1997 - 1998</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Heart of Midlothian</team>
+<period>1999 - 2000</period>
+<fullapps>11</fullapps>
+<subs>6</subs>
+<goals/>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish League Cup</competition>
+<team>Heart of Midlothian</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish League Cup</competition>
+<team>Heart of Midlothian</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish FA Cup</competition>
+<team>Heart of Midlothian</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Heart of Midlothian</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Heart of Midlothian</team>
+<period>2000 - 2001</period>
+<fullapps>10</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Livingston</team>
+<period>2001 - 2002</period>
+<fullapps>9</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Bradford City</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>11</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bradford City</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Livingston</team>
+<period>2002 - 2003</period>
+<fullapps>17</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Livingston</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish League Cup</competition>
+<team>Livingston</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Dunfermline Athletic</team>
+<period>2004 - 2005</period>
+<fullapps>11</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Plymouth Argyle</team>
+<period>2004 - 2005</period>
+<fullapps>13</fullapps>
+<subs>6</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

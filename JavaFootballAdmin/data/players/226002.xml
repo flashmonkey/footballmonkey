@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="226002"><name>Fran Merida Perez</name>
+
+<details>
+<country>ESP</country>
+<born>04 March 1990</born>
+<birthplace>Barcelona</birthplace>
+<weight>83 kg</weight>
+<height>1.80 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Barcelona</club>
+<date_joined unformated="2004-07-01">01-07-2004</date_joined>
+<date_left unformated="2006-06-30">30-06-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="2006-07-01">01-07-2006</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Real Sociedad</club>
+<date_joined unformated="2008-01-18">18-01-2008</date_joined>
+<date_left unformated="2008-05-31">31-05-2008</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Arsenal</team>
+<period>2007 - 2008</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 19</competition>
+<team>Spain</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Arsenal</team>
+<period>2008 - 2009</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>2009 - 2010</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Arsenal</team>
+<period>2009 - 2010</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2009 - 2010</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

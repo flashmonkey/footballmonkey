@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="7466"><name>Bernard Mendy</name>
+
+<details>
+<country>FRA</country>
+<born>20 August 1981</born>
+<birthplace>Evreux</birthplace>
+<weight>76 kg</weight>
+<height>1.78 m</height>
+<position>Defender</position>
+
+</details>
+
+<description>Bernard joined Hull City in July 2008 with a three-year contract.</description>
+
+<club_history>
+
+<period>
+<club>SM Caen</club>
+<date_joined unformated="1998-07-01">01-07-1998</date_joined>
+<date_left unformated="2000-07-01">01-07-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Paris St Germain</club>
+<date_joined unformated="2000-07-01">01-07-2000</date_joined>
+<date_left unformated="2008-06-30">30-06-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2002-07-16">16-07-2002</date_joined>
+<date_left unformated="2003-05-31">31-05-2003</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Hull City</club>
+<date_joined unformated="2008-07-11">11-07-2008</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Under 18</competition>
+<team>France</team>
+<period>1999 - 2000</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 18</competition>
+<team>France</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Under 18</competition>
+<team>France</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Paris St Germain</team>
+<period>2000 - 2001</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>World Youth Cup Under 20</competition>
+<team>France</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Toulon Under 21</competition>
+<team>France</team>
+<period>2000 - 2001</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Paris St Germain</team>
+<period>2000 - 2001</period>
+<fullapps>15</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>World Youth Cup</competition>
+<team>France</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>France</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Paris St Germain</team>
+<period>2001 - 2002</period>
+<fullapps>5</fullapps>
+<subs>16</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>World Youth Cup</competition>
+<team>France</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Paris St Germain</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Under 20</competition>
+<team>France</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>France</team>
+<period>2002 - 2003</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>France</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2002 - 2003</period>
+<fullapps>20</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Paris St Germain</team>
+<period>2003 - 2004</period>
+<fullapps>31</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>12</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>France</team>
+<period>2003 - 2004</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FIFA Centenary International</competition>
+<team>France</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Paris St Germain</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>France</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Paris St Germain</team>
+<period>2004 - 2005</period>
+<fullapps>26</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>8</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>France</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Paris St Germain</team>
+<period>2005 - 2006</period>
+<fullapps>32</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Hull City</team>
+<period>2008 - 2009</period>
+<fullapps>2</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Hull City</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Hull City</team>
+<period>2008 - 2009</period>
+<fullapps>15</fullapps>
+<subs>13</subs>
+<goals>2</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Hull City</team>
+<period>2009 - 2010</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Hull City</team>
+<period>2009 - 2010</period>
+<fullapps>5</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+</player_stats>
+
+</player>

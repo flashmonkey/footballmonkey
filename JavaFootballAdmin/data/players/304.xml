@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="304"><name>Dwight Yorke</name>
+
+<details>
+<country>TRI</country>
+<born>03 November 1971</born>
+<birthplace>Canaan</birthplace>
+<weight>78 kg</weight>
+<height>1.78 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>Dwight was spotted by Aston Villa while still playing for Signal Hill Senior Comprehensive School in Tobago.
+Signed by Manchester United for �12.6m in 1998, he was an instant success, dovetailing brilliantly with Andy Cole and sensational in the 'Treble' side. He left after Ruud Van Nistelrooy's arrival.
+Dwight was made available for transfer by Blackburn Rovers in May 2004 and joined Birmingham City in August 2004 with a one-year contract before moving to Australia in July 2005 to join Sydney FC of the new A-League with a two-year contract.
+Dwight joined Sunderland in August 2006 in a two-year deal that was extended to June 2009 in July 2008.</description>
+
+<club_history>
+
+<period>
+<club>Signal Hill</club>
+<date_joined unformated="1989-07-01">01-07-1989</date_joined>
+<date_left unformated="1989-12-19">19-12-1989</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="1989-12-19">19-12-1989</date_joined>
+<date_left unformated="1998-08-22">22-08-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Manchester United</club>
+<date_joined unformated="1998-08-22">22-08-1998</date_joined>
+<date_left unformated="2002-07-26">26-07-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="2002-07-26">26-07-2002</date_joined>
+<date_left unformated="2004-08-31">31-08-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2004-08-31">31-08-2004</date_joined>
+<date_left unformated="2005-04-25">25-04-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Sydney FC</club>
+<date_joined unformated="2005-07-01">01-07-2005</date_joined>
+<date_left unformated="2006-08-31">31-08-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Sunderland</club>
+<date_joined unformated="2006-08-31">31-08-2006</date_joined>
+<date_left unformated="2009-06-30">30-06-2009</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>SOCCER BOWL</competition>
+<team>Trinidad and Tobago</team>
+<period>1988 - 1989</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>1988 - 1989</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1989 - 1990</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>1989 - 1990</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1990 - 1991</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Olympics</competition>
+<team>Trinidad and Tobago</team>
+<period>1990 - 1991</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1990 - 1991</period>
+<fullapps>8</fullapps>
+<subs>10</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>World Youth Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>1990 - 1991</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Rumbelows League Cup</competition>
+<team>Aston Villa</team>
+<period>1990 - 1991</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1991 - 1992</period>
+<fullapps>27</fullapps>
+<subs>5</subs>
+<goals>11</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1991 - 1992</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>5</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Rumbelows League Cup</competition>
+<team>Aston Villa</team>
+<period>1991 - 1992</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>1991 - 1992</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>1992 - 1993</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1992 - 1993</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Aston Villa</team>
+<period>1992 - 1993</period>
+<fullapps>2</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1992 - 1993</period>
+<fullapps>22</fullapps>
+<subs>5</subs>
+<goals>6</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1993 - 1994</period>
+<fullapps>2</fullapps>
+<subs>10</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1993 - 1994</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Trinidad and Tobago</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Aston Villa</team>
+<period>1994 - 1995</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1994 - 1995</period>
+<fullapps>33</fullapps>
+<subs>4</subs>
+<goals>6</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1994 - 1995</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Gold Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1995 - 1996</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Aston Villa</team>
+<period>1995 - 1996</period>
+<fullapps>8</fullapps>
+<subs>0</subs>
+<goals>6</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1995 - 1996</period>
+<fullapps>35</fullapps>
+<subs>0</subs>
+<goals>17</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Aston Villa</team>
+<period>1996 - 1997</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1996 - 1997</period>
+<fullapps>37</fullapps>
+<subs>0</subs>
+<goals>17</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1996 - 1997</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>1996 - 1997</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Aston Villa</team>
+<period>1996 - 1997</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1997 - 1998</period>
+<fullapps>30</fullapps>
+<subs>0</subs>
+<goals>12</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Aston Villa</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Caribbean All-Star XI</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Aston Villa</team>
+<period>1997 - 1998</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1997 - 1998</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Trinidad and Tobago</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Manchester United</team>
+<period>1998 - 1999</period>
+<fullapps>11</fullapps>
+<subs>0</subs>
+<goals>8</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Manchester United</team>
+<period>1998 - 1999</period>
+<fullapps>32</fullapps>
+<subs>0</subs>
+<goals>18</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Manchester United</team>
+<period>1998 - 1999</period>
+<fullapps>5</fullapps>
+<subs>3</subs>
+<goals>3</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Manchester United</team>
+<period>1999 - 2000</period>
+<fullapps>9</fullapps>
+<subs>2</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Gold Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Manchester United</team>
+<period>1999 - 2000</period>
+<fullapps>29</fullapps>
+<subs>3</subs>
+<goals>20</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Charity Shield</competition>
+<team>Manchester United</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>World Club Championship</competition>
+<team>Manchester United</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA Club World Championship</competition>
+<team>Manchester United</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Manchester United</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Manchester United</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>2000 - 2001</period>
+<fullapps>9</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Charity Shield</competition>
+<team>Manchester United</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Trinidad and Tobago</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Manchester United</team>
+<period>2000 - 2001</period>
+<fullapps>7</fullapps>
+<subs>4</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Manchester United</team>
+<period>2000 - 2001</period>
+<fullapps>15</fullapps>
+<subs>7</subs>
+<goals>9</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Charity Shield</competition>
+<team>Manchester United</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Manchester United</team>
+<period>2001 - 2002</period>
+<fullapps>4</fullapps>
+<subs>6</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Manchester United</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Manchester United</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Manchester United</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2002 - 2003</period>
+<fullapps>25</fullapps>
+<subs>8</subs>
+<goals>8</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2002 - 2003</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2003 - 2004</period>
+<fullapps>15</fullapps>
+<subs>8</subs>
+<goals>4</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>CARIBBEAN TOUR</competition>
+<team>Trinidad and Tobago</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>2004 - 2005</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Birmingham City</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2004 - 2005</period>
+<fullapps>4</fullapps>
+<subs>9</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>2004 - 2005</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Trinidad and Tobago</team>
+<period>2005 - 2006</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>2005 - 2006</period>
+<fullapps>10</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Sunderland</team>
+<period>2006 - 2007</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Sunderland</team>
+<period>2006 - 2007</period>
+<fullapps>28</fullapps>
+<subs>4</subs>
+<goals>5</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Trinidad and Tobago</team>
+<period>2007 - 2008</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Sunderland</team>
+<period>2007 - 2008</period>
+<fullapps>17</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Sunderland</team>
+<period>2007 - 2008</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Sunderland</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Sunderland</team>
+<period>2008 - 2009</period>
+<fullapps>4</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="228316"><name>Mauro Zarate</name>
+
+<details>
+<country>ARG</country>
+<born>18 March 1987</born>
+<birthplace>Haedo</birthplace>
+
+<height>1.76 m</height>
+<position>Forward</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Velez Sarsfield</club>
+<date_joined unformated="2003-07-01">01-07-2003</date_joined>
+<date_left unformated="2007-06-18">18-06-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Al Sadd</club>
+<date_joined unformated="2007-06-18">18-06-2007</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2008-01-21">21-01-2008</date_joined>
+<date_left unformated="2008-05-31">31-05-2008</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2007 - 2008</period>
+<fullapps>6</fullapps>
+<subs>8</subs>
+<goals>4</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

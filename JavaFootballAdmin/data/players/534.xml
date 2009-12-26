@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="534"><name>Heidar Helguson</name>
+
+<details>
+<country>ISL</country>
+<born>22 August 1977</born>
+<birthplace>Akureyri</birthplace>
+<weight>77 kg</weight>
+<height>1.83 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>After enjoying a promising start with Watford in the Premiership, Heidar had a rather disappointing time in 2000-01.
+He missed the opening of the season with a shin injury, but was soon off the mark at home to Sheffield United and went on to find the net in four consecutive matches.
+However as the campaign progressed, he hit a frustrating goal drought which gradually eroded his confidence and eventually saw him relegated to the subs' bench.
+An all-action centre forward, he finished the campaign with eight goals.
+Heidar joined Bolton Wanderers in July 2007 with a three-year contract.
+After a loan spell, he joined Queens Park Rangers in January 2009 with a contract to June 2011.</description>
+
+<club_history>
+
+<period>
+<club>Trottur</club>
+<date_joined unformated="1996-04-01">01-04-1996</date_joined>
+<date_left unformated="1998-04-01">01-04-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Lillestrom</club>
+<date_joined unformated="1998-04-01">01-04-1998</date_joined>
+<date_left unformated="2000-01-13">13-01-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Watford</club>
+<date_joined unformated="2000-01-13">13-01-2000</date_joined>
+<date_left unformated="2005-06-27">27-06-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Fulham</club>
+<date_joined unformated="2005-06-27">27-06-2005</date_joined>
+<date_left unformated="2007-07-23">23-07-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2007-07-23">23-07-2007</date_joined>
+<date_left unformated="2009-01-02">02-01-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Queens Park Rangers</club>
+<date_joined unformated="2008-11-20">20-11-2008</date_joined>
+<date_left unformated="2009-01-01">01-01-2009</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Queens Park Rangers</club>
+<date_joined unformated="2009-01-02">02-01-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Watford</club>
+<date_joined unformated="2009-09-15">15-09-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>European Championship</competition>
+<team>Iceland</team>
+<period>1998 - 1999</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Iceland</team>
+<period>1998 - 1999</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Iceland</team>
+<period>1998 - 1999</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Nordic Championships</competition>
+<team>Iceland</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Watford</team>
+<period>1999 - 2000</period>
+<fullapps>14</fullapps>
+<subs>2</subs>
+<goals>6</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Iceland</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Iceland</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Watford</team>
+<period>2000 - 2001</period>
+<fullapps>23</fullapps>
+<subs>10</subs>
+<goals>8</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Iceland</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Watford</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Iceland</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Watford</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Watford</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>5</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Watford</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Watford</team>
+<period>2001 - 2002</period>
+<fullapps>11</fullapps>
+<subs>23</subs>
+<goals>6</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Iceland</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Iceland</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Watford</team>
+<period>2002 - 2003</period>
+<fullapps>28</fullapps>
+<subs>2</subs>
+<goals>11</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Iceland</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Watford</team>
+<period>2002 - 2003</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Watford</team>
+<period>2003 - 2004</period>
+<fullapps>20</fullapps>
+<subs>2</subs>
+<goals>8</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Summer Tournament</competition>
+<team>Iceland</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Watford</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Iceland</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Watford</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Iceland</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Iceland</team>
+<period>2004 - 2005</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Watford</team>
+<period>2004 - 2005</period>
+<fullapps>36</fullapps>
+<subs>3</subs>
+<goals>16</goals>
+
+<yellowcards>9</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Watford</team>
+<period>2004 - 2005</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Watford</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Fulham</team>
+<period>2005 - 2006</period>
+<fullapps>15</fullapps>
+<subs>12</subs>
+<goals>8</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Iceland</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Fulham</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Iceland</team>
+<period>2005 - 2006</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Fulham</team>
+<period>2006 - 2007</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Fulham</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Iceland</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Fulham</team>
+<period>2006 - 2007</period>
+<fullapps>16</fullapps>
+<subs>14</subs>
+<goals>4</goals>
+
+<yellowcards>8</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2007 - 2008</period>
+<fullapps>3</fullapps>
+<subs>3</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2007 - 2008</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Queens Park Rangers</team>
+<period>2008 - 2009</period>
+<fullapps>15</fullapps>
+<subs>5</subs>
+<goals>5</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Queens Park Rangers</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Iceland</team>
+<period>2008 - 2009</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Watford</team>
+<period>2009 - 2010</period>
+<fullapps>5</fullapps>
+<subs>2</subs>
+<goals>5</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Queens Park Rangers</team>
+<period>2009 - 2010</period>
+<fullapps>3</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

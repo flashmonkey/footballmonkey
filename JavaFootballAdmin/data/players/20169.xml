@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="20169"><name>Joe Hart</name>
+
+<details>
+<country>ENG</country>
+<born>19 April 1987</born>
+<birthplace>Shrewsbury</birthplace>
+<weight>83 kg</weight>
+<height>1.91 m</height>
+<position>Goalkeeper</position>
+
+</details>
+
+<description>Joe joined Manchester City in May 2006 with a four-year contract that was extended to June 2013 in October 2008.</description>
+
+<club_history>
+
+<period>
+<club>Shrewsbury Town</club>
+<date_joined unformated="2004-08-10">10-08-2004</date_joined>
+<date_left unformated="2006-05-23">23-05-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Manchester City</club>
+<date_joined unformated="2006-05-23">23-05-2006</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Tranmere Rovers</club>
+<date_joined unformated="2007-01-01">01-01-2007</date_joined>
+<date_left unformated="2007-01-31">31-01-2007</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Blackpool</club>
+<date_joined unformated="2007-04-08">08-04-2007</date_joined>
+<date_left unformated="2007-05-31">31-05-2007</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2009-06-24">24-06-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>League Two</competition>
+<team>Shrewsbury Town</team>
+<period>2004 - 2005</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Shrewsbury Town</team>
+<period>2005 - 2006</period>
+<fullapps>46</fullapps>
+<subs>0</subs>
+
+<cleansheets>11</cleansheets>
+<goalsconceded>54</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Shrewsbury Town</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Shrewsbury Town</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Blackpool</team>
+<period>2006 - 2007</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>6</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Tranmere Rovers</team>
+<period>2006 - 2007</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>7</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Manchester City</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>England</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>England</team>
+<period>2007 - 2008</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Manchester City</team>
+<period>2007 - 2008</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Manchester City</team>
+<period>2007 - 2008</period>
+<fullapps>26</fullapps>
+<subs>0</subs>
+
+<cleansheets>4</cleansheets>
+<goalsconceded>32</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>England</team>
+<period>2007 - 2008</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+
+<cleansheets/>
+<goalsconceded/>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Manchester City</team>
+<period>2007 - 2008</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>2007 - 2008</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+
+<cleansheets>7</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Manchester City</team>
+<period>2008 - 2009</period>
+<fullapps>23</fullapps>
+<subs>0</subs>
+
+<cleansheets>6</cleansheets>
+<goalsconceded>30</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Manchester City</team>
+<period>2008 - 2009</period>
+<fullapps>9</fullapps>
+<subs>0</subs>
+
+<cleansheets>4</cleansheets>
+<goalsconceded>5</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Manchester City</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>2008 - 2009</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>8</goalsconceded>
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>England</team>
+<period>2008 - 2009</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2009 - 2010</period>
+<fullapps>16</fullapps>
+<subs>0</subs>
+
+<cleansheets>6</cleansheets>
+<goalsconceded>16</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

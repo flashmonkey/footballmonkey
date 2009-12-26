@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="1555"><name>Stern John</name>
+
+<details>
+<country>TRI</country>
+<born>30 October 1976</born>
+<birthplace>Cane Farm</birthplace>
+<weight>83 kg</weight>
+<height>1.80 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>Since making his international debut in November 1995, Stern has become Trinidad &amp; Tobago's record goalscorer and was approaching 100 caps as the World Cup finals drew near in 2006.
+ Stern joined Coventry City in September 2004 with a contract to June 2007.
+He joined Sunderland in January 2007 with a contract to June 2009.
+Stern joined Southampton in August 2007 in an exchange deal involving Kenwyne Jones.
+He joined Crystal Palace in July 2009 with a one-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Columbus Crew</club>
+<date_joined unformated="1998-02-26">26-02-1998</date_joined>
+<date_left unformated="1999-11-22">22-11-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Nottingham Forest</club>
+<date_joined unformated="1999-11-22">22-11-1999</date_joined>
+<date_left unformated="2002-02-08">08-02-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2002-02-08">08-02-2002</date_joined>
+<date_left unformated="2004-09-14">14-09-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Coventry City</club>
+<date_joined unformated="2004-09-14">14-09-2004</date_joined>
+<date_left unformated="2007-01-29">29-01-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Derby County</club>
+<date_joined unformated="2005-09-16">16-09-2005</date_joined>
+<date_left unformated="2005-12-16">16-12-2005</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Sunderland</club>
+<date_joined unformated="2007-01-29">29-01-2007</date_joined>
+<date_left unformated="2007-08-29">29-08-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Southampton</club>
+<date_joined unformated="2007-07-29">29-07-2007</date_joined>
+<date_left unformated="2009-06-30">30-06-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bristol City</club>
+<date_joined unformated="2008-10-24">24-10-2008</date_joined>
+<date_left unformated="2009-05-31">31-05-2009</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Crystal Palace</club>
+<date_joined unformated="2009-07-30">30-07-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Ipswich Town</club>
+<date_joined unformated="2009-11-26">26-11-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Trinidad and Tobago</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Olympics</competition>
+<team>Trinidad and Tobago</team>
+<period>1995 - 1996</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>1996 - 1997</period>
+<fullapps>2</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Gold Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>1997 - 1998</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Shell Caribbean Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>1998 - 1999</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>11</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Trinidad and Tobago</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Nottingham Forest</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Trinidad and Tobago</team>
+<period>1999 - 2000</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Nottingham Forest</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Trinidad and Tobago</team>
+<period>2000 - 2001</period>
+<fullapps>4</fullapps>
+<subs>2</subs>
+<goals>6</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Nottingham Forest</team>
+<period>2000 - 2001</period>
+<fullapps>16</fullapps>
+<subs>13</subs>
+<goals>2</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Nottingham Forest</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>2000 - 2001</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Shell Caribbean Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>2000 - 2001</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1 Play-Offs</competition>
+<team>Birmingham City</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Birmingham City</team>
+<period>2001 - 2002</period>
+<fullapps>15</fullapps>
+<subs>0</subs>
+<goals>7</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Nottingham Forest</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>2001 - 2002</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Nottingham Forest</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Gold Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Nottingham Forest</team>
+<period>2001 - 2002</period>
+<fullapps>20</fullapps>
+<subs>6</subs>
+<goals>13</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Trinidad and Tobago</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2002 - 2003</period>
+<fullapps>20</fullapps>
+<subs>10</subs>
+<goals>5</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Gold Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Birmingham City</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>CARIBBEAN TOUR</competition>
+<team>Trinidad and Tobago</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2003 - 2004</period>
+<fullapps>7</fullapps>
+<subs>22</subs>
+<goals>4</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Trinidad and Tobago</team>
+<period>2003 - 2004</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>6</goals>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Birmingham City</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Trinidad and Tobago</team>
+<period>2004 - 2005</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Coventry City</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Coventry City</team>
+<period>2004 - 2005</period>
+<fullapps>25</fullapps>
+<subs>5</subs>
+<goals>11</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2004 - 2005</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>2004 - 2005</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Coventry City</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Derby County</team>
+<period>2005 - 2006</period>
+<fullapps>6</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>2005 - 2006</period>
+<fullapps>10</fullapps>
+<subs>0</subs>
+<goals>4</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Coventry City</team>
+<period>2005 - 2006</period>
+<fullapps>21</fullapps>
+<subs>4</subs>
+<goals>10</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Gold Cup</competition>
+<team>Trinidad and Tobago</team>
+<period>2005 - 2006</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Coventry City</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Trinidad and Tobago</team>
+<period>2005 - 2006</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Coventry City</team>
+<period>2005 - 2006</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Coventry City</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Coventry City</team>
+<period>2006 - 2007</period>
+<fullapps>19</fullapps>
+<subs>4</subs>
+<goals>5</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Sunderland</team>
+<period>2006 - 2007</period>
+<fullapps>10</fullapps>
+<subs>5</subs>
+<goals>4</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Coventry City</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Southampton</team>
+<period>2007 - 2008</period>
+<fullapps>35</fullapps>
+<subs>5</subs>
+<goals>19</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Southampton</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Sunderland</team>
+<period>2007 - 2008</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Trinidad and Tobago</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bristol City</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Bristol City</team>
+<period>2008 - 2009</period>
+<fullapps>13</fullapps>
+<subs>11</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Southampton</team>
+<period>2008 - 2009</period>
+<fullapps>4</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Southampton</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Ipswich Town</team>
+<period>2009 - 2010</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Crystal Palace</team>
+<period>2009 - 2010</period>
+<fullapps>2</fullapps>
+<subs>5</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

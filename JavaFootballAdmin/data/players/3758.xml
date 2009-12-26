@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="3758"><name>Bissan Lauren</name>
+
+<details>
+<country>CMR</country>
+<born>19 January 1977</born>
+<birthplace>Londi Kribi</birthplace>
+<weight>71 kg</weight>
+<height>1.83 m</height>
+<position>Defender/Midfielder</position>
+
+</details>
+
+<description>A forceful defender, Lauren joined Arsenal shortly after being named Player of the Tournament when Cameroon won the African Nations Cup in 2000. 
+After helping Cameroon to victory in the African Nations Cup, Lauren was named 'Player of the Tournament', and subsequently joined Arsenal.
+He then went on to star for his country in the Sydney Olympics, scoring one of the goals in the penalty shoot-out that saw the team win their country's first-ever gold medals by defeating Spain in the final.
+Finally, he was named as runner-up in the 'African Footballer of the Year' award.
+He also scored on his first start for Arsenal in the Premiership, and has on to feature regularly for the Gunners in their 2001-02 Double success.
+Lauren is a skilful, resilient player equally comfortable in the centre or on the right of midfield.
+Also employed at right back, he is a tough tackler with the creative ability to start attacking moves.
+Although born in Cameroon, he moved with his family to Spain when he was a three-year old.
+He therefore qualified to play for Spain, but chose Cameroon just before the 1998 World Cup finals and made a brief substitute appearance in France '98.
+He began his career with Seville, playing for their B team in the Spanish Third Division.
+Lauren moved up to the Second Division with Levante before progressing to the Primera Liga with Real Mallorca in 1998.
+Arsenal secured his signature in a �7.2million deal and his Gunners contract was extended to June 2007 in January 2005.
+Lauren joined Portsmouth in January 2007 with a contract to June 2009.</description>
+
+<club_history>
+
+<period>
+<club>Utrera</club>
+<date_joined unformated="1995-07-01">01-07-1995</date_joined>
+<date_left unformated="1996-07-01">01-07-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Sevilla B</club>
+<date_joined unformated="1996-07-01">01-07-1996</date_joined>
+<date_left unformated="1997-07-01">01-07-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Levante</club>
+<date_joined unformated="1997-07-01">01-07-1997</date_joined>
+<date_left unformated="1998-07-01">01-07-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Real Mallorca</club>
+<date_joined unformated="1998-07-01">01-07-1998</date_joined>
+<date_left unformated="2000-06-16">16-06-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="2000-06-16">16-06-2000</date_joined>
+<date_left unformated="2007-01-18">18-01-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Portsmouth</club>
+<date_joined unformated="2007-01-18">18-01-2007</date_joined>
+<date_left unformated="2009-06-30">30-06-2009</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Cameroon</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Cameroon</team>
+<period>1999 - 2000</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Cameroon</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2000 - 2001</period>
+<fullapps>15</fullapps>
+<subs>3</subs>
+<goals>2</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Olympics</competition>
+<team>Cameroon</team>
+<period>2000 - 2001</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>2000 - 2001</period>
+<fullapps>6</fullapps>
+<subs>5</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>2000 - 2001</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>2001 - 2002</period>
+<fullapps>11</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Cameroon</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2001 - 2002</period>
+<fullapps>27</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>8</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Cameroon</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Cameroon</team>
+<period>2001 - 2002</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>2002 - 2003</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>2002 - 2003</period>
+<fullapps>9</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2002 - 2003</period>
+<fullapps>26</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Community Shield</competition>
+<team>Arsenal</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2003 - 2004</period>
+<fullapps>30</fullapps>
+<subs>2</subs>
+<goals>0</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Community Shield</competition>
+<team>Arsenal</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>2003 - 2004</period>
+<fullapps>8</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Arsenal</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>2003 - 2004</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>2004 - 2005</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>2004 - 2005</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2004 - 2005</period>
+<fullapps>32</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Community Shield</competition>
+<team>Arsenal</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Community Shield</competition>
+<team>Arsenal</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>2005 - 2006</period>
+<fullapps>5</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Arsenal</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2005 - 2006</period>
+<fullapps>22</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Portsmouth</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Portsmouth</team>
+<period>2006 - 2007</period>
+<fullapps>9</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Portsmouth</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Portsmouth</team>
+<period>2007 - 2008</period>
+<fullapps>11</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Portsmouth</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Community Shield</competition>
+<team>Portsmouth</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

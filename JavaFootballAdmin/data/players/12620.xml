@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="12620"><name>Marcus Allback</name>
+
+<details>
+<country>SWE</country>
+<born>05 July 1973</born>
+<birthplace>Gothenburg</birthplace>
+<weight>78 kg</weight>
+<height>1.83 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>A striker who is deadly inside the penalty box, Marcus made his name in the Allsvenskan league with Orgryte making his debut in 1992, before he had brief and rather unsuccessful spells abroad with Lyngby and Bari in 1998.
+Marcus subsequently returned to Orgryte where he finished the 1999 season as the country's leading domestic scorer and also shot the team to victory in the Swedish Cup final in May 2000.
+Marcus won his first cap for Sweden in South Africa in November 1999, but although he made the squad for the European Championship finals in 2000, he failed to make an appearance. However he established himself as a regular partner for Henrik Larsson during the Swedes campaign to qualify for the 2002 World Cup finals.
+He moved to the Netherlands, joining Heerenveen in 2000 where he continued to find the net on a regular basis to earn his move to the Premiership with Aston Villa.
+Marcus scored Sweden's first goal in the 2-2 draw with England in Group B of the 2006 World Cup finals.</description>
+
+<club_history>
+
+<period>
+<club>Orgryte</club>
+<date_joined unformated="1992-04-01">01-04-1992</date_joined>
+<date_left unformated="1997-12-31">31-12-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Lyngby</club>
+<date_joined unformated="1997-10-01">01-10-1997</date_joined>
+<date_left unformated="1998-01-01">01-01-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bari</club>
+<date_joined unformated="1998-01-01">01-01-1998</date_joined>
+<date_left unformated="1998-06-30">30-06-1998</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Orgryte</club>
+<date_joined unformated="1998-07-01">01-07-1998</date_joined>
+<date_left unformated="2001-06-30">30-06-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Heerenveen</club>
+<date_joined unformated="2001-07-01">01-07-2001</date_joined>
+<date_left unformated="2002-06-30">30-06-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="2002-07-01">01-07-2002</date_joined>
+<date_left unformated="2004-08-27">27-08-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hansa Rostock</club>
+<date_joined unformated="2004-08-28">28-08-2004</date_joined>
+<date_left unformated="2005-06-30">30-06-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>FC Kobenhavn</club>
+<date_joined unformated="2005-07-01">01-07-2005</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>International</competition>
+<team>Sweden</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Nordic Championships</competition>
+<team>Sweden</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Nordic Championships</competition>
+<team>Sweden</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Sweden</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Dutch KPN Telecompetitie</competition>
+<team>Heerenveen</team>
+<period>2000 - 2001</period>
+<fullapps>16</fullapps>
+<subs>0</subs>
+<goals>10</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Orgryte</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Sweden</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals>5</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Sweden</team>
+<period>2001 - 2002</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Sweden</team>
+<period>2001 - 2002</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Dutch KPN Telecompetitie</competition>
+<team>Heerenveen</team>
+<period>2001 - 2002</period>
+<fullapps>17</fullapps>
+<subs>0</subs>
+<goals>11</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Intertoto Cup</competition>
+<team>Aston Villa</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Sweden</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Aston Villa</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Sweden</team>
+<period>2002 - 2003</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals>5</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>2002 - 2003</period>
+<fullapps>9</fullapps>
+<subs>11</subs>
+<goals>5</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Sweden</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>2</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Aston Villa</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Sweden</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>2003 - 2004</period>
+<fullapps>7</fullapps>
+<subs>8</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Sweden</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Bundesliga</competition>
+<team>Hansa Rostock</team>
+<period>2004 - 2005</period>
+<fullapps>17</fullapps>
+<subs>6</subs>
+<goals>4</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Sweden</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Sweden</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Sweden</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>5</subs>
+<goals>1</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>FC Kobenhavn</team>
+<period>2006 - 2007</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Sweden</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Sweden</team>
+<period>2006 - 2007</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>5</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Sweden</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Sweden</team>
+<period>2007 - 2008</period>
+<fullapps>2</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

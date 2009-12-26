@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="3878"><name>Adie Moses</name>
+
+<details>
+<country>ENG</country>
+<born>04 May 1975</born>
+<birthplace>Doncaster</birthplace>
+<weight>80 kg</weight>
+<height>1.78 m</height>
+<position>Defender/Centre back</position>
+
+</details>
+
+<description>Having missed most of the 1999-2000 campaign through injury, Adie returned to the Barnsley line-up on the opening day of 2000-01.
+He was employed by Dave Bassett as a central defender and then at right back.
+However, immediately after Bassett was replaced as manager, Adie was sold to Huddersfield Town who needed him as extra cover across the back four.
+A strong and quick player, he had to settle for a place on the substitutes' bench before gaining a regular first-team berth after the turn of the year.
+A very versatile defender, he is solid in the tackle and heads the ball well.
+Adie joined Lincoln City in July 2006 with a two-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Barnsley</club>
+<date_joined unformated="1993-07-02">02-07-1993</date_joined>
+<date_left unformated="2000-12-20">20-12-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Huddersfield Town</club>
+<date_joined unformated="2000-12-20">20-12-2000</date_joined>
+<date_left unformated="2003-06-30">30-06-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Crewe Alexandra</club>
+<date_joined unformated="2003-07-07">07-07-2003</date_joined>
+<date_left unformated="2006-06-30">30-06-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Lincoln City</club>
+<date_joined unformated="2006-07-07">07-07-2006</date_joined>
+<date_left unformated="2008-06-30">30-06-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Mansfield Town</club>
+<date_joined unformated="2008-07-11">11-07-2008</date_joined>
+<date_left unformated="2009-06-30">30-06-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Gainsborough Trinity</club>
+<date_joined unformated="2009-07-01">01-07-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Barnsley</team>
+<period>1997 - 1998</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Barnsley</team>
+<period>1997 - 1998</period>
+<fullapps>32</fullapps>
+<subs>3</subs>
+<goals>0</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>1997 - 1998</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Barnsley</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Huddersfield Town</team>
+<period>2000 - 2001</period>
+<fullapps>10</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Barnsley</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Barnsley</team>
+<period>2000 - 2001</period>
+<fullapps>11</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Huddersfield Town</team>
+<period>2001 - 2002</period>
+<fullapps>13</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Huddersfield Town</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 2 Play-Offs</competition>
+<team>Huddersfield Town</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Huddersfield Town</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Huddersfield Town</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Huddersfield Town</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Huddersfield Town</team>
+<period>2002 - 2003</period>
+<fullapps>40</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Huddersfield Town</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Crewe Alexandra</team>
+<period>2003 - 2004</period>
+<fullapps>15</fullapps>
+<subs>6</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Crewe Alexandra</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Crewe Alexandra</team>
+<period>2004 - 2005</period>
+<fullapps>20</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Crewe Alexandra</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Crewe Alexandra</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Crewe Alexandra</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Crewe Alexandra</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Crewe Alexandra</team>
+<period>2005 - 2006</period>
+<fullapps>12</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Lincoln City</team>
+<period>2006 - 2007</period>
+<fullapps>26</fullapps>
+<subs>6</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Lincoln City</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Lincoln City</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Lincoln City</team>
+<period>2007 - 2008</period>
+<fullapps>16</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Lincoln City</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Lincoln City</team>
+<period>2007 - 2008</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Mansfield Town</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

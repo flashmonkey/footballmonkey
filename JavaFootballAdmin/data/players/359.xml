@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="359"><name>Steve Vickers</name>
+
+<details>
+<country>ENG</country>
+<born>13 October 1967</born>
+<birthplace>Bishop Auckland</birthplace>
+<weight>82 kg</weight>
+<height>1.85 m</height>
+<position>Centre back</position>
+
+</details>
+
+<description>Steve was in excellent form for 
+Middlesbrough last term and was one of the 
+few players at the Riverside to enjoy a 
+decent run of form even when the team were 
+struggling. A very dependable 'stopper' 
+centre half he gave his best at all times and 
+produced some quality performances. His 
+strong tackles and hefty clearances were just 
+what the situation required and although he 
+enjoys going forward for set pieces to try 
+and nick a goal, he failed to find the net 
+during the season.</description>
+
+<club_history>
+
+<period>
+<club>Spennymoor United</club>
+<date_joined unformated="">30-12-1999</date_joined>
+<date_left unformated="1985-09-11">11-09-1985</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Tranmere Rovers</club>
+<date_joined unformated="1985-09-11">11-09-1985</date_joined>
+<date_left unformated="1993-12-03">03-12-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Middlesbrough</club>
+<date_joined unformated="1993-12-03">03-12-1993</date_joined>
+<date_left unformated="2001-12-17">17-12-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Crystal Palace</club>
+<date_joined unformated="2001-09-19">19-09-2001</date_joined>
+<date_left unformated="2001-10-24">24-10-2001</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2001-11-16">16-11-2001</date_joined>
+<date_left unformated="2001-12-16">16-12-2001</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2001-12-17">17-12-2001</date_joined>
+<date_left unformated="2003-06-30">30-06-2003</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Middlesbrough</team>
+<period>1993 - 1994</period>
+<fullapps>25</fullapps>
+<subs>1</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Middlesbrough</team>
+<period>1993 - 1994</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Middlesbrough</team>
+<period>1994 - 1995</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Middlesbrough</team>
+<period>1994 - 1995</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Middlesbrough</team>
+<period>1994 - 1995</period>
+<fullapps>44</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Middlesbrough</team>
+<period>1995 - 1996</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Middlesbrough</team>
+<period>1995 - 1996</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Middlesbrough</team>
+<period>1995 - 1996</period>
+<fullapps>32</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Middlesbrough</team>
+<period>1996 - 1997</period>
+<fullapps>5</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Middlesbrough</team>
+<period>1996 - 1997</period>
+<fullapps>5</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Middlesbrough</team>
+<period>1996 - 1997</period>
+<fullapps>26</fullapps>
+<subs>3</subs>
+<goals>0</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Middlesbrough</team>
+<period>1997 - 1998</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Middlesbrough</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Middlesbrough</team>
+<period>1998 - 1999</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Middlesbrough</team>
+<period>1998 - 1999</period>
+<fullapps>29</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Middlesbrough</team>
+<period>1999 - 2000</period>
+<fullapps>30</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Middlesbrough</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Middlesbrough</team>
+<period>1999 - 2000</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Middlesbrough</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Middlesbrough</team>
+<period>2000 - 2001</period>
+<fullapps>29</fullapps>
+<subs>1</subs>
+<goals>0</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Middlesbrough</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1 Play-Offs</competition>
+<team>Birmingham City</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Middlesbrough</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Birmingham City</team>
+<period>2001 - 2002</period>
+<fullapps>13</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Crystal Palace</team>
+<period>2001 - 2002</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Crystal Palace</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2002 - 2003</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Birmingham City</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

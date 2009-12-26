@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="16055"><name>Jovan Kirovski</name>
+
+<details>
+<country>USA</country>
+<born>18 March 1976</born>
+<birthplace>Escondido</birthplace>
+<weight>75 kg</weight>
+<height>1.86 m</height>
+<position>Midfielder/Forward</position>
+
+</details>
+
+<description>Jovan developed through the youth system at Old Trafford and he was still on Manchester United�s books when he won his first cap for the USA against Saudi Arabia in October 1994. However work permit problems led to a move to Borussia Dortmund and he subsequently spent a rather unproductive season with Sporting Lisbon before joining English First Division club Crystal Palace. A tall and skilful player who is at home in midfield or as a striker, he featured regularly in the final round of qualifying games for the 2002 World Cup Finals. He signed for Birmingham City after being released by Crystal Palace in the summer of 2002. 
+ Jovan's contract at Birmingham City was cancelled in February 2004.</description>
+
+<club_history>
+
+<period>
+<club>Manchester United</club>
+<date_joined unformated="1995-07-01">01-07-1995</date_joined>
+<date_left unformated="1996-07-01">01-07-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Borussia Dortmund</club>
+<date_joined unformated="1996-07-01">01-07-1996</date_joined>
+<date_left unformated="2000-07-01">01-07-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Fortuna Koln</club>
+<date_joined unformated="1998-08-01">01-08-1998</date_joined>
+<date_left unformated="1999-05-31">31-05-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Sporting Lisboa</club>
+<date_joined unformated="2000-07-01">01-07-2000</date_joined>
+<date_left unformated="2001-08-08">08-08-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Crystal Palace</club>
+<date_joined unformated="2001-08-08">08-08-2001</date_joined>
+<date_left unformated="2002-06-30">30-06-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2002-08-15">15-08-2002</date_joined>
+<date_left unformated="2004-02-02">02-02-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Los Angeles Galaxy</club>
+<date_joined unformated="2004-02-02">02-02-2004</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>CONCACAF Under 20</competition>
+<team>USA</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>A v Under 23</competition>
+<team>USA</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>USA</team>
+<period>1994 - 1995</period>
+<fullapps>4</fullapps>
+<subs>3</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Copa America</competition>
+<team>USA</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>OT v Under 20</competition>
+<team>USA</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>O v Under 23</competition>
+<team>USA</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Gold Cup</competition>
+<team>USA</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>USA</team>
+<period>1995 - 1996</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>USA</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>OT</competition>
+<team>USA</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>USA</team>
+<period>1996 - 1997</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Olympics</competition>
+<team>USA</team>
+<period>1996 - 1997</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>USA</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>USA</team>
+<period>1998 - 1999</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>USA</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>US Nike Cup</competition>
+<team>USA</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Gold Cup</competition>
+<team>USA</team>
+<period>1999 - 2000</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA Confederations Cup</competition>
+<team>USA</team>
+<period>1999 - 2000</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>USA</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>USA</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Crystal Palace</team>
+<period>2001 - 2002</period>
+<fullapps>25</fullapps>
+<subs>11</subs>
+<goals>5</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Crystal Palace</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>USA</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Crystal Palace</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>USA</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>USA</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2002 - 2003</period>
+<fullapps>5</fullapps>
+<subs>12</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FIFA Confederations Cup</competition>
+<team>USA</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Birmingham City</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Birmingham City</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>USA</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>USA</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>6</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="225184"><name>Vito Mannone</name>
+
+<details>
+<country>ITA</country>
+<born>02 March 1988</born>
+<birthplace>Desio</birthplace>
+<weight>73 kg</weight>
+<height>1.83 m</height>
+<position>Goalkeeper</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Atalanta</club>
+<date_joined unformated="2003-07-01">01-07-2003</date_joined>
+<date_left unformated="2005-07-01">01-07-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="2005-07-01">01-07-2005</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Barnsley</club>
+<date_joined unformated="2006-08-18">18-08-2006</date_joined>
+<date_left unformated="2006-11-18">18-11-2006</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Barnsley</team>
+<period>2006 - 2007</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Barnsley</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>2009 - 2010</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2009 - 2010</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>5</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

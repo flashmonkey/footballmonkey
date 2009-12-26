@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="49256"><name>Matthew Birley</name>
+
+<details>
+<country>ENG</country>
+<born>26 July 1986</born>
+<birthplace>Bromsgrove</birthplace>
+<weight>70 kg</weight>
+<height>1.73 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2005-07-04">04-07-2005</date_joined>
+<date_left unformated="2007-06-30">30-06-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Lincoln City</club>
+<date_joined unformated="2006-11-23">23-11-2006</date_joined>
+<date_left unformated="2007-01-06">06-01-2007</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Birmingham City</team>
+<period>2005 - 2006</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2005 - 2006</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Lincoln City</team>
+<period>2006 - 2007</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

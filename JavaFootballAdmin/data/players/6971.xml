@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="6971"><name>Stig T�fting</name>
+
+<details>
+<country>DEN</country>
+<born>14 August 1969</born>
+<birthplace>Aarhus</birthplace>
+<weight>80 kg</weight>
+<height>1.76 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>A combative midfield player who is full of energy, Stig &amp;#8211; who has successfully assisted Bolton Wanderers to Premiership survival since his �250,000 move from SV Hamburg in February &amp;#8211; can now turn his attention to engineering Denmark&amp;#8217;s World Cup bid. He won his first cap against the USA back in January 1993 but had to wait a further five years before he became a regular in the national squad. He appeared in nine of his country&amp;#8217;s ten qualifying games. At club level, he has spent time with AGF Aarhus, OB Odense and MSV Duisburg. A former forklift driver and a man with a tragic and colourful past, he has a large tatoo with the words 'no regrets'. Stig is likely to line up in the middle of midfield in the Far East alongside Everton&amp;#8217;s Thomas Gravesen.</description>
+
+<club_history>
+
+<period>
+<club>Aarhus GF</club>
+<date_joined unformated="1989">30-11-1988</date_joined>
+<date_left unformated="1993-07-01">01-07-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hamburger SV</club>
+<date_joined unformated="1993-07-01">01-07-1993</date_joined>
+<date_left unformated="1994-03-01">01-03-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Aarhus GF</club>
+<date_joined unformated="1994">30-11-1993</date_joined>
+<date_left unformated="1997-07-01">01-07-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>OB Odense</club>
+<date_joined unformated="1994-03-01">01-03-1994</date_joined>
+<date_left unformated="1994-07-01">01-07-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hamburger SV</club>
+<date_joined unformated="1994-07-01">01-07-1994</date_joined>
+<date_left unformated="1994-10-01">01-10-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>MSV Duisburg</club>
+<date_joined unformated="1997-07-01">01-07-1997</date_joined>
+<date_left unformated="2000-01-01">01-01-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Aarhus GF</club>
+<date_joined unformated="2000-01-01">01-01-2000</date_joined>
+<date_left unformated="2000-07-01">01-07-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hamburger SV</club>
+<date_joined unformated="2000-07-01">01-07-2000</date_joined>
+<date_left unformated="2002-02-08">08-02-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2002-02-08">08-02-2002</date_joined>
+<date_left unformated="2003-06-30">30-06-2003</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Hamburger SV</team>
+<period>2000 - 2001</period>
+<fullapps>5</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Hamburger SV</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Bundesliga</competition>
+<team>Hamburger SV</team>
+<period>2000 - 2001</period>
+<fullapps>25</fullapps>
+<subs>3</subs>
+<goals>2</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Bundesliga</competition>
+<team>Hamburger SV</team>
+<period>2001 - 2002</period>
+<fullapps>17</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2001 - 2002</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>6</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

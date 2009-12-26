@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="5261"><name>Simon Coleman</name>
+
+<details>
+<country>ENG</country>
+<born>13 March 1968</born>
+<birthplace>Worksop</birthplace>
+<weight>73 kg</weight>
+<height>1.83 m</height>
+<position>Defender/Centre back</position>
+
+</details>
+
+<description>This experienced centre back was signed by Rochdale in the summer of 2000 to bring some much-needed organisational skills to the defence, but was injured during the pre-season and managed only one game before Christmas. He was then recalled to face Shrewsbury in February, but unfortunately for Simon, Dale slumped to their worst-ever home defeat. At his best he is a commanding defender who is also very useful when coming up to join the attack for set pieces.</description>
+
+<club_history>
+
+<period>
+<club>Mansfield Town</club>
+<date_joined unformated="1985-07-29">29-07-1985</date_joined>
+<date_left unformated="1989-09-26">26-09-1989</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Middlesbrough</club>
+<date_joined unformated="1989-09-26">26-09-1989</date_joined>
+<date_left unformated="1991-08-15">15-08-1991</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Derby County</club>
+<date_joined unformated="1991-08-15">15-08-1991</date_joined>
+<date_left unformated="1994-01-20">20-01-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Sheffield Wednesday</club>
+<date_joined unformated="1994-01-20">20-01-1994</date_joined>
+<date_left unformated="1994-10-05">05-10-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="1994-10-05">05-10-1994</date_joined>
+<date_left unformated="1998-02-20">20-02-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Wolverhampton Wanderers</club>
+<date_joined unformated="1997-09-02">02-09-1997</date_joined>
+<date_left unformated="1997-10-02">02-10-1997</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Southend United</club>
+<date_joined unformated="1998-02-20">20-02-1998</date_joined>
+<date_left unformated="2000-06-30">30-06-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Rochdale</club>
+<date_joined unformated="2000-07-10">10-07-2000</date_joined>
+<date_left unformated="2002-06-30">30-06-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Scarborough</club>
+<date_joined unformated="2002-07-08">08-07-2002</date_joined>
+<date_left unformated="2002-07-13">13-07-2002</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Halifax Town</club>
+<date_joined unformated="2002-07-15">15-07-2002</date_joined>
+<date_left unformated="2002-07-22">22-07-2002</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Ilkeston Town</club>
+<date_joined unformated="2002-08-16">16-08-2002</date_joined>
+<date_left unformated="2003-03-14">14-03-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hyde United</club>
+<date_joined unformated="2003-03-14">14-03-2003</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Middlesbrough</team>
+<period>1989 - 1990</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division Two</competition>
+<team>Middlesbrough</team>
+<period>1989 - 1990</period>
+<fullapps>33</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Middlesbrough</team>
+<period>1990 - 1991</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2 Play-Offs</competition>
+<team>Middlesbrough</team>
+<period>1990 - 1991</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division Two</competition>
+<team>Middlesbrough</team>
+<period>1990 - 1991</period>
+<fullapps>18</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Rumbelows League Cup</competition>
+<team>Derby County</team>
+<period>1991 - 1992</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Derby County</team>
+<period>1991 - 1992</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division Two</competition>
+<team>Derby County</team>
+<period>1991 - 1992</period>
+<fullapps>43</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1 Play-Offs</competition>
+<team>Derby County</team>
+<period>1991 - 1992</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Derby County</team>
+<period>1992 - 1993</period>
+<fullapps>17</fullapps>
+<subs>8</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Derby County</team>
+<period>1992 - 1993</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Derby County</team>
+<period>1992 - 1993</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Derby County</team>
+<period>1993 - 1994</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Sheffield Wednesday</team>
+<period>1993 - 1994</period>
+<fullapps>10</fullapps>
+<subs>5</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Sheffield Wednesday</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>1995 - 1996</period>
+<fullapps>12</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Southend United</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Rochdale</team>
+<period>2000 - 2001</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Rochdale</team>
+<period>2001 - 2002</period>
+<fullapps>8</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3 Play-Offs</competition>
+<team>Rochdale</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Rochdale</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

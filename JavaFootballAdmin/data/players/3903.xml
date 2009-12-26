@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="3903"><name>Garry Flitcroft</name>
+
+<details>
+<country>ENG</country>
+<born>06 November 1972</born>
+<birthplace>Bolton</birthplace>
+<weight>77 kg</weight>
+<height>1.83 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>A near-ever present for Blackburn Rovers in 2000-01, Garry was something of an unsung hero and his value as a defensive organiser only became apparent in his absence. Captain of the team, he provided bite and a physical presence in midfield where he generally performed in a role just in front of the central defenders. He became more adventurous in the second half of the campaign and pushed forward to score vital goals in the FA Cup win over Bolton Wanderers and the 2-0 victory over Huddersfield Town. 
+ Garry is the brother of former Preston North End midfielder, Dave Flitcroft.
+Garry joined Sheffield United in January 2006 with a contract to June 2007.</description>
+
+<club_history>
+
+<period>
+<club>Manchester City</club>
+<date_joined unformated="1991-07-02">02-07-1991</date_joined>
+<date_left unformated="1996-03-26">26-03-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bury</club>
+<date_joined unformated="1992-03-05">05-03-1992</date_joined>
+<date_left unformated="1992-05-31">31-05-1992</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1996-03-26">26-03-1996</date_joined>
+<date_left unformated="2006-01-12">12-01-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Sheffield United</club>
+<date_joined unformated="2006-01-12">12-01-2006</date_joined>
+<date_left unformated="2007-06-30">30-06-2007</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Under 18</competition>
+<team>England</team>
+<period>1989 - 1990</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>1992 - 1993</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Toulon Under 21</competition>
+<team>England</team>
+<period>1992 - 1993</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Manchester City</team>
+<period>1992 - 1993</period>
+<fullapps>28</fullapps>
+<subs>4</subs>
+<goals>5</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Manchester City</team>
+<period>1993 - 1994</period>
+<fullapps>19</fullapps>
+<subs>2</subs>
+<goals>3</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>1993 - 1994</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Manchester City</team>
+<period>1994 - 1995</period>
+<fullapps>37</fullapps>
+<subs>0</subs>
+<goals>5</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Manchester City</team>
+<period>1995 - 1996</period>
+<fullapps>25</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>9</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1995 - 1996</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1996 - 1997</period>
+<fullapps>27</fullapps>
+<subs>1</subs>
+<goals>3</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1997 - 1998</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1997 - 1998</period>
+<fullapps>28</fullapps>
+<subs>5</subs>
+<goals/>
+
+<yellowcards>7</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1998 - 1999</period>
+<fullapps>8</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2000 - 2001</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Blackburn Rovers</team>
+<period>2000 - 2001</period>
+<fullapps>41</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards>8</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2001 - 2002</period>
+<fullapps>26</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2002 - 2003</period>
+<fullapps>33</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2003 - 2004</period>
+<fullapps>29</fullapps>
+<subs>2</subs>
+<goals>3</goals>
+
+<yellowcards>9</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2004 - 2005</period>
+<fullapps>17</fullapps>
+<subs>2</subs>
+<goals>0</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2004 - 2005</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Sheffield United</team>
+<period>2005 - 2006</period>
+<fullapps>3</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

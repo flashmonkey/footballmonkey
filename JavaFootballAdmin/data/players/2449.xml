@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="2449"><name>Nicky Southall</name>
+
+<details>
+<country>ENG</country>
+<born>28 January 1972</born>
+<birthplace>Stockton</birthplace>
+<weight>82 kg</weight>
+<height>1.78 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Nicky joined Hartlepool United from Darlington juniors.
+He re-joined Gillingham in January 2007 with a contract to June 2009.</description>
+
+<club_history>
+
+<period>
+<club>Darlington</club>
+<date_joined unformated="1989-07-01">01-07-1989</date_joined>
+<date_left unformated="1991-02-21">21-02-1991</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hartlepool United</club>
+<date_joined unformated="1991-02-21">21-02-1991</date_joined>
+<date_left unformated="1995-07-12">12-07-1995</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Grimsby Town</club>
+<date_joined unformated="1995-07-12">12-07-1995</date_joined>
+<date_left unformated="1997-12-09">09-12-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Gillingham</club>
+<date_joined unformated="1997-12-09">09-12-1997</date_joined>
+<date_left unformated="2001-06-11">11-06-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2001-06-11">11-06-2001</date_joined>
+<date_left unformated="2002-12-09">09-12-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Norwich City</club>
+<date_joined unformated="2002-09-26">26-09-2002</date_joined>
+<date_left unformated="2002-11-21">21-11-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Gillingham</club>
+<date_joined unformated="2002-12-06">06-12-2002</date_joined>
+<date_left unformated="2002-12-07">07-12-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Gillingham</club>
+<date_joined unformated="2002-12-09">09-12-2002</date_joined>
+<date_left unformated="2005-06-30">30-06-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Nottingham Forest</club>
+<date_joined unformated="2005-08-04">04-08-2005</date_joined>
+<date_left unformated="2007-01-31">31-01-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Gillingham</club>
+<date_joined unformated="2007-01-31">31-01-2007</date_joined>
+<date_left unformated="2009-06-30">30-06-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Dover Athletic</club>
+<date_joined unformated="2008-09-10">10-09-2008</date_joined>
+<date_left unformated="2008-10-06">06-10-2008</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Dover Athletic</club>
+<date_joined unformated="2009-07-27">27-07-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Grimsby Town</team>
+<period>1997 - 1998</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Gillingham</team>
+<period>1999 - 2000</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Gillingham</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Gillingham</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Gillingham</team>
+<period>2000 - 2001</period>
+<fullapps>40</fullapps>
+<subs>4</subs>
+<goals>2</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2001 - 2002</period>
+<fullapps>10</fullapps>
+<subs>8</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2001 - 2002</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Gillingham</team>
+<period>2002 - 2003</period>
+<fullapps>22</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Gillingham</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Norwich City</team>
+<period>2002 - 2003</period>
+<fullapps>4</fullapps>
+<subs>5</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Gillingham</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Gillingham</team>
+<period>2003 - 2004</period>
+<fullapps>34</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Gillingham</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Gillingham</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Gillingham</team>
+<period>2004 - 2005</period>
+<fullapps>30</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Nottingham Forest</team>
+<period>2005 - 2006</period>
+<fullapps>37</fullapps>
+<subs>3</subs>
+<goals>9</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Nottingham Forest</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Nottingham Forest</team>
+<period>2005 - 2006</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Nottingham Forest</team>
+<period>2006 - 2007</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Nottingham Forest</team>
+<period>2006 - 2007</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Gillingham</team>
+<period>2006 - 2007</period>
+<fullapps>15</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Johnstones Paint Trophy</competition>
+<team>Nottingham Forest</team>
+<period>2006 - 2007</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Nottingham Forest</team>
+<period>2006 - 2007</period>
+<fullapps>26</fullapps>
+<subs>1</subs>
+<goals>5</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Johnstones Paint Trophy</competition>
+<team>Gillingham</team>
+<period>2007 - 2008</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Gillingham</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Gillingham</team>
+<period>2007 - 2008</period>
+<fullapps>31</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Gillingham</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two Play-Offs</competition>
+<team>Gillingham</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Gillingham</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Gillingham</team>
+<period>2008 - 2009</period>
+<fullapps>28</fullapps>
+<subs>8</subs>
+<goals>3</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Johnstones Paint Trophy</competition>
+<team>Gillingham</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

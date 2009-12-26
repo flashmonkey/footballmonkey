@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="4033"><name>Gaetano Giallanza</name>
+
+<details>
+<country>SUI</country>
+<born>06 June 1974</born>
+<birthplace>Dornach</birthplace>
+<weight>75 kg</weight>
+<height>1.83 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>Having enjoyed a successful loan spell at Carrow Road towards the end of the 1999- 2000 campaign, Gaetano joined Norwich City on a permanent basis in the close season.
+A rangy frontrunner, with a cool head in front of goal, 'Tano' was just settling into the rigours of English football when he was cruelly cut down by a cruciate ligament injury sustained in the home game against Sheffield United in October 2000.
+Prior to this, he had already scored five goals and was showing signs of establishing an excellent partnership with Iwan Roberts.
+He was unlikely to return to action before the end of 2001 following a complication in the surgery process.
+Gaetano joined Darlington in July 2006 with a one-year contract. </description>
+
+<club_history>
+
+<period>
+<club>Old Boys Basel</club>
+<date_joined unformated="1991-07-01">01-07-1991</date_joined>
+<date_left unformated="1993-07-01">01-07-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Servette</club>
+<date_joined unformated="1993-07-01">01-07-1993</date_joined>
+<date_left unformated="1994-07-01">01-07-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Young Boys Berne</club>
+<date_joined unformated="1994-07-01">01-07-1994</date_joined>
+<date_left unformated="1995-07-01">01-07-1995</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Sion</club>
+<date_joined unformated="1995-07-01">01-07-1995</date_joined>
+<date_left unformated="1996-07-01">01-07-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>FC Basel</club>
+<date_joined unformated="1996-07-01">01-07-1996</date_joined>
+<date_left unformated="1997-09-22">22-09-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Lugano</club>
+<date_joined unformated="1997-03-01">01-03-1997</date_joined>
+<date_left unformated="1997-06-01">01-06-1997</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Nantes</club>
+<date_joined unformated="1997-09-22">22-09-1997</date_joined>
+<date_left unformated="2000-07-01">01-07-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="1998-03-25">25-03-1998</date_joined>
+<date_left unformated="1998-05-11">11-05-1998</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Norwich City</club>
+<date_joined unformated="2000-03-23">23-03-2000</date_joined>
+<date_left unformated="2000-05-08">08-05-2000</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Norwich City</club>
+<date_joined unformated="2000-07-01">01-07-2000</date_joined>
+<date_left unformated="2002-06-30">30-06-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Brighton and Hove Albion</club>
+<date_joined unformated="2003-07-21">21-07-2003</date_joined>
+<date_left unformated="2003-08-01">01-08-2003</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Young Boys Berne</club>
+<date_joined unformated="2003-09-01">01-09-2003</date_joined>
+<date_left unformated="2004-07-01">01-07-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Aarau</club>
+<date_joined unformated="2004-07-01">01-07-2004</date_joined>
+<date_left unformated="2006-06-30">30-06-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Darlington</club>
+<date_joined unformated="2006-07-04">04-07-2006</date_joined>
+<date_left unformated="2007-06-30">30-06-2007</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>1997 - 1998</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Norwich City</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Norwich City</team>
+<period>2000 - 2001</period>
+<fullapps>5</fullapps>
+<subs>6</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Darlington</team>
+<period>2006 - 2007</period>
+<fullapps>12</fullapps>
+<subs>2</subs>
+<goals>3</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Johnstones Paint Trophy</competition>
+<team>Darlington</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Darlington</team>
+<period>2006 - 2007</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

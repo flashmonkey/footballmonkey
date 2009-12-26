@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="16915"><name>Joey Hutchinson</name>
+
+<details>
+<country>ENG</country>
+<born>02 April 1982</born>
+<birthplace>Middlesbrough</birthplace>
+<weight>76 kg</weight>
+<height>1.83 m</height>
+<position>Defender</position>
+
+</details>
+
+<description>Joey joined Darlington in August 2003 on a two-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2000-07-01">01-07-2000</date_joined>
+<date_left unformated="2003-08-08">08-08-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Darlington</club>
+<date_joined unformated="2003-08-08">08-08-2003</date_joined>
+<date_left unformated="2007-02-09">09-02-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>York City</club>
+<date_joined unformated="2007-08-10">10-08-2007</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Birmingham City</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Birmingham City</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Birmingham City</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Darlington</team>
+<period>2003 - 2004</period>
+<fullapps>38</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>6</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Darlington</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Darlington</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Darlington</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Darlington</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Darlington</team>
+<period>2004 - 2005</period>
+<fullapps>8</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Darlington</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Darlington</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Darlington</team>
+<period>2005 - 2006</period>
+<fullapps>19</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Darlington</team>
+<period>2006 - 2007</period>
+<fullapps>13</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Darlington</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

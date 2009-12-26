@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="49677"><name>Sergio Peter</name>
+
+<details>
+<country>GER</country>
+<born>12 October 1986</born>
+<birthplace>Ludwigshafen</birthplace>
+<weight>70 kg</weight>
+<height>1.73 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Sergio's contract at Blackburn Rovers was extended to June 2010 in May 2007.</description>
+
+<club_history>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="2004-11-10">10-11-2004</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2005 - 2006</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>7</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2006 - 2007</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2006 - 2007</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>8</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

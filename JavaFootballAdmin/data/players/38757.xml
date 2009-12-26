@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="38757"><name>Tony Gale</name>
+
+<details>
+<country>ENG</country>
+<born>19 November 1959</born>
+<birthplace>Westminster</birthplace>
+<weight>86 kg</weight>
+<height>1.85 m</height>
+<position>Central defender</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Fulham</club>
+<date_joined unformated="1977-08-01">01-08-1977</date_joined>
+<date_left unformated="1984-07-01">01-07-1984</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>West Ham United</club>
+<date_joined unformated="1984-07-01">01-07-1984</date_joined>
+<date_left unformated="1994-08-01">01-08-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1994-08-01">01-08-1994</date_joined>
+<date_left unformated="1995-09-01">01-09-1995</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Milk Cup</competition>
+<team>West Ham United</team>
+<period>1984 - 1985</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>West Ham United</team>
+<period>1984 - 1985</period>
+<fullapps>36</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Milk Cup</competition>
+<team>West Ham United</team>
+<period>1985 - 1986</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>West Ham United</team>
+<period>1985 - 1986</period>
+<fullapps>42</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Ham United</team>
+<period>1985 - 1986</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>West Ham United</team>
+<period>1986 - 1987</period>
+<fullapps>32</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Ham United</team>
+<period>1986 - 1987</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Littlewoods Cup</competition>
+<team>West Ham United</team>
+<period>1986 - 1987</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Ham United</team>
+<period>1987 - 1988</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>West Ham United</team>
+<period>1987 - 1988</period>
+<fullapps>17</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Littlewoods Cup</competition>
+<team>West Ham United</team>
+<period>1988 - 1989</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Ham United</team>
+<period>1988 - 1989</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>West Ham United</team>
+<period>1988 - 1989</period>
+<fullapps>31</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division Two</competition>
+<team>West Ham United</team>
+<period>1989 - 1990</period>
+<fullapps>36</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Ham United</team>
+<period>1989 - 1990</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Littlewoods Cup</competition>
+<team>West Ham United</team>
+<period>1989 - 1990</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Ham United</team>
+<period>1990 - 1991</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division Two</competition>
+<team>West Ham United</team>
+<period>1990 - 1991</period>
+<fullapps>23</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Rumbelows League Cup</competition>
+<team>West Ham United</team>
+<period>1990 - 1991</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Rumbelows League Cup</competition>
+<team>West Ham United</team>
+<period>1991 - 1992</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Ham United</team>
+<period>1991 - 1992</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>West Ham United</team>
+<period>1991 - 1992</period>
+<fullapps>24</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>West Ham United</team>
+<period>1992 - 1993</period>
+<fullapps>21</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>West Ham United</team>
+<period>1993 - 1994</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Ham United</team>
+<period>1993 - 1994</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>West Ham United</team>
+<period>1993 - 1994</period>
+<fullapps>31</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Charity Shield</competition>
+<team>Blackburn Rovers</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1994 - 1995</period>
+<fullapps>15</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

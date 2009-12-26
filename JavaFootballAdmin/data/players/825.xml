@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="825"><name>Fredi Bobic</name>
+
+<details>
+<country>GER</country>
+<born>30 October 1971</born>
+<birthplace>Maribor (Slovenia)</birthplace>
+<weight>77 kg</weight>
+<height>1.85 m</height>
+<position>Striker</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Stuttgarter Kickers</club>
+<date_joined unformated="1992">30-11-1991</date_joined>
+<date_left unformated="1994-07-01">01-07-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>VfB Stuttgart</club>
+<date_joined unformated="1994-07-01">01-07-1994</date_joined>
+<date_left unformated="1999-07-01">01-07-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Borussia Dortmund</club>
+<date_joined unformated="1999-07-01">01-07-1999</date_joined>
+<date_left unformated="2002-08-31">31-08-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2002-01-11">11-01-2002</date_joined>
+<date_left unformated="2002-06-30">30-06-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Hannover 96</club>
+<date_joined unformated="2002-08-31">31-08-2002</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>CENTENARY</competition>
+<team>Germany</team>
+<period>1994 - 1995</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Germany</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>RUDI VOLLER FAREWELL</competition>
+<team>Germany</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Germany</team>
+<period>1995 - 1996</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Germany</team>
+<period>1995 - 1996</period>
+<fullapps>3</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Germany</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Germany</team>
+<period>1996 - 1997</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Germany</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Germany</team>
+<period>1997 - 1998</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Borussia Dortmund</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Bundesliga</competition>
+<team>Borussia Dortmund</team>
+<period>2000 - 2001</period>
+<fullapps>21</fullapps>
+<subs>3</subs>
+<goals>10</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Bundesliga</competition>
+<team>Borussia Dortmund</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Borussia Dortmund</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>6</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2001 - 2002</period>
+<fullapps>14</fullapps>
+<subs>2</subs>
+<goals>4</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Borussia Dortmund</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Germany</team>
+<period>2002 - 2003</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Bundesliga</competition>
+<team>Hannover 96</team>
+<period>2002 - 2003</period>
+<fullapps>27</fullapps>
+<subs>0</subs>
+<goals>14</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Germany</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Germany</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Bundesliga</competition>
+<team>Hertha BSC Berlin</team>
+<period>2003 - 2004</period>
+<fullapps>27</fullapps>
+<subs>5</subs>
+<goals>8</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Germany</team>
+<period>2003 - 2004</period>
+<fullapps>5</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Bundesliga</competition>
+<team>Hertha BSC Berlin</team>
+<period>2004 - 2005</period>
+<fullapps>10</fullapps>
+<subs>12</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

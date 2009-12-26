@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="6894"><name>Patrick Andersson</name>
+
+<details>
+<country>SWE</country>
+<born>18 August 1971</born>
+<birthplace>Borgeby</birthplace>
+<weight>81 kg</weight>
+<height>1.85 m</height>
+<position>Defender/Centre back</position>
+
+</details>
+
+<description>Patrick spent his early career with Malmo making his debut in 1989 where he stayed for four seasons. His performances earned him his first cap for Sweden against in January 1992 against Australia. He won a move to Blackburn Rovers in December 1992 but he made little impact at Ewood Park and the following October he signed for Borussia Moenchengladbach. After a distinguished career there he signed for Bayern Munich for the 1999-2000 season, helping them to successive Bundesliga titles in 1999-2000 and 2000-2001 and victory in the European Champions&amp;#8217; League in 2001. 
+ He was a constant member of the Swedish team, holding the captaincy for several years and is now approaching the magic 100-cap mark. He was surprisingly sold to Barcelona in the close season of 2001 but his season was interrupted when he tore knee ligaments in a February encounter with Deportivo La Coruna but he has regained his fitness just in time for the World Cup. A stylish centre-half he is calm and collected and is the heart of a very good Swedish defence. 
+ 
+ &amp;#61623; Appearances in World Cup Qualification: 10 
+ &amp;#61623; Goals scored in World Cup Qualification: 1</description>
+
+<club_history>
+
+<period>
+<club>Malmo FF</club>
+<date_joined unformated="1989">30-11-1988</date_joined>
+<date_left unformated="1993-01-01">01-01-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1993-01-01">01-01-1993</date_joined>
+<date_left unformated="1993-09-01">01-09-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Borussia Monchengladbach</club>
+<date_joined unformated="1993-09-01">01-09-1993</date_joined>
+<date_left unformated="1999-07-01">01-07-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bayern Munchen</club>
+<date_joined unformated="1999-07-01">01-07-1999</date_joined>
+<date_left unformated="2001-06-01">01-06-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Barcelona</club>
+<date_joined unformated="2001-06-01">01-06-2001</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1992 - 1993</period>
+<fullapps>6</fullapps>
+<subs>5</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1993 - 1994</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Borussia Monchengladbach</team>
+<period>1996 - 1997</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Bayern Munchen</team>
+<period>2000 - 2001</period>
+<fullapps>12</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Bundesliga</competition>
+<team>Bayern Munchen</team>
+<period>2000 - 2001</period>
+<fullapps>20</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Barcelona</team>
+<period>2001 - 2002</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Barcelona</team>
+<period>2001 - 2002</period>
+<fullapps>11</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Barcelona</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Barcelona</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Barcelona</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

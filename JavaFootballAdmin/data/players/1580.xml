@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="1580"><name>Julio Cesar</name>
+
+<details>
+<country>BRA</country>
+<born>17 August 1978</born>
+<birthplace>Sao Luis de Maranhao</birthplace>
+<weight>77 kg</weight>
+<height>1.86 m</height>
+<position>Defender/Centre back</position>
+
+</details>
+
+<description>Julio Cesar Santos Correa joined Bolton Wanderers in August 2004 with a one-year contract but was made available for transfer by in January 2005.</description>
+
+<club_history>
+
+<period>
+<club>Am�rica</club>
+<date_joined unformated="1994-07-01">01-07-1994</date_joined>
+<date_left unformated="1996-07-01">01-07-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Valladolid</club>
+<date_joined unformated="1996-07-01">01-07-1996</date_joined>
+<date_left unformated="1999-07-01">01-07-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Real Madrid</club>
+<date_joined unformated="1999-07-01">01-07-1999</date_joined>
+<date_left unformated="2004-06-30">30-06-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>AC Milan</club>
+<date_joined unformated="2000-10-27">27-10-2000</date_joined>
+<date_left unformated="2000-12-31">31-12-2000</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Real Sociedad</club>
+<date_joined unformated="2001-01-23">23-01-2001</date_joined>
+<date_left unformated="2001-06-30">30-06-2001</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Benfica</club>
+<date_joined unformated="2001-07-20">20-07-2001</date_joined>
+<date_left unformated="2002-05-31">31-05-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Austria Wien</club>
+<date_joined unformated="2002-08-31">31-08-2002</date_joined>
+<date_left unformated="2003-05-31">31-05-2003</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Valladolid</club>
+<date_joined unformated="2003-08-27">27-08-2003</date_joined>
+<date_left unformated="2004-05-31">31-05-2004</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2004-08-02">02-08-2004</date_joined>
+<date_left unformated="2005-06-30">30-06-2005</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Real Madrid</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Real Sociedad</team>
+<period>2000 - 2001</period>
+<fullapps>13</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Real Madrid</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Serie A</competition>
+<team>AC Milan</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Portuguese First Division</competition>
+<team>Benfica</team>
+<period>2001 - 2002</period>
+<fullapps>12</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Valladolid</team>
+<period>2003 - 2004</period>
+<fullapps>26</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2004 - 2005</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Olympiakos</team>
+<period>2007 - 2008</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

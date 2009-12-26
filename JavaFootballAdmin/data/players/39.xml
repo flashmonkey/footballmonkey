@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="39"><name>David James</name>
+
+<details>
+<country>ENG</country>
+<born>01 August 1970</born>
+<birthplace>Welwyn Garden City</birthplace>
+<weight>90 kg</weight>
+<height>1.96 m</height>
+<position>Goalkeeper</position>
+
+</details>
+
+<description>David's career began at Watford in 1988, before securing a �1million move to Liverpool in 1992.
+Unfortunately, he is was haunted by some inconsistent displays during his Anfield tenure but has since worked hard to restore his reputation at Aston Villa, West Ham United and Manchester City.
+David won his first full international caps against Mexico at Wembley in 1997.
+Following David Seaman's retirement in January 2004, Manchester City immediately signed David with a contract to June 2006 that was extended to June 2007 in October 2005.
+David travelled to the World Cup in Germany in 2006 as England's second-choice keeper to Paul Robinson.
+He joined Portsmouth in August 2006 with a two-year contract that was extended to June 2009 in May 2007 then to June 2010 in March 2008.</description>
+
+<club_history>
+
+<period>
+<club>Watford</club>
+<date_joined unformated="1988-07-01">01-07-1988</date_joined>
+<date_left unformated="1992-07-06">06-07-1992</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Liverpool</club>
+<date_joined unformated="1992-07-06">06-07-1992</date_joined>
+<date_left unformated="1999-06-23">23-06-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="1999-06-23">23-06-1999</date_joined>
+<date_left unformated="2001-07-17">17-07-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>West Ham United</club>
+<date_joined unformated="2001-07-17">17-07-2001</date_joined>
+<date_left unformated="2004-01-14">14-01-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Manchester City</club>
+<date_joined unformated="2004-01-14">14-01-2004</date_joined>
+<date_left unformated="2006-08-11">11-08-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Portsmouth</club>
+<date_joined unformated="2006-08-11">11-08-2006</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Toulon Under 21</competition>
+<team>England</team>
+<period>1990 - 1991</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+
+<cleansheets>3</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>1990 - 1991</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>England</team>
+<period>1991 - 1992</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>1991 - 1992</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Liverpool</team>
+<period>1992 - 1993</period>
+<fullapps>29</fullapps>
+<subs>0</subs>
+
+<cleansheets>7</cleansheets>
+<goalsconceded>34</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Liverpool</team>
+<period>1992 - 1993</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Cup Winners Cup</competition>
+<team>Liverpool</team>
+<period>1992 - 1993</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Liverpool</team>
+<period>1993 - 1994</period>
+<fullapps>13</fullapps>
+<subs>1</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>15</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Liverpool</team>
+<period>1994 - 1995</period>
+<fullapps>42</fullapps>
+<subs>0</subs>
+
+<cleansheets>12</cleansheets>
+<goalsconceded>36</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>B Inter</competition>
+<team>England</team>
+<period>1994 - 1995</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+
+<cleansheets/>
+<goalsconceded/>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Liverpool</team>
+<period>1994 - 1995</period>
+<fullapps>8</fullapps>
+<subs>0</subs>
+
+<cleansheets>8</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Liverpool</team>
+<period>1994 - 1995</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+
+<cleansheets>4</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Liverpool</team>
+<period>1995 - 1996</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+
+<cleansheets>3</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Liverpool</team>
+<period>1995 - 1996</period>
+<fullapps>38</fullapps>
+<subs>0</subs>
+
+<cleansheets>12</cleansheets>
+<goalsconceded>34</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Liverpool</team>
+<period>1995 - 1996</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Liverpool</team>
+<period>1995 - 1996</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+
+<cleansheets>5</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Liverpool</team>
+<period>1996 - 1997</period>
+<fullapps>38</fullapps>
+<subs>0</subs>
+
+<cleansheets>9</cleansheets>
+<goalsconceded>37</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Liverpool</team>
+<period>1996 - 1997</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Cup Winners Cup</competition>
+<team>Liverpool</team>
+<period>1996 - 1997</period>
+<fullapps>8</fullapps>
+<subs>0</subs>
+
+<cleansheets>7</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>England</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Liverpool</team>
+<period>1996 - 1997</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Liverpool</team>
+<period>1997 - 1998</period>
+<fullapps>26</fullapps>
+<subs>0</subs>
+
+<cleansheets>8</cleansheets>
+<goalsconceded>25</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Liverpool</team>
+<period>1997 - 1998</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>5</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Liverpool</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Liverpool</team>
+<period>1997 - 1998</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+
+<cleansheets>3</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Liverpool</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Liverpool</team>
+<period>1998 - 1999</period>
+<fullapps>26</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>33</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Liverpool</team>
+<period>1998 - 1999</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>5</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1999 - 2000</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Aston Villa</team>
+<period>1999 - 2000</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1999 - 2000</period>
+<fullapps>29</fullapps>
+<subs>0</subs>
+
+<cleansheets>11</cleansheets>
+<goalsconceded>24</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>2000 - 2001</period>
+<fullapps>38</fullapps>
+<subs>0</subs>
+
+<cleansheets>6</cleansheets>
+<goalsconceded>39</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Intertoto Cup</competition>
+<team>Aston Villa</team>
+<period>2000 - 2001</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Aston Villa</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>England</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Ham United</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>West Ham United</team>
+<period>2001 - 2002</period>
+<fullapps>26</fullapps>
+<subs>0</subs>
+
+<cleansheets>9</cleansheets>
+<goalsconceded>32</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>England</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>5</subs>
+
+<cleansheets/>
+<goalsconceded/>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>West Ham United</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Ham United</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>8</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>England</team>
+<period>2002 - 2003</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>6</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>West Ham United</team>
+<period>2002 - 2003</period>
+<fullapps>38</fullapps>
+<subs>0</subs>
+
+<cleansheets>7</cleansheets>
+<goalsconceded>58</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>England</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>West Ham United</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Summer Tournament</competition>
+<team>England</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Ham United</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>England</team>
+<period>2003 - 2004</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>6</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>England</team>
+<period>2003 - 2004</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>7</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Manchester City</team>
+<period>2003 - 2004</period>
+<fullapps>17</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>21</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>West Ham United</team>
+<period>2003 - 2004</period>
+<fullapps>27</fullapps>
+<subs>0</subs>
+
+<cleansheets>8</cleansheets>
+<goalsconceded>23</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>England</team>
+<period>2004 - 2005</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Manchester City</team>
+<period>2004 - 2005</period>
+<fullapps>38</fullapps>
+<subs>0</subs>
+
+<cleansheets>8</cleansheets>
+<goalsconceded>37</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>England</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Manchester City</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Manchester City</team>
+<period>2005 - 2006</period>
+<fullapps>38</fullapps>
+<subs>0</subs>
+
+<cleansheets>3</cleansheets>
+<goalsconceded>48</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>England</team>
+<period>2005 - 2006</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+
+<cleansheets/>
+<goalsconceded/>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Manchester City</team>
+<period>2005 - 2006</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>5</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>B International</competition>
+<team>England</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Manchester City</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Portsmouth</team>
+<period>2006 - 2007</period>
+<fullapps>38</fullapps>
+<subs>0</subs>
+
+<cleansheets>6</cleansheets>
+<goalsconceded>42</goalsconceded>
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Portsmouth</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Portsmouth</team>
+<period>2006 - 2007</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>England</team>
+<period>2007 - 2008</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Portsmouth</team>
+<period>2007 - 2008</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+
+<cleansheets>5</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Portsmouth</team>
+<period>2007 - 2008</period>
+<fullapps>35</fullapps>
+<subs>0</subs>
+
+<cleansheets>11</cleansheets>
+<goalsconceded>33</goalsconceded>
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Portsmouth</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>England</team>
+<period>2008 - 2009</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Portsmouth</team>
+<period>2008 - 2009</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Portsmouth</team>
+<period>2008 - 2009</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>10</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Portsmouth</team>
+<period>2008 - 2009</period>
+<fullapps>36</fullapps>
+<subs>0</subs>
+
+<cleansheets>4</cleansheets>
+<goalsconceded>55</goalsconceded>
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Community Shield</competition>
+<team>Portsmouth</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>England</team>
+<period>2008 - 2009</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>5</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Portsmouth</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>England</team>
+<period>2009 - 2010</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+
+<cleansheets/>
+<goalsconceded/>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Portsmouth</team>
+<period>2009 - 2010</period>
+<fullapps>12</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>18</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

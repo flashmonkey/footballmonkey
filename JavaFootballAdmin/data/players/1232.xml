@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="1232"><name>John Filan</name>
+
+<details>
+<country>AUS</country>
+<born>08 February 1970</born>
+<birthplace>Sydney</birthplace>
+<weight>84 kg</weight>
+<height>1.80 m</height>
+<position>Goalkeeper</position>
+
+</details>
+
+<description>John, who was signed by Cambridge United from Budapest St George in Australia, extended his contract at Wigan Athletic to June 2007 in April 2005.</description>
+
+<club_history>
+
+<period>
+<club>St George Budapest</club>
+<date_joined unformated="1992-07-01">01-07-1992</date_joined>
+<date_left unformated="1993-03-12">12-03-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Cambridge United</club>
+<date_joined unformated="1993-03-12">12-03-1993</date_joined>
+<date_left unformated="1995-03-02">02-03-1995</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Nottingham Forest</club>
+<date_joined unformated="1994-12-23">23-12-1994</date_joined>
+<date_left unformated="1995-01-02">02-01-1995</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Coventry City</club>
+<date_joined unformated="1995-03-02">02-03-1995</date_joined>
+<date_left unformated="1997-07-10">10-07-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1997-07-10">10-07-1997</date_joined>
+<date_left unformated="2001-12-14">14-12-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Wigan Athletic</club>
+<date_joined unformated="2001-12-14">14-12-2001</date_joined>
+<date_left unformated="2007-06-30">30-06-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Doncaster Rovers</club>
+<date_joined unformated="2006-10-06">06-10-2006</date_joined>
+<date_left unformated="2006-11-06">06-11-2006</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Jakarta Trophy</competition>
+<team>Australia</team>
+<period>1988 - 1989</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Presidents Cup</competition>
+<team>Australia</team>
+<period>1990 - 1991</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>Australia</team>
+<period>1991 - 1992</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Australia</team>
+<period>1991 - 1992</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Olympics</competition>
+<team>Australia</team>
+<period>1991 - 1992</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Olympics</competition>
+<team>Australia</team>
+<period>1992 - 1993</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Coventry City</team>
+<period>1994 - 1995</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Coventry City</team>
+<period>1995 - 1996</period>
+<fullapps>13</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>28</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Coventry City</team>
+<period>1995 - 1996</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Australia</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Coventry City</team>
+<period>1996 - 1997</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+
+<cleansheets/>
+<goalsconceded/>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1997 - 1998</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+
+<cleansheets>3</cleansheets>
+<goalsconceded>5</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1998 - 1999</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1998 - 1999</period>
+<fullapps>26</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>36</goalsconceded>
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Blackburn Rovers</team>
+<period>2000 - 2001</period>
+<fullapps>12</fullapps>
+<subs>1</subs>
+
+<cleansheets>4</cleansheets>
+<goalsconceded>11</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Wigan Athletic</team>
+<period>2001 - 2002</period>
+<fullapps>25</fullapps>
+<subs>0</subs>
+
+<cleansheets>5</cleansheets>
+<goalsconceded>23</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Wigan Athletic</team>
+<period>2002 - 2003</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Wigan Athletic</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Wigan Athletic</team>
+<period>2002 - 2003</period>
+<fullapps>46</fullapps>
+<subs>0</subs>
+
+<cleansheets>20</cleansheets>
+<goalsconceded>25</goalsconceded>
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Wigan Athletic</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Wigan Athletic</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Wigan Athletic</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Wigan Athletic</team>
+<period>2003 - 2004</period>
+<fullapps>45</fullapps>
+<subs>0</subs>
+
+<cleansheets>12</cleansheets>
+<goalsconceded>43</goalsconceded>
+<yellowcards>3</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Wigan Athletic</team>
+<period>2004 - 2005</period>
+<fullapps>46</fullapps>
+<subs>0</subs>
+
+<cleansheets>16</cleansheets>
+<goalsconceded>35</goalsconceded>
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Wigan Athletic</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Wigan Athletic</team>
+<period>2005 - 2006</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>5</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Wigan Athletic</team>
+<period>2005 - 2006</period>
+<fullapps>15</fullapps>
+<subs>0</subs>
+
+<cleansheets>7</cleansheets>
+<goalsconceded>14</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Wigan Athletic</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Johnstones Paint Trophy</competition>
+<team>Doncaster Rovers</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Doncaster Rovers</team>
+<period>2006 - 2007</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Wigan Athletic</team>
+<period>2006 - 2007</period>
+<fullapps>10</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>14</goalsconceded>
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

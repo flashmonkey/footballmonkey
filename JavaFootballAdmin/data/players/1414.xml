@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="1414"><name>Neil Heaney</name>
+
+<details>
+<country>ENG</country>
+<born>03 November 1971</born>
+<birthplace>Middlesbrough</birthplace>
+<weight>72 kg</weight>
+<height>1.75 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>A left winger with skill and pace, Neil lacked the consistency to establish his place under George Graham at Arsenal but went on to complete big money moves to Southampton and Manchester City. 
+Neil retired from senior football in December 2002 due to a knee injury.</description>
+
+<club_history>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="1989-11-14">14-11-1989</date_joined>
+<date_left unformated="1994-03-22">22-03-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hartlepool United</club>
+<date_joined unformated="1991-01-03">03-01-1991</date_joined>
+<date_left unformated="1991-02-01">01-02-1991</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Cambridge United</club>
+<date_joined unformated="1992-01-09">09-01-1992</date_joined>
+<date_left unformated="1992-05-31">31-05-1992</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Southampton</club>
+<date_joined unformated="1994-03-22">22-03-1994</date_joined>
+<date_left unformated="1996-11-25">25-11-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Manchester City</club>
+<date_joined unformated="1996-11-25">25-11-1996</date_joined>
+<date_left unformated="1999-07-06">06-07-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Charlton Athletic</club>
+<date_joined unformated="1998-03-26">26-03-1998</date_joined>
+<date_left unformated="1998-05-31">31-05-1998</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bristol City</club>
+<date_joined unformated="1999-03-12">12-03-1999</date_joined>
+<date_left unformated="1999-03-24">24-03-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Darlington</club>
+<date_joined unformated="1999-07-06">06-07-1999</date_joined>
+<date_left unformated="2000-07-24">24-07-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Dundee United</club>
+<date_joined unformated="2000-07-24">24-07-2000</date_joined>
+<date_left unformated="2001-12-04">04-12-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Plymouth Argyle</club>
+<date_joined unformated="2001-12-04">04-12-2001</date_joined>
+<date_left unformated="2002-12-13">13-12-2002</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>League Division One</competition>
+<team>Arsenal</team>
+<period>1991 - 1992</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1992 - 1993</period>
+<fullapps>3</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Arsenal</team>
+<period>1993 - 1994</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Southampton</team>
+<period>1993 - 1994</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1993 - 1994</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Southampton</team>
+<period>1994 - 1995</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Southampton</team>
+<period>1994 - 1995</period>
+<fullapps>21</fullapps>
+<subs>13</subs>
+<goals>2</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Southampton</team>
+<period>1994 - 1995</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Southampton</team>
+<period>1995 - 1996</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Southampton</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Southampton</team>
+<period>1995 - 1996</period>
+<fullapps>15</fullapps>
+<subs>2</subs>
+<goals>2</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Southampton</team>
+<period>1996 - 1997</period>
+<fullapps>4</fullapps>
+<subs>4</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Darlington</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish League Cup</competition>
+<team>Dundee United</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Dundee United</team>
+<period>2000 - 2001</period>
+<fullapps>7</fullapps>
+<subs>5</subs>
+<goals>0</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish FA Cup</competition>
+<team>Dundee United</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Plymouth Argyle</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>7</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="224502"><name>Brad Guzan</name>
+
+<details>
+<country>USA</country>
+<born>09 September 1984</born>
+<birthplace>Evergreen Park</birthplace>
+<weight>95 kg</weight>
+<height>1.93 m</height>
+<position>Goalkeeper</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Chivas USA</club>
+<date_joined unformated="2006-01-01">01-01-2006</date_joined>
+<date_left unformated="2008-08-01">01-08-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="2008-08-01">01-08-2008</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>International</competition>
+<team>USA</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Copa America</competition>
+<team>USA</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>USA</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>4</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Aston Villa</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Aston Villa</team>
+<period>2008 - 2009</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>8</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+
+<cleansheets/>
+<goalsconceded/>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Aston Villa</team>
+<period>2009 - 2010</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Europa League</competition>
+<team>Aston Villa</team>
+<period>2009 - 2010</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

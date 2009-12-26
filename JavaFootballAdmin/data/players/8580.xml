@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="8580"><name>Jorge Gonzalez Diaz Yordi</name>
+
+<details>
+<country>ESP</country>
+<born>14 September 1974</born>
+<birthplace>San Fernando</birthplace>
+<weight>82 kg</weight>
+<height>1.85 m</height>
+<position>Striker</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Sevilla</club>
+<date_joined unformated="1995">30-11-1994</date_joined>
+<date_left unformated="1996">30-11-1995</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Atletico Madrid B</club>
+<date_joined unformated="1996">30-11-1995</date_joined>
+<date_left unformated="1997">30-11-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Real Zaragoza</club>
+<date_joined unformated="2000">30-11-1999</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="2002-02-20">20-02-2002</date_joined>
+<date_left unformated="2002-05-12">12-05-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Real Zaragoza</team>
+<period>2000 - 2001</period>
+<fullapps>10</fullapps>
+<subs>21</subs>
+<goals>4</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Real Zaragoza</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Real Zaragoza</team>
+<period>2001 - 2002</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Real Zaragoza</team>
+<period>2001 - 2002</period>
+<fullapps>12</fullapps>
+<subs>6</subs>
+<goals>6</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2001 - 2002</period>
+<fullapps>5</fullapps>
+<subs>3</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Real Zaragoza</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>11</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Getafe</team>
+<period>2004 - 2005</period>
+<fullapps>14</fullapps>
+<subs>12</subs>
+<goals>2</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+</player_stats>
+
+</player>

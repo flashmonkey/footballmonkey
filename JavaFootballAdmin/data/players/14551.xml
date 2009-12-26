@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="14551"><name>Mikel Alonso</name>
+
+<details>
+<country>ESP</country>
+<born>16 May 1980</born>
+<birthplace>Tolosa</birthplace>
+<weight>76 kg</weight>
+<height>1.78 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Real Sociedad</club>
+<date_joined unformated="2000-07-01">01-07-2000</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Numancia</club>
+<date_joined unformated="2004-01-01">01-01-2004</date_joined>
+<date_left unformated="2004-05-31">31-05-2004</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2007-07-10">10-07-2007</date_joined>
+<date_left unformated="2008-05-31">31-05-2008</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Real Sociedad</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Real Sociedad</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Real Sociedad</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>8</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Real Sociedad</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Real Sociedad</team>
+<period>2004 - 2005</period>
+<fullapps>30</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2007 - 2008</period>
+<fullapps>4</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2007 - 2008</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2007 - 2008</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

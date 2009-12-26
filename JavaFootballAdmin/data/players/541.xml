@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="541"><name>Neil Cox</name>
+
+<details>
+<country>ENG</country>
+<born>08 October 1971</born>
+<birthplace>Scunthorpe</birthplace>
+<weight>86 kg</weight>
+<height>1.83 m</height>
+<position>Defender</position>
+
+</details>
+
+<description>With Aston Villa, League Cup winner 1994 
+Neil became increasingly influential at right back for Watford in 2000-01 as he became accustomed to the club's style of play during his second season at Vicarage Road.
+Strong going forward and a dead-ball specialist, he had the distinction of scoring the Hornets' first goal of the season with an astute free kick at Huddersfield Town and netted several more times including a brace in the 3-1 win over Queens Park Rangers in October.
+Like the rest of the defence, he wobbled a bit in mid-season but came back strongly towards the end of the campaign.
+He was placed on the transfer list by new boss Gianluca Vialli in the 2001 summer.
+Neil's fortunes improved with the Hornets to such an extent that, in May 2003, he agreed a new two-year deal.
+His contract was extended to June 2006 in August 2004.
+Neil joined Crewe Alexandra in July 2006 with a two-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Scunthorpe United</club>
+<date_joined unformated="1990-03-20">20-03-1990</date_joined>
+<date_left unformated="1991-02-12">12-02-1991</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="1991-02-12">12-02-1991</date_joined>
+<date_left unformated="1994-07-19">19-07-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Middlesbrough</club>
+<date_joined unformated="1994-07-19">19-07-1994</date_joined>
+<date_left unformated="1997-05-27">27-05-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="1997-05-27">27-05-1997</date_joined>
+<date_left unformated="1999-11-05">05-11-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Watford</club>
+<date_joined unformated="1999-11-05">05-11-1999</date_joined>
+<date_left unformated="2005-07-15">15-07-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Cardiff City</club>
+<date_joined unformated="2005-07-15">15-07-2005</date_joined>
+<date_left unformated="2006-06-30">30-06-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Crewe Alexandra</club>
+<date_joined unformated="2006-07-01">01-07-2006</date_joined>
+<date_left unformated="2008-06-30">30-06-2008</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1991 - 1992</period>
+<fullapps>4</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1992 - 1993</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>1992 - 1993</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Aston Villa</team>
+<period>1992 - 1993</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1992 - 1993</period>
+<fullapps>5</fullapps>
+<subs>9</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>1993 - 1994</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1993 - 1994</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Aston Villa</team>
+<period>1993 - 1994</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Aston Villa</team>
+<period>1993 - 1994</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1993 - 1994</period>
+<fullapps>16</fullapps>
+<subs>4</subs>
+<goals>2</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Middlesbrough</team>
+<period>1994 - 1995</period>
+<fullapps>39</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Middlesbrough</team>
+<period>1994 - 1995</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Middlesbrough</team>
+<period>1995 - 1996</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Middlesbrough</team>
+<period>1995 - 1996</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Middlesbrough</team>
+<period>1995 - 1996</period>
+<fullapps>35</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Middlesbrough</team>
+<period>1996 - 1997</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Middlesbrough</team>
+<period>1996 - 1997</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Middlesbrough</team>
+<period>1996 - 1997</period>
+<fullapps>29</fullapps>
+<subs>2</subs>
+<goals>0</goals>
+
+<yellowcards>9</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>1997 - 1998</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>1997 - 1998</period>
+<fullapps>19</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Watford</team>
+<period>1999 - 2000</period>
+<fullapps>20</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Watford</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Watford</team>
+<period>2000 - 2001</period>
+<fullapps>43</fullapps>
+<subs>1</subs>
+<goals>5</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Watford</team>
+<period>2000 - 2001</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Watford</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Watford</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Watford</team>
+<period>2001 - 2002</period>
+<fullapps>39</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Watford</team>
+<period>2001 - 2002</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Watford</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Watford</team>
+<period>2002 - 2003</period>
+<fullapps>40</fullapps>
+<subs>0</subs>
+<goals>9</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Watford</team>
+<period>2002 - 2003</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Watford</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Watford</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Watford</team>
+<period>2003 - 2004</period>
+<fullapps>35</fullapps>
+<subs>0</subs>
+<goals>4</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Watford</team>
+<period>2004 - 2005</period>
+<fullapps>38</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Watford</team>
+<period>2004 - 2005</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Watford</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Cardiff City</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Cardiff City</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Cardiff City</team>
+<period>2005 - 2006</period>
+<fullapps>21</fullapps>
+<subs>6</subs>
+<goals>2</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Johnstones Paint Trophy</competition>
+<team>Crewe Alexandra</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Crewe Alexandra</team>
+<period>2006 - 2007</period>
+<fullapps>29</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Crewe Alexandra</team>
+<period>2006 - 2007</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Crewe Alexandra</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Crewe Alexandra</team>
+<period>2007 - 2008</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Crewe Alexandra</team>
+<period>2007 - 2008</period>
+<fullapps>21</fullapps>
+<subs>6</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

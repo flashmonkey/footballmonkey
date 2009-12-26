@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="10840"><name>Mustapha Riga</name>
+
+<details>
+<country>NED</country>
+<born>10 October 1981</born>
+<birthplace>Accra, Ghana</birthplace>
+<weight>67 kg</weight>
+<height>1.82 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>Mustapha, who is also known as Rahamat Mustapha, joined Bolton Wanderers in July 2008 with a three-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Vitesse Arnhem</club>
+<date_joined unformated="1998-07-01">01-07-1998</date_joined>
+<date_left unformated="2003-07-01">01-07-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>RBC Roosendaal</club>
+<date_joined unformated="2000-07-01">01-07-2000</date_joined>
+<date_left unformated="2001-05-31">31-05-2001</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Sparta Rotterdam</club>
+<date_joined unformated="2003-07-01">01-07-2003</date_joined>
+<date_left unformated="2005-07-01">01-07-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Levante</club>
+<date_joined unformated="2005-07-01">01-07-2005</date_joined>
+<date_left unformated="2008-06-30">30-06-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2008-07-28">28-07-2008</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Under 18</competition>
+<team>Holland</team>
+<period>1998 - 1999</period>
+<fullapps>5</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 18</competition>
+<team>Holland</team>
+<period>1999 - 2000</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>World Youth Cup</competition>
+<team>Holland</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Holland</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Dutch KPN Telecompetitie</competition>
+<team>RBC Roosendaal</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>8</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 18</competition>
+<team>Holland</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Toulon Under 21</competition>
+<team>Holland</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>World Youth Cup Under 20</competition>
+<team>Holland</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Dutch KPN Telecompetitie</competition>
+<team>Vitesse Arnhem</team>
+<period>2001 - 2002</period>
+<fullapps>5</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>World Youth Cup</competition>
+<team>Holland</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Holland</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Vitesse Arnhem</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2008 - 2009</period>
+<fullapps>2</fullapps>
+<subs>15</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2009 - 2010</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

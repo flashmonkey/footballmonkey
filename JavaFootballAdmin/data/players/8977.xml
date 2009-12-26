@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="8977"><name>Sam Ricketts</name>
+
+<details>
+<country>WAL</country>
+<born>11 October 1981</born>
+<birthplace>Aylesbury</birthplace>
+<weight>75 kg</weight>
+<height>1.83 m</height>
+<position>Defender</position>
+
+</details>
+
+<description>Having graduated through the ranks at Oxford United, Sam made his Football League debut at Swindon Town in October 2000 and went on to enjoy a brief run in the side under caretaker-manager Mike Ford. 
+ He is a promising right-sided player who featured both at full back and in midfield. 
+ Sam, who is the son of the show jumper Derek Ricketts and a nephew of the former jockey John Francombe, joined Telford United in July 2003 in a two-year deal.
+After his contract at Telford was cancelled, Sam joined Swansea City in May 2004 in a two-year deal that was extended to June 2008 in August 2005.
+Sam joined Hull City in July 2006 with a three-year contract.
+He joined Bolton Wanderers in July 2009 with a three-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Oxford United</club>
+<date_joined unformated="2000-04-20">20-04-2000</date_joined>
+<date_left unformated="2003-06-30">30-06-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Nuneaton Borough</club>
+<date_joined unformated="2002-10-18">18-10-2002</date_joined>
+<date_left unformated="2002-12-13">13-12-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Nuneaton Borough</club>
+<date_joined unformated="2002-12-24">24-12-2002</date_joined>
+<date_left unformated="2003-01-25">25-01-2003</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Telford United</club>
+<date_joined unformated="2003-07-11">11-07-2003</date_joined>
+<date_left unformated="2004-05-07">07-05-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Swansea City</club>
+<date_joined unformated="2004-05-27">27-05-2004</date_joined>
+<date_left unformated="2006-07-14">14-07-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hull City</club>
+<date_joined unformated="2006-07-14">14-07-2006</date_joined>
+<date_left unformated="2009-07-25">25-07-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2009-07-25">25-07-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Oxford United</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Oxford United</team>
+<period>2000 - 2001</period>
+<fullapps>13</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Oxford United</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Oxford United</team>
+<period>2001 - 2002</period>
+<fullapps>19</fullapps>
+<subs>10</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Oxford United</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Oxford United</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>SP Four Nations Tournament</competition>
+<team>England</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Semi Pro</competition>
+<team>England</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Telford United</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Telford United</team>
+<period>2003 - 2004</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Wales</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Swansea City</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Wales</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Swansea City</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Swansea City</team>
+<period>2004 - 2005</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Swansea City</team>
+<period>2004 - 2005</period>
+<fullapps>42</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League One Play-Offs</competition>
+<team>Swansea City</team>
+<period>2005 - 2006</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Swansea City</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Swansea City</team>
+<period>2005 - 2006</period>
+<fullapps>43</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Wales</team>
+<period>2005 - 2006</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Swansea City</team>
+<period>2005 - 2006</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Wales</team>
+<period>2005 - 2006</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Swansea City</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Hull City</team>
+<period>2006 - 2007</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Hull City</team>
+<period>2006 - 2007</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Hull City</team>
+<period>2006 - 2007</period>
+<fullapps>40</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Wales</team>
+<period>2006 - 2007</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Wales</team>
+<period>2006 - 2007</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Hull City</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship Play-Offs</competition>
+<team>Hull City</team>
+<period>2007 - 2008</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Hull City</team>
+<period>2007 - 2008</period>
+<fullapps>44</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>7</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Wales</team>
+<period>2007 - 2008</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Wales</team>
+<period>2007 - 2008</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Wales</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Hull City</team>
+<period>2008 - 2009</period>
+<fullapps>27</fullapps>
+<subs>2</subs>
+<goals>0</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Hull City</team>
+<period>2008 - 2009</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Wales</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2009 - 2010</period>
+<fullapps>12</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2009 - 2010</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

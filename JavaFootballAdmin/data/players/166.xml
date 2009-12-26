@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="166"><name>Lars Bohinen</name>
+
+<details>
+<country>DEN</country>
+<born>08 September 1969</born>
+<birthplace>Vadso</birthplace>
+<weight>81 kg</weight>
+<height>1.83 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>After a disappointing time in 1999-2000 the 
+Norwegian international midfielder returned 
+to Scandinavia in the summer to train with 
+his local side in order to prepare properly for 
+the upcoming season with Derby County. A 
+skilful player with good passing abilities he 
+still tended to struggle with the more 
+physical side of the game. Unable to get into 
+the first team he was restricted to reserve 
+appearances only, returning for one game at 
+Chelsea before his contract was cancelled in 
+January and he moved on to Danish club 
+Lyngby.</description>
+
+<club_history>
+
+<period>
+<club>Valerenga</club>
+<date_joined unformated="1988-00-00">30-11-1987</date_joined>
+<date_left unformated="1989-00-00">30-11-1988</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Viking Stavanger</club>
+<date_joined unformated="1989-00-00">30-11-1988</date_joined>
+<date_left unformated="1990-00-00">30-11-1989</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Young Boys Berne</club>
+<date_joined unformated="1990-00-00">30-11-1989</date_joined>
+<date_left unformated="1993-11-05">05-11-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Nottingham Forest</club>
+<date_joined unformated="1993-11-05">05-11-1993</date_joined>
+<date_left unformated="1995-10-14">14-10-1995</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1995-10-14">14-10-1995</date_joined>
+<date_left unformated="1998-03-27">27-03-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Derby County</club>
+<date_joined unformated="1998-03-27">27-03-1998</date_joined>
+<date_left unformated="2001-01-19">19-01-2001</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Under 18</competition>
+<team>Norway</team>
+<period>1986 - 1987</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 18 v Under 20</competition>
+<team>Norway</team>
+<period>1986 - 1987</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 18</competition>
+<team>Norway</team>
+<period>1986 - 1987</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 18</competition>
+<team>Norway</team>
+<period>1987 - 1988</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 18</competition>
+<team>Norway</team>
+<period>1987 - 1988</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Inter Tourn</competition>
+<team>Norway</team>
+<period>1987 - 1988</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International Tournament</competition>
+<team>Norway</team>
+<period>1987 - 1988</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>World Youth Cup</competition>
+<team>Norway</team>
+<period>1988 - 1989</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>Norway</team>
+<period>1988 - 1989</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Norway</team>
+<period>1988 - 1989</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 18</competition>
+<team>Norway</team>
+<period>1988 - 1989</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Rothmans Tournament</competition>
+<team>Norway</team>
+<period>1989 - 1990</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Norway</team>
+<period>1989 - 1990</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>Norway</team>
+<period>1989 - 1990</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Norway</team>
+<period>1989 - 1990</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Norway</team>
+<period>1990 - 1991</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Norway</team>
+<period>1990 - 1991</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Norway</team>
+<period>1990 - 1991</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>Norway</team>
+<period>1990 - 1991</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Norway</team>
+<period>1991 - 1992</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Norway</team>
+<period>1991 - 1992</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Norway</team>
+<period>1991 - 1992</period>
+<fullapps>3</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Norway</team>
+<period>1992 - 1993</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Norway</team>
+<period>1993 - 1994</period>
+<fullapps>5</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Norway</team>
+<period>1993 - 1994</period>
+<fullapps>8</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Norway</team>
+<period>1994 - 1995</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Norway</team>
+<period>1994 - 1995</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Nottingham Forest</team>
+<period>1994 - 1995</period>
+<fullapps>30</fullapps>
+<subs>4</subs>
+<goals>6</goals>
+
+<yellowcards>8</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Norway</team>
+<period>1995 - 1996</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1995 - 1996</period>
+<fullapps>17</fullapps>
+<subs>2</subs>
+<goals>4</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Norway</team>
+<period>1995 - 1996</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Nottingham Forest</team>
+<period>1995 - 1996</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Nottingham Forest</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Norway</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1996 - 1997</period>
+<fullapps>17</fullapps>
+<subs>6</subs>
+<goals>2</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1997 - 1998</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Norway</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1997 - 1998</period>
+<fullapps>6</fullapps>
+<subs>10</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Derby County</team>
+<period>1997 - 1998</period>
+<fullapps>9</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Derby County</team>
+<period>1998 - 1999</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Derby County</team>
+<period>1998 - 1999</period>
+<fullapps>28</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Norway</team>
+<period>1998 - 1999</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Derby County</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Derby County</team>
+<period>1999 - 2000</period>
+<fullapps>8</fullapps>
+<subs>5</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Derby County</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

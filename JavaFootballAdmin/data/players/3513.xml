@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="3513"><name>Greg Strong</name>
+
+<details>
+<country>ENG</country>
+<born>05 September 1975</born>
+<birthplace>Bolton</birthplace>
+<weight>90 kg</weight>
+<height>1.91 m</height>
+<position>Defender/Centre back</position>
+
+</details>
+
+<description>Greg began his professional career at Wigan Athletic, moving on to Bolton Wanderers in September 1995 after three seasons with the Latics.
+However, he failed to win a regular place for Wanderers and eventually moved on loan to Motherwell in March 2000.
+He settled down to win a first-team slot at Fir Park, proving to be a reliable central defender who is particularly effective in the tackle.
+Greg moved back to England with Third Division Hull City on a three-year contract but was made available for transfer by the Tigers in April 2003 before joining Boston United in March 2004 with a contract to June 2006.
+He was made available for transfer by the Pilgrims in November 2004.</description>
+
+<club_history>
+
+<period>
+<club>Wigan Athletic</club>
+<date_joined unformated="1992-10-01">01-10-1992</date_joined>
+<date_left unformated="1995-09-10">10-09-1995</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="1995-09-10">10-09-1995</date_joined>
+<date_left unformated="2000-07-01">01-07-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackpool</club>
+<date_joined unformated="1997-11-27">27-11-1997</date_joined>
+<date_left unformated="1998-02-10">10-02-1998</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Stoke City</club>
+<date_joined unformated="1999-03-24">24-03-1999</date_joined>
+<date_left unformated="1999-04-27">27-04-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Motherwell</club>
+<date_joined unformated="2000-03-17">17-03-2000</date_joined>
+<date_left unformated="2000-05-22">22-05-2000</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Motherwell</club>
+<date_joined unformated="2000-07-01">01-07-2000</date_joined>
+<date_left unformated="2002-05-31">31-05-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hull City</club>
+<date_joined unformated="2002-06-01">01-06-2002</date_joined>
+<date_left unformated="2004-03-09">09-03-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Cheltenham Town</club>
+<date_joined unformated="2003-02-03">03-02-2003</date_joined>
+<date_left unformated="2003-03-03">03-03-2003</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Scunthorpe United</club>
+<date_joined unformated="2003-03-25">25-03-2003</date_joined>
+<date_left unformated="2003-05-15">15-05-2003</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bury</club>
+<date_joined unformated="2003-07-31">31-07-2003</date_joined>
+<date_left unformated="2003-09-30">30-09-2003</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Boston United</club>
+<date_joined unformated="2004-03-09">09-03-2004</date_joined>
+<date_left unformated="2005-01-31">31-01-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Macclesfield Town</club>
+<date_joined unformated="2004-12-10">10-12-2004</date_joined>
+<date_left unformated="2005-01-10">10-01-2005</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Livingston</club>
+<date_joined unformated="2005-01-31">31-01-2005</date_joined>
+<date_left unformated="2006-05-31">31-05-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Dundee</club>
+<date_joined unformated="2006-08-08">08-08-2006</date_joined>
+<date_left unformated="2006-12-20">20-12-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Darlington</club>
+<date_joined unformated="2007-01-29">29-01-2007</date_joined>
+<date_left unformated="2007-02-02">02-02-2007</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Halifax Town</club>
+<date_joined unformated="2007-03-08">08-03-2007</date_joined>
+<date_left unformated="2007-06-30">30-06-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Northwich Victoria</club>
+<date_joined unformated="2007-07-16">16-07-2007</date_joined>
+<date_left unformated="2008-02-08">08-02-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Droylsden</club>
+<date_joined unformated="2008-02-08">08-02-2008</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>1995 - 1996</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Bolton Wanderers</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Motherwell</team>
+<period>1999 - 2000</period>
+<fullapps>10</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish FA Cup</competition>
+<team>Motherwell</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Scottish League Cup</competition>
+<team>Motherwell</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Motherwell</team>
+<period>2000 - 2001</period>
+<fullapps>31</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>9</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Motherwell</team>
+<period>2001 - 2002</period>
+<fullapps>31</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Scottish FA Cup</competition>
+<team>Motherwell</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Scunthorpe United</team>
+<period>2002 - 2003</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3 Play-Offs</competition>
+<team>Scunthorpe United</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Cheltenham Town</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Hull City</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Hull City</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Bury</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Bury</team>
+<period>2003 - 2004</period>
+<fullapps>10</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Boston United</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Boston United</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Livingston</team>
+<period>2004 - 2005</period>
+<fullapps>6</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Macclesfield Town</team>
+<period>2004 - 2005</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Boston United</team>
+<period>2004 - 2005</period>
+<fullapps>8</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

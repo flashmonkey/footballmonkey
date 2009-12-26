@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="3645"><name>Rodney Wallace</name>
+
+<details>
+<country>ENG</country>
+<born>02 October 1969</born>
+<birthplace>Greenwich</birthplace>
+<weight>70 kg</weight>
+<height>1.70 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>Rod's contract at Gillingham was cancelled in April 2004.</description>
+
+<club_history>
+
+<period>
+<club>Southampton</club>
+<date_joined unformated="1988-04-19">19-04-1988</date_joined>
+<date_left unformated="1991-06-07">07-06-1991</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Leeds United</club>
+<date_joined unformated="1991-06-07">07-06-1991</date_joined>
+<date_left unformated="1998-07-17">17-07-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Rangers</club>
+<date_joined unformated="1998-07-17">17-07-1998</date_joined>
+<date_left unformated="2001-06-30">30-06-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2001-09-17">17-09-2001</date_joined>
+<date_left unformated="2002-06-23">23-06-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Gillingham</club>
+<date_joined unformated="2002-06-24">24-06-2002</date_joined>
+<date_left unformated="2004-04-30">30-04-2004</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>League Division One</competition>
+<team>Southampton</team>
+<period>1987 - 1988</period>
+<fullapps>3</fullapps>
+<subs>14</subs>
+<goals>5</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Littlewoods Cup</competition>
+<team>Southampton</team>
+<period>1988 - 1989</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Southampton</team>
+<period>1988 - 1989</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Southampton</team>
+<period>1988 - 1989</period>
+<fullapps>34</fullapps>
+<subs>4</subs>
+<goals>17</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Littlewoods Cup</competition>
+<team>Southampton</team>
+<period>1989 - 1990</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Southampton</team>
+<period>1989 - 1990</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Southampton</team>
+<period>1989 - 1990</period>
+<fullapps>34</fullapps>
+<subs>4</subs>
+<goals>20</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Southampton</team>
+<period>1990 - 1991</period>
+<fullapps>35</fullapps>
+<subs>2</subs>
+<goals>14</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Rumbelows League Cup</competition>
+<team>Southampton</team>
+<period>1990 - 1991</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Southampton</team>
+<period>1990 - 1991</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Leeds United</team>
+<period>1992 - 1993</period>
+<fullapps>31</fullapps>
+<subs>1</subs>
+<goals>7</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Leeds United</team>
+<period>1993 - 1994</period>
+<fullapps>34</fullapps>
+<subs>3</subs>
+<goals>17</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Leeds United</team>
+<period>1994 - 1995</period>
+<fullapps>30</fullapps>
+<subs>2</subs>
+<goals>4</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Leeds United</team>
+<period>1995 - 1996</period>
+<fullapps>12</fullapps>
+<subs>12</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Leeds United</team>
+<period>1996 - 1997</period>
+<fullapps>17</fullapps>
+<subs>5</subs>
+<goals>3</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Leeds United</team>
+<period>1996 - 1997</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Leeds United</team>
+<period>1997 - 1998</period>
+<fullapps>29</fullapps>
+<subs>2</subs>
+<goals>10</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Leeds United</team>
+<period>1997 - 1998</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Leeds United</team>
+<period>1997 - 1998</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish FA Cup</competition>
+<team>Rangers</team>
+<period>1999 - 2000</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish League Cup</competition>
+<team>Rangers</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Rangers</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Rangers</team>
+<period>1999 - 2000</period>
+<fullapps>8</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Rangers</team>
+<period>1999 - 2000</period>
+<fullapps>25</fullapps>
+<subs>3</subs>
+<goals>16</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish League Cup</competition>
+<team>Rangers</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Rangers</team>
+<period>2000 - 2001</period>
+<fullapps>14</fullapps>
+<subs>1</subs>
+<goals>5</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Rangers</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish FA Cup</competition>
+<team>Rangers</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Rangers</team>
+<period>2000 - 2001</period>
+<fullapps>5</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2001 - 2002</period>
+<fullapps>14</fullapps>
+<subs>5</subs>
+<goals>3</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Gillingham</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Gillingham</team>
+<period>2002 - 2003</period>
+<fullapps>17</fullapps>
+<subs>5</subs>
+<goals>11</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Gillingham</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Gillingham</team>
+<period>2003 - 2004</period>
+<fullapps>10</fullapps>
+<subs>4</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Gillingham</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

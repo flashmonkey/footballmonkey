@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="7017"><name>Walter Pandiani</name>
+
+<details>
+<country>URU</country>
+<born>15 April 1976</born>
+<birthplace>Montevideo</birthplace>
+<weight>74 kg</weight>
+<height>1.84 m</height>
+<position>Forward</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Progreso</club>
+<date_joined unformated="1996-01-01">01-01-1996</date_joined>
+<date_left unformated="1997-01-01">01-01-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bas��ez</club>
+<date_joined unformated="1997-01-01">01-01-1997</date_joined>
+<date_left unformated="1998-01-01">01-01-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Pe�arol</club>
+<date_joined unformated="1998-01-01">01-01-1998</date_joined>
+<date_left unformated="2000-07-01">01-07-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Deportivo La Coruna</club>
+<date_joined unformated="2000-07-01">01-07-2000</date_joined>
+<date_left unformated="2005-08-05">05-08-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Real Mallorca</club>
+<date_joined unformated="2002-08-01">01-08-2002</date_joined>
+<date_left unformated="2003-05-31">31-05-2003</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2005-01-31">31-01-2005</date_joined>
+<date_left unformated="2005-05-31">31-05-2005</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2005-08-05">05-08-2005</date_joined>
+<date_left unformated="2006-01-13">13-01-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Espanyol</club>
+<date_joined unformated="2006-01-13">13-01-2006</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Deportivo La Coruna</team>
+<period>2000 - 2001</period>
+<fullapps>7</fullapps>
+<subs>18</subs>
+<goals>7</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Deportivo La Coruna</team>
+<period>2000 - 2001</period>
+<fullapps>7</fullapps>
+<subs>5</subs>
+<goals>5</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Deportivo La Coruna</team>
+<period>2001 - 2002</period>
+<fullapps>4</fullapps>
+<subs>14</subs>
+<goals>5</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Deportivo La Coruna</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>7</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Real Mallorca</team>
+<period>2002 - 2003</period>
+<fullapps>33</fullapps>
+<subs>0</subs>
+<goals>14</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Deportivo La Coruna</team>
+<period>2003 - 2004</period>
+<fullapps>7</fullapps>
+<subs>6</subs>
+<goals>5</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Deportivo La Coruna</team>
+<period>2003 - 2004</period>
+<fullapps>15</fullapps>
+<subs>13</subs>
+<goals>13</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2004 - 2005</period>
+<fullapps>13</fullapps>
+<subs>1</subs>
+<goals>4</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Deportivo La Coruna</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Deportivo La Coruna</team>
+<period>2004 - 2005</period>
+<fullapps>11</fullapps>
+<subs>4</subs>
+<goals>6</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Birmingham City</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2005 - 2006</period>
+<fullapps>7</fullapps>
+<subs>10</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>2005 - 2006</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

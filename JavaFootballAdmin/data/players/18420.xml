@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="18420"><name>Paul Harford</name>
+
+<details>
+<country>ENG</country>
+<born>21 October 1974</born>
+<birthplace>Chelmsford</birthplace>
+<weight>88 kg</weight>
+<height>1.93 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Paul, who joined Aldershot Town from Sutton United, previously played for Welling United, Farnborough Town and Blackburn Rovers.</description>
+
+<club_history>
+
+<period>
+<club>Aldershot Town</club>
+<date_joined unformated="2001-05-01">01-05-2001</date_joined>
+<date_left unformated="2002-06-30">30-06-2002</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aldershot Town</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

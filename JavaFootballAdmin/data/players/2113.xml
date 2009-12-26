@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="2113"><name>Darren Peacock</name>
+
+<details>
+<country>ENG</country>
+<born>03 February 1968</born>
+<birthplace>Bristol</birthplace>
+<weight>82 kg</weight>
+<height>1.88 m</height>
+<position>Defender/Centre back</position>
+
+</details>
+
+<description>Darren became Britain�s most expensive defender when he joined Newcastle from Queens Park Rangers for �2.7million in 1994. He provided the required steel to the rearguard of United�s free-flowing team. Retired from football due to injury</description>
+
+<club_history>
+
+<period>
+<club>Newport County</club>
+<date_joined unformated="1986-02-11">11-02-1986</date_joined>
+<date_left unformated="1989-03-23">23-03-1989</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hereford United</club>
+<date_joined unformated="1989-03-23">23-03-1989</date_joined>
+<date_left unformated="1990-12-22">22-12-1990</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Queens Park Rangers</club>
+<date_joined unformated="1990-12-22">22-12-1990</date_joined>
+<date_left unformated="1994-03-24">24-03-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Newcastle United</club>
+<date_joined unformated="1994-03-24">24-03-1994</date_joined>
+<date_left unformated="1998-07-02">02-07-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1998-07-02">02-07-1998</date_joined>
+<date_left unformated="2000-12-09">09-12-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>West Ham United</club>
+<date_joined unformated="2000-09-05">05-09-2000</date_joined>
+<date_left unformated="2000-10-02">02-10-2000</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Wolverhampton Wanderers</club>
+<date_joined unformated="2000-10-13">13-10-2000</date_joined>
+<date_left unformated="2000-11-03">03-11-2000</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Queens Park Rangers</team>
+<period>1992 - 1993</period>
+<fullapps>35</fullapps>
+<subs>3</subs>
+<goals>2</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Newcastle United</team>
+<period>1993 - 1994</period>
+<fullapps>9</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Queens Park Rangers</team>
+<period>1993 - 1994</period>
+<fullapps>30</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Newcastle United</team>
+<period>1994 - 1995</period>
+<fullapps>35</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Newcastle United</team>
+<period>1994 - 1995</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Newcastle United</team>
+<period>1994 - 1995</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Newcastle United</team>
+<period>1994 - 1995</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Newcastle United</team>
+<period>1995 - 1996</period>
+<fullapps>33</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Newcastle United</team>
+<period>1995 - 1996</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Newcastle United</team>
+<period>1995 - 1996</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Newcastle United</team>
+<period>1996 - 1997</period>
+<fullapps>8</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Newcastle United</team>
+<period>1996 - 1997</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Charity Shield</competition>
+<team>Newcastle United</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Newcastle United</team>
+<period>1996 - 1997</period>
+<fullapps>34</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Newcastle United</team>
+<period>1996 - 1997</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Newcastle United</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Newcastle United</team>
+<period>1997 - 1998</period>
+<fullapps>20</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Newcastle United</team>
+<period>1997 - 1998</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Newcastle United</team>
+<period>1997 - 1998</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1998 - 1999</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1998 - 1999</period>
+<fullapps>27</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Wolverhampton Wanderers</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Wolverhampton Wanderers</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

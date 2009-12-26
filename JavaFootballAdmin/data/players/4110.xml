@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="4110"><name>Chris Kiwomya</name>
+
+<details>
+<country>ENG</country>
+<born>02 December 1969</born>
+<birthplace>Huddersfield</birthplace>
+<weight>71 kg</weight>
+<height>1.75 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>An athletic forward with considerable pace, Chris struggled to recapture the consistent form that persuaded Arsenal to invest �1.5million after over 200 games for Ipswich Town.
+Getting on for 400 club appearances in total. Chris made a promising start to the 2000-01 season with Queens Park Rangers, scoring a number of goals before suffering an injury at the end of September.  He came back just three games later but this proved to be too soon as he aggravated the problem and was sidelined until the turn of the year. He subsequently returned to first-team action but failed to capture his early season form in a struggling side. A pacy striker he can either play on the left-hand side or in a central role. Chris was one of 15 players released by Rangers in the 2001 summer.</description>
+
+<club_history>
+
+<period>
+<club>Ipswich Town</club>
+<date_joined unformated="1987-03-31">31-03-1987</date_joined>
+<date_left unformated="1995-01-13">13-01-1995</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="1995-01-13">13-01-1995</date_joined>
+<date_left unformated="1997-08-21">21-08-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Selangor</club>
+<date_joined unformated="1997-08-21">21-08-1997</date_joined>
+<date_left unformated="1998-08-28">28-08-1998</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Queens Park Rangers</club>
+<date_joined unformated="1998-08-28">28-08-1998</date_joined>
+<date_left unformated="2001-06-30">30-06-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Aab Aalborg</club>
+<date_joined unformated="2001-07-23">23-07-2001</date_joined>
+<date_left unformated="2002-03-04">04-03-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Grimsby Town</club>
+<date_joined unformated="2002-03-04">04-03-2002</date_joined>
+<date_left unformated="2002-04-21">21-04-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hull City</club>
+<date_joined unformated="2002-09-30">30-09-2002</date_joined>
+<date_left unformated="2002-10-04">04-10-2002</date_left>
+<trialist>T</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Ipswich Town</team>
+<period>1992 - 1993</period>
+<fullapps>38</fullapps>
+<subs>0</subs>
+<goals>10</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Ipswich Town</team>
+<period>1993 - 1994</period>
+<fullapps>34</fullapps>
+<subs>3</subs>
+<goals>5</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Ipswich Town</team>
+<period>1994 - 1995</period>
+<fullapps>13</fullapps>
+<subs>2</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1994 - 1995</period>
+<fullapps>6</fullapps>
+<subs>8</subs>
+<goals>3</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>European Cup Winners Cup</competition>
+<team>Arsenal</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Queens Park Rangers</team>
+<period>1998 - 1999</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Queens Park Rangers</team>
+<period>2000 - 2001</period>
+<fullapps>20</fullapps>
+<subs>6</subs>
+<goals>6</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Queens Park Rangers</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Queens Park Rangers</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

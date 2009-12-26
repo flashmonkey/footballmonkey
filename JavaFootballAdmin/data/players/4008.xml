@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="4008"><name>Steve Livingstone</name>
+
+<details>
+<country>ENG</country>
+<born>08 September 1969</born>
+<birthplace>Middlesbrough</birthplace>
+<weight>85 kg</weight>
+<height>1.81 m</height>
+<position>Defender/Forward</position>
+
+</details>
+
+<description>Only made one appearance for Chelsea after being transferred from Blackburn Rovers as part of the Graeme Le Saux deal. After spending almost two seasons as a central defender for Grimsby Town, Steve moved back to his former role as a striker in 2000-01 following the return to fitness of Peter Handyside. With the Mariners struggling for goals, he proved quite effective and finished the campaign as the club's leading scorer. His absence with a calf injury in the vital run-in left the team a little lightweight up front but he returned for the last few matches and notched an important goal in the 3-1 win over fellow strugglers Tranmere Rovers. Steve is an old-fashioned striker who works tirelessly and is good in the air.
+Steve, who was one of nine players placed on the transfer list at Carlisle United in November 2003, announced his retirement from senior football when his contract was cancelled in January 2004.</description>
+
+<club_history>
+
+<period>
+<club>Coventry City</club>
+<date_joined unformated="1986-07-16">16-07-1986</date_joined>
+<date_left unformated="1991-01-17">17-01-1991</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Coventry City</club>
+<date_joined unformated="1986-07-16">16-07-1986</date_joined>
+<date_left unformated="1991-01-17">17-01-1991</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1991-01-17">17-01-1991</date_joined>
+<date_left unformated="1993-03-23">23-03-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1991-01-17">17-01-1991</date_joined>
+<date_left unformated="1993-03-23">23-03-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Chelsea</club>
+<date_joined unformated="1993-03-23">23-03-1993</date_joined>
+<date_left unformated="1993-10-29">29-10-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Chelsea</club>
+<date_joined unformated="1993-03-23">23-03-1993</date_joined>
+<date_left unformated="1993-10-29">29-10-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Port Vale</club>
+<date_joined unformated="1993-09-03">03-09-1993</date_joined>
+<date_left unformated="1993-10-01">01-10-1993</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Grimsby Town</club>
+<date_joined unformated="1993-10-29">29-10-1993</date_joined>
+<date_left unformated="2003-06-30">30-06-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Carlisle United</club>
+<date_joined unformated="2003-07-03">03-07-2003</date_joined>
+<date_left unformated="2004-01-28">28-01-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Whitby Town</club>
+<date_joined unformated="2004-09-10">10-09-2004</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>League Division One</competition>
+<team>Coventry City</team>
+<period>1986 - 1987</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Coventry City</team>
+<period>1987 - 1988</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Littlewoods Cup</competition>
+<team>Coventry City</team>
+<period>1987 - 1988</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Coventry City</team>
+<period>1988 - 1989</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Littlewoods Cup</competition>
+<team>Coventry City</team>
+<period>1989 - 1990</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals>5</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Coventry City</team>
+<period>1989 - 1990</period>
+<fullapps>6</fullapps>
+<subs>7</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Coventry City</team>
+<period>1990 - 1991</period>
+<fullapps>6</fullapps>
+<subs>4</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Rumbelows League Cup</competition>
+<team>Coventry City</team>
+<period>1990 - 1991</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>5</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Chelsea</team>
+<period>1992 - 1993</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1992 - 1993</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Grimsby Town</team>
+<period>1997 - 1998</period>
+<fullapps>2</fullapps>
+<subs>2</subs>
+<goals>3</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Grimsby Town</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Grimsby Town</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Grimsby Town</team>
+<period>2000 - 2001</period>
+<fullapps>27</fullapps>
+<subs>5</subs>
+<goals>7</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Grimsby Town</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Grimsby Town</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Grimsby Town</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Grimsby Town</team>
+<period>2002 - 2003</period>
+<fullapps>21</fullapps>
+<subs>9</subs>
+<goals>3</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Carlisle United</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Carlisle United</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Carlisle United</team>
+<period>2003 - 2004</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>2</redcards>
+</stat>
+
+</player_stats>
+
+</player>

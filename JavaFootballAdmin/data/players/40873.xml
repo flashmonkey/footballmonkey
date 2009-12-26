@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="40873"><name>Martin Latka</name>
+
+<details>
+<country>CZE</country>
+<born>28 September 1984</born>
+<birthplace>Ceske Budojovice</birthplace>
+<weight>83 kg</weight>
+<height>1.92 m</height>
+<position>Defender</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>SK Cesk� Budejovice</club>
+<date_joined unformated="2002-07-01">01-07-2002</date_joined>
+<date_left unformated="2003-07-01">01-07-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Slavia Praha</club>
+<date_joined unformated="2003-07-01">01-07-2003</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2006-01-30">30-01-2006</date_joined>
+<date_left unformated="2006-05-31">31-05-2006</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Under 19</competition>
+<team>Czech Republic</team>
+<period>2002 - 2003</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>World Youth Under 20</competition>
+<team>Czech Republic</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 20</competition>
+<team>Czech Republic</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Czech Republic</team>
+<period>2004 - 2005</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2005 - 2006</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Czech Republic</team>
+<period>2005 - 2006</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Slavia Praha</team>
+<period>2006 - 2007</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Slavia Praha</team>
+<period>2007 - 2008</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

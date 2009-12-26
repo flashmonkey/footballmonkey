@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="7940"><name>Alan Mahon</name>
+
+<details>
+<country>IRL</country>
+<born>04 April 1978</born>
+<birthplace>Dublin</birthplace>
+<weight>74 kg</weight>
+<height>1.78 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Out of contract at Tranmere Rovers, Alan chose to move to Sporting Lisbon where he found it difficult to break into the side, although one of his rare appearances came in a European Champions' League game against Real Madrid.
+He returned to Blackburn Rovers on loan in December and went on to produce some fine performances to assist the club in their bid for promotion.
+A very skilful and imaginative midfield player, he impressed with a fine first touch and some excellent distribution.
+Alan joined Wigan Athletic in February 2004 with a contract to June 2007.
+After a loan spell, Alan joined Burnley in June 2006 with a three-year contract.
+He re-joined Tranmere Rovers in July 2009 in a three-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Tranmere Rovers</club>
+<date_joined unformated="1995-04-07">07-04-1995</date_joined>
+<date_left unformated="2000-07-04">04-07-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Sporting Lisboa</club>
+<date_joined unformated="2000-07-04">04-07-2000</date_joined>
+<date_left unformated="2000-06-29">29-06-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="2000-12-14">14-12-2000</date_joined>
+<date_left unformated="2001-05-07">07-05-2001</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="2001-06-29">29-06-2001</date_joined>
+<date_left unformated="2004-02-05">05-02-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Cardiff City</club>
+<date_joined unformated="2003-01-24">24-01-2003</date_joined>
+<date_left unformated="2003-04-24">24-04-2003</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Ipswich Town</club>
+<date_joined unformated="2003-09-08">08-09-2003</date_joined>
+<date_left unformated="2003-12-23">23-12-2003</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Wigan Athletic</club>
+<date_joined unformated="2004-02-05">05-02-2004</date_joined>
+<date_left unformated="2006-06-01">01-06-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Burnley</club>
+<date_joined unformated="2006-03-23">23-03-2006</date_joined>
+<date_left unformated="2006-05-31">31-05-2006</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Burnley</club>
+<date_joined unformated="2006-06-01">01-06-2006</date_joined>
+<date_left unformated="2009-06-30">30-06-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackpool</club>
+<date_joined unformated="2009-03-17">17-03-2009</date_joined>
+<date_left unformated="2009-05-31">31-05-2009</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Tranmere Rovers</club>
+<date_joined unformated="2009-07-08">08-07-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Under 21</competition>
+<team>Republic of Ireland</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 18</competition>
+<team>Republic of Ireland</team>
+<period>1995 - 1996</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Republic of Ireland</team>
+<period>1996 - 1997</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 18</competition>
+<team>Republic of Ireland</team>
+<period>1996 - 1997</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21 Tournament</competition>
+<team>Republic of Ireland</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Republic of Ireland</team>
+<period>1997 - 1998</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>Republic of Ireland</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Republic of Ireland</team>
+<period>1998 - 1999</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>Republic of Ireland</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21 Tournament</competition>
+<team>Republic of Ireland</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>US Nike Cup</competition>
+<team>Republic of Ireland</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Republic of Ireland</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Tranmere Rovers</team>
+<period>1999 - 2000</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Tranmere Rovers</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Republic of Ireland</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Sporting Lisboa</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Portuguese First Division</competition>
+<team>Sporting Lisboa</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Blackburn Rovers</team>
+<period>2000 - 2001</period>
+<fullapps>14</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2000 - 2001</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2001 - 2002</period>
+<fullapps>10</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Cardiff City</team>
+<period>2002 - 2003</period>
+<fullapps>13</fullapps>
+<subs>2</subs>
+<goals>2</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Wigan Athletic</team>
+<period>2003 - 2004</period>
+<fullapps>13</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Ipswich Town</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Ipswich Town</team>
+<period>2003 - 2004</period>
+<fullapps>7</fullapps>
+<subs>4</subs>
+<goals>1</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Wigan Athletic</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Wigan Athletic</team>
+<period>2004 - 2005</period>
+<fullapps>21</fullapps>
+<subs>6</subs>
+<goals>7</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Wigan Athletic</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Wigan Athletic</team>
+<period>2005 - 2006</period>
+<fullapps>5</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Wigan Athletic</team>
+<period>2005 - 2006</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Wigan Athletic</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Burnley</team>
+<period>2005 - 2006</period>
+<fullapps>7</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Burnley</team>
+<period>2006 - 2007</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Burnley</team>
+<period>2006 - 2007</period>
+<fullapps>10</fullapps>
+<subs>15</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Burnley</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Burnley</team>
+<period>2007 - 2008</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Burnley</team>
+<period>2007 - 2008</period>
+<fullapps>13</fullapps>
+<subs>13</subs>
+<goals>1</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Burnley</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Blackpool</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Burnley</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Burnley</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>8</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Johnstones Paint Trophy</competition>
+<team>Tranmere Rovers</team>
+<period>2009 - 2010</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Tranmere Rovers</team>
+<period>2009 - 2010</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Tranmere Rovers</team>
+<period>2009 - 2010</period>
+<fullapps>8</fullapps>
+<subs>4</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Tranmere Rovers</team>
+<period>2009 - 2010</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

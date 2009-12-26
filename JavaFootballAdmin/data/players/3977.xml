@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="3977"><name>Fabrice Fernandes</name>
+
+<details>
+<country>FRA</country>
+<born>29 October 1979</born>
+<birthplace>Aubervilliers</birthplace>
+<weight>73 kg</weight>
+<height>1.76 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Signed on a long-term loan from Rennes, Fabrice looked a terrific prospect on the left of a midfield for Fulham early on in 2000-01.
+He seemed to have all the attributes of a quality midfield player: brilliant ball control, pace and a superb shot, and few of the club's fans will forget his wonderful equalising goal against Manchester United in the FA Cup.
+However, he struggled to fit into the team structure at Craven Cottage and was subsequently was allowed to join Glasgow Rangers in the New Year where he scored a great goal on his debut but was restricted to outings from the subs' bench.
+Fabrice's contract at Southampton was extended to June 2006 in January 2004.
+Fabrice joined Bolton Wanderers in August 2005 with a one-year contract that was cancelled in January 2006.</description>
+
+<club_history>
+
+<period>
+<club>Rennes</club>
+<date_joined unformated="1998-07-01">01-07-1998</date_joined>
+<date_left unformated="2001-12-28">28-12-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Fulham</club>
+<date_joined unformated="2000-08-02">02-08-2000</date_joined>
+<date_left unformated="2001-03-13">13-03-2001</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Rangers</club>
+<date_joined unformated="2001-03-14">14-03-2001</date_joined>
+<date_left unformated="2001-05-20">20-05-2001</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Olympique Marseille</club>
+<date_joined unformated="2001-09-04">04-09-2001</date_joined>
+<date_left unformated="2001-12-24">24-12-2001</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Southampton</club>
+<date_joined unformated="2001-12-28">28-12-2001</date_joined>
+<date_left unformated="2005-08-31">31-08-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2005-08-31">31-08-2005</date_joined>
+<date_left unformated="2006-01-31">31-01-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Stoke City</club>
+<date_joined unformated="2007-02-12">12-02-2007</date_joined>
+<date_left unformated="2007-02-16">16-02-2007</date_left>
+<trialist>T</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Rangers</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>4</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Fulham</team>
+<period>2000 - 2001</period>
+<fullapps>4</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Fulham</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Fulham</team>
+<period>2000 - 2001</period>
+<fullapps>23</fullapps>
+<subs>6</subs>
+<goals>2</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Southampton</team>
+<period>2001 - 2002</period>
+<fullapps>6</fullapps>
+<subs>5</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Southampton</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Olympique Marseille</team>
+<period>2001 - 2002</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Rennes</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Southampton</team>
+<period>2002 - 2003</period>
+<fullapps>35</fullapps>
+<subs>2</subs>
+<goals>3</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Southampton</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Southampton</team>
+<period>2002 - 2003</period>
+<fullapps>5</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Southampton</team>
+<period>2003 - 2004</period>
+<fullapps>21</fullapps>
+<subs>6</subs>
+<goals>1</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Southampton</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Southampton</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Southampton</team>
+<period>2004 - 2005</period>
+<fullapps>14</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Southampton</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2005 - 2006</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

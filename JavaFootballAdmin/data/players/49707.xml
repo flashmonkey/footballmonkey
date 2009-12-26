@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="49707"><name>James Sinclair</name>
+
+<details>
+<country>ENG</country>
+<born>22 October 1987</born>
+<birthplace>Newcastle</birthplace>
+<weight>66 kg</weight>
+<height>1.65 m</height>
+<position>Forward</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2007-06-29">29-06-2007</date_joined>
+<date_left unformated="2009-06-30">30-06-2009</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2006 - 2007</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2007 - 2008</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

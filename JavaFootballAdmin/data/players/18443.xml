@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="18443"><name>Emmanuel Adebayor</name>
+
+<details>
+<country>TOG</country>
+<born>26 February 1984</born>
+<birthplace>Lome</birthplace>
+<weight>75 kg</weight>
+<height>1.90 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>Emmanuel joined Manchester City in July 2009 with a five-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Metz</club>
+<date_joined unformated="2001-11-01">01-11-2001</date_joined>
+<date_left unformated="2003-07-01">01-07-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>AS Monaco</club>
+<date_joined unformated="2003-07-01">01-07-2003</date_joined>
+<date_left unformated="2006-01-13">13-01-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="2006-01-13">13-01-2006</date_joined>
+<date_left unformated="2009-07-18">18-07-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Manchester City</club>
+<date_joined unformated="2009-07-18">18-07-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Togo</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Togo</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Metz</team>
+<period>2001 - 2002</period>
+<fullapps>9</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Togo</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Togo</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>AS Monaco</team>
+<period>2003 - 2004</period>
+<fullapps>21</fullapps>
+<subs>10</subs>
+<goals>8</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>World Cup/ANC</competition>
+<team>Togo</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>AS Monaco</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>6</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Togo</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>AS Monaco</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Togo</team>
+<period>2004 - 2005</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>6</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>AS Monaco</team>
+<period>2004 - 2005</period>
+<fullapps>29</fullapps>
+<subs>5</subs>
+<goals>7</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Togo</team>
+<period>2005 - 2006</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2005 - 2006</period>
+<fullapps>12</fullapps>
+<subs>1</subs>
+<goals>4</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Togo</team>
+<period>2005 - 2006</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals>3</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>AS Monaco</team>
+<period>2005 - 2006</period>
+<fullapps>11</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Togo</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Arsenal</team>
+<period>2006 - 2007</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Togo</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>2006 - 2007</period>
+<fullapps>6</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Togo</team>
+<period>2006 - 2007</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2006 - 2007</period>
+<fullapps>21</fullapps>
+<subs>8</subs>
+<goals>8</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>2006 - 2007</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Arsenal</team>
+<period>2007 - 2008</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Togo</team>
+<period>2007 - 2008</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2007 - 2008</period>
+<fullapps>32</fullapps>
+<subs>4</subs>
+<goals>23</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>2007 - 2008</period>
+<fullapps>7</fullapps>
+<subs>2</subs>
+<goals>3</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Togo</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Togo</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2008 - 2009</period>
+<fullapps>21</fullapps>
+<subs>5</subs>
+<goals>10</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>2008 - 2009</period>
+<fullapps>8</fullapps>
+<subs>1</subs>
+<goals>6</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Manchester City</team>
+<period>2009 - 2010</period>
+<fullapps>13</fullapps>
+<subs>0</subs>
+<goals>6</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Manchester City</team>
+<period>2009 - 2010</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

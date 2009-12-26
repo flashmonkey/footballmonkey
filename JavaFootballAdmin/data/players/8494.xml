@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="8494"><name>Javier De Pedro</name>
+
+<details>
+<country>ESP</country>
+<born>04 August 1973</born>
+<birthplace>Logrono</birthplace>
+<weight>76 kg</weight>
+<height>1.80 m</height>
+<position>Midfielder/Forward</position>
+
+</details>
+
+<description>Javier had spent his entire career at Real Sociedad emerging from the youth system to play for the first team midway through the 1993-94 season. He has been a permanent fixture in the team when fit as the central midfielder or as a striker and he made his international debut in October 1998 against Israel. He  has only been on the fringes of the international scene ever since. 
+ Unexpectedly called up for Japan and South Korea World Cup after not appearing in qualification, and he was surprise choice for Spain's first game in the finals against Slovenia. 
+ Javier joined Blackburn Rovers in July 2004 on a two-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Real Sociedad</club>
+<date_joined unformated="1993-07-01">01-07-1993</date_joined>
+<date_left unformated="2004-06-30">30-06-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="2004-07-01">01-07-2004</date_joined>
+<date_left unformated="2005-01-31">31-01-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Perugia</club>
+<date_joined unformated="2005-01-31">31-01-2005</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Real Sociedad</team>
+<period>2000 - 2001</period>
+<fullapps>23</fullapps>
+<subs>7</subs>
+<goals>5</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Real Sociedad</team>
+<period>2001 - 2002</period>
+<fullapps>27</fullapps>
+<subs>3</subs>
+<goals>3</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Real Sociedad</team>
+<period>2002 - 2003</period>
+<fullapps>26</fullapps>
+<subs>3</subs>
+<goals>6</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Real Sociedad</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Real Sociedad</team>
+<period>2003 - 2004</period>
+<fullapps>9</fullapps>
+<subs>4</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

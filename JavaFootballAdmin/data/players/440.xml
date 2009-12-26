@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="440"><name>Luis Boa Morte</name>
+
+<details>
+<country>POR</country>
+<born>04 August 1977</born>
+<birthplace>Lisbon</birthplace>
+<weight>72 kg</weight>
+<height>1.78 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>Most effective when playing wide on the left, Luis became an established Premiership figure at Fulham.
+Luis joined Fulham on a full season's loan from Southampton in 2000-01 and exceeded all expectations by scoring 21 goals.
+An exciting striker, his pace and ball control proved too much for most Division One defences.
+His performances won him a call up to the full Portugal international squad and he made his debut in the friendly with France in April 2001.
+Luis' contract at Fulham was extended to June 2008 in January 2004, then to June 2010 in September 2005.
+He joined West Ham United in January 2007 with a contract to June 2010.</description>
+
+<club_history>
+
+<period>
+<club>Sporting Lisboa</club>
+<date_joined unformated="1996-07-01">01-07-1996</date_joined>
+<date_left unformated="1997-06-25">25-06-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="1997-06-25">25-06-1997</date_joined>
+<date_left unformated="1999-08-27">27-08-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Southampton</club>
+<date_joined unformated="1999-08-27">27-08-1999</date_joined>
+<date_left unformated="2001-06-14">14-06-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Fulham</club>
+<date_joined unformated="2000-07-30">30-07-2000</date_joined>
+<date_left unformated="2001-05-07">07-05-2001</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Fulham</club>
+<date_joined unformated="2001-06-14">14-06-2001</date_joined>
+<date_left unformated="2007-01-05">05-01-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>West Ham United</club>
+<date_joined unformated="2007-01-05">05-01-2007</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Under 18</competition>
+<team>Portugal</team>
+<period>1995 - 1996</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Toulon Under 21</competition>
+<team>Portugal</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1997 - 1998</period>
+<fullapps>4</fullapps>
+<subs>11</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Arsenal</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Arsenal</team>
+<period>1997 - 1998</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Portugal</team>
+<period>1997 - 1998</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Toulon Under 21</competition>
+<team>Portugal</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Portugal</team>
+<period>1998 - 1999</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>6</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Charity Shield</competition>
+<team>Arsenal</team>
+<period>1998 - 1999</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Arsenal</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Southampton</team>
+<period>1999 - 2000</period>
+<fullapps>6</fullapps>
+<subs>8</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>B Inter</competition>
+<team>Portugal</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Southampton</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Portugal</team>
+<period>1999 - 2000</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Southampton</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Charity Shield</competition>
+<team>Arsenal</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>B Inter</competition>
+<team>Portugal</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Fulham</team>
+<period>2000 - 2001</period>
+<fullapps>21</fullapps>
+<subs>18</subs>
+<goals>18</goals>
+
+<yellowcards>10</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Fulham</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Portugal</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Fulham</team>
+<period>2000 - 2001</period>
+<fullapps>5</fullapps>
+<subs>1</subs>
+<goals>3</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Portugal</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Fulham</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Fulham</team>
+<period>2001 - 2002</period>
+<fullapps>15</fullapps>
+<subs>8</subs>
+<goals>1</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>2</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Portugal</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Fulham</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Fulham</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Fulham</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Intertoto Cup</competition>
+<team>Fulham</team>
+<period>2002 - 2003</period>
+<fullapps>6</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Fulham</team>
+<period>2002 - 2003</period>
+<fullapps>25</fullapps>
+<subs>4</subs>
+<goals>2</goals>
+
+<yellowcards>9</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Portugal</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Fulham</team>
+<period>2002 - 2003</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Fulham</team>
+<period>2003 - 2004</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Fulham</team>
+<period>2003 - 2004</period>
+<fullapps>32</fullapps>
+<subs>1</subs>
+<goals>9</goals>
+
+<yellowcards>8</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Portugal</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>6</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Fulham</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Olympics</competition>
+<team>Portugal</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Portugal</team>
+<period>2004 - 2005</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Fulham</team>
+<period>2004 - 2005</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Fulham</team>
+<period>2004 - 2005</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Portugal</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Fulham</team>
+<period>2004 - 2005</period>
+<fullapps>29</fullapps>
+<subs>2</subs>
+<goals>8</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Fulham</team>
+<period>2005 - 2006</period>
+<fullapps>35</fullapps>
+<subs>0</subs>
+<goals>6</goals>
+
+<yellowcards>9</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Fulham</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Portugal</team>
+<period>2005 - 2006</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Portugal</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Fulham</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>West Ham United</team>
+<period>2006 - 2007</period>
+<fullapps>8</fullapps>
+<subs>6</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Portugal</team>
+<period>2006 - 2007</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Ham United</team>
+<period>2006 - 2007</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Fulham</team>
+<period>2006 - 2007</period>
+<fullapps>12</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Ham United</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>West Ham United</team>
+<period>2007 - 2008</period>
+<fullapps>18</fullapps>
+<subs>9</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>West Ham United</team>
+<period>2007 - 2008</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Portugal</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Ham United</team>
+<period>2008 - 2009</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>West Ham United</team>
+<period>2008 - 2009</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>West Ham United</team>
+<period>2008 - 2009</period>
+<fullapps>13</fullapps>
+<subs>14</subs>
+<goals/>
+
+<yellowcards>7</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

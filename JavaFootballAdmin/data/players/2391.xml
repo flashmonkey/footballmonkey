@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="2391"><name>Darren Sheridan</name>
+
+<details>
+<country>ENG</country>
+<born>08 December 1967</born>
+<birthplace>Manchester</birthplace>
+<weight>72 kg</weight>
+<height>1.65 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Darren began the 2000-01 campaign in the Wigan Athletic first-team line-up but suffered an injury early on that kept him out for several weeks.
+He came back into the team in November and featured regularly for the remainder of the season either in midfield or at full back.
+Darren is a hard working left-footed player who tackles enthusiastically and distributes the ball with care.
+Out of contract in the summer of 2001, he was surprisingly released by the Latics and joined his older brother John at Oldham Athletic.</description>
+
+<club_history>
+
+<period>
+<club>Winsford United</club>
+<date_joined unformated="1992-07-01">01-07-1992</date_joined>
+<date_left unformated="1993-08-12">12-08-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Barnsley</club>
+<date_joined unformated="1993-08-12">12-08-1993</date_joined>
+<date_left unformated="1999-07-02">02-07-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Wigan Athletic</club>
+<date_joined unformated="1999-07-02">02-07-1999</date_joined>
+<date_left unformated="2001-06-30">30-06-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Oldham Athletic</club>
+<date_joined unformated="2001-07-12">12-07-2001</date_joined>
+<date_left unformated="2004-06-30">30-06-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Clyde</club>
+<date_joined unformated="2004-07-01">01-07-2004</date_joined>
+<date_left unformated="2005-05-31">31-05-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>St Johnstone</club>
+<date_joined unformated="2005-06-01">01-06-2005</date_joined>
+<date_left unformated="2007-01-01">01-01-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Barrow</club>
+<date_joined unformated="2007-01-01">01-01-2007</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Barnsley</team>
+<period>1997 - 1998</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Barnsley</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Barnsley</team>
+<period>1997 - 1998</period>
+<fullapps>20</fullapps>
+<subs>6</subs>
+<goals/>
+
+<yellowcards>6</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Wigan Athletic</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Wigan Athletic</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Wigan Athletic</team>
+<period>2000 - 2001</period>
+<fullapps>25</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>5</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Wigan Athletic</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Oldham Athletic</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Oldham Athletic</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Oldham Athletic</team>
+<period>2001 - 2002</period>
+<fullapps>25</fullapps>
+<subs>3</subs>
+<goals>2</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Oldham Athletic</team>
+<period>2001 - 2002</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Oldham Athletic</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2 Play-Offs</competition>
+<team>Oldham Athletic</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Oldham Athletic</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Oldham Athletic</team>
+<period>2002 - 2003</period>
+<fullapps>29</fullapps>
+<subs>4</subs>
+<goals>1</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Oldham Athletic</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Oldham Athletic</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Oldham Athletic</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Oldham Athletic</team>
+<period>2003 - 2004</period>
+<fullapps>18</fullapps>
+<subs>9</subs>
+<goals/>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Oldham Athletic</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Barrow</team>
+<period>2007 - 2008</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Barrow</team>
+<period>2009 - 2010</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

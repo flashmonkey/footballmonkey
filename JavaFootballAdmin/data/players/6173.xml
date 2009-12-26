@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="6173"><name>John McGrath</name>
+
+<details>
+<country>IRL</country>
+<born>27 March 1980</born>
+<birthplace>Limerick</birthplace>
+<weight>66 kg</weight>
+<height>1.78 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Having developed with Aston Villa's reserve team, John stepped up to make his Premiership debut when he replaced David Ginola for the second half of the home defeat by Liverpool in January 2001 and also featured as a late substitute in the game at Bradford City.
+A wide left-sided player, he can play either as a winger or a wing back.
+He made his debut for the Republic of Ireland Under-21s against Holland in September 2000 and also featured as a substitute against Estonia the following month.
+John was made available for transfer by Doncaster Rovers in November 2004 before joining Kidderminster Harriers in January 2005 with a contract to the end of the season.</description>
+
+<club_history>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="1999-09-03">03-09-1999</date_joined>
+<date_left unformated="2003-06-30">30-06-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Southend United</club>
+<date_joined unformated="2002-07-22">22-07-2002</date_joined>
+<date_left unformated="2002-07-29">29-07-2002</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Dagenham and Redbridge</club>
+<date_joined unformated="2002-11-29">29-11-2002</date_joined>
+<date_left unformated="2003-05-12">12-05-2003</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Doncaster Rovers</club>
+<date_joined unformated="2003-07-07">07-07-2003</date_joined>
+<date_left unformated="2005-01-13">13-01-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Shrewsbury Town</club>
+<date_joined unformated="2004-08-31">31-08-2004</date_joined>
+<date_left unformated="2004-10-31">31-10-2004</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Kidderminster Harriers</club>
+<date_joined unformated="2005-01-13">13-01-2005</date_joined>
+<date_left unformated="2005-06-30">30-06-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Limerick</club>
+<date_joined unformated="2005-09-01">01-09-2005</date_joined>
+<date_left unformated="2005-12-31">31-12-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Weymouth</club>
+<date_joined unformated="2006-01-05">05-01-2006</date_joined>
+<date_left unformated="2006-06-30">30-06-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Tamworth</club>
+<date_joined unformated="2006-07-01">01-07-2006</date_joined>
+<date_left unformated="2007-06-30">30-06-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Burton Albion</club>
+<date_joined unformated="2007-07-01">01-07-2007</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Toulon Under 21</competition>
+<team>Republic of Ireland</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>Republic of Ireland</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Republic of Ireland</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Dagenham and Redbridge</team>
+<period>2002 - 2003</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Doncaster Rovers</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Doncaster Rovers</team>
+<period>2003 - 2004</period>
+<fullapps>4</fullapps>
+<subs>7</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Doncaster Rovers</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Doncaster Rovers</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Kidderminster Harriers</team>
+<period>2004 - 2005</period>
+<fullapps>18</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Shrewsbury Town</team>
+<period>2004 - 2005</period>
+<fullapps>7</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Tamworth</team>
+<period>2006 - 2007</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Burton Albion</team>
+<period>2007 - 2008</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Johnstones Paint Trophy</competition>
+<team>Burton Albion</team>
+<period>2009 - 2010</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Burton Albion</team>
+<period>2009 - 2010</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Burton Albion</team>
+<period>2009 - 2010</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Burton Albion</team>
+<period>2009 - 2010</period>
+<fullapps>19</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

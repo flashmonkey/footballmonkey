@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="545"><name>Paul Robinson</name>
+
+<details>
+<country>ENG</country>
+<born>14 December 1978</born>
+<birthplace>Watford</birthplace>
+<weight>75 kg</weight>
+<height>1.75 m</height>
+<position>Defender/Left back</position>
+
+</details>
+
+<description>Paul was once again a regular in the Watford line-up in 2000-01 to become an established member of the first team at Vicarage Road.
+A left back who is very strong in the tackle, he was an asset at set pieces and worked hard to improve his passing.
+However, he tended to accumulate bookings during the campaign and this is an area of his game where he needs to show improvement.
+Paul's value to the Hornets was recognised when he was awarded an extended contract during the season that would keep him at the club until 2005.
+However, the club's financial problems led to his �250,000 move to West Bromwich Albion in October 2003 on a two-year contract.
+This was extended to June 2007 in April 2005, then to June 2009 in July 2006 and to June 2010 in August 2008.
+Paul joined Bolton Wanderers in July 2009 with a three-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Watford</club>
+<date_joined unformated="1997-02-13">13-02-1997</date_joined>
+<date_left unformated="2003-10-14">14-10-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>West Bromwich Albion</club>
+<date_joined unformated="2003-10-14">14-10-2003</date_joined>
+<date_left unformated="2009-07-12">12-07-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2009-07-12">12-07-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Watford</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Watford</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Watford</team>
+<period>1999 - 2000</period>
+<fullapps>29</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>9</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Watford</team>
+<period>1999 - 2000</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Watford</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Watford</team>
+<period>2000 - 2001</period>
+<fullapps>39</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>12</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Watford</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Watford</team>
+<period>2000 - 2001</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Watford</team>
+<period>2001 - 2002</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Watford</team>
+<period>2001 - 2002</period>
+<fullapps>38</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards>9</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Watford</team>
+<period>2002 - 2003</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Watford</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Watford</team>
+<period>2002 - 2003</period>
+<fullapps>37</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards>9</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Bromwich Albion</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>West Bromwich Albion</team>
+<period>2003 - 2004</period>
+<fullapps>30</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Watford</team>
+<period>2003 - 2004</period>
+<fullapps>10</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Watford</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Bromwich Albion</team>
+<period>2004 - 2005</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>West Bromwich Albion</team>
+<period>2004 - 2005</period>
+<fullapps>28</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Bromwich Albion</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>West Bromwich Albion</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>West Bromwich Albion</team>
+<period>2005 - 2006</period>
+<fullapps>33</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>7</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>West Bromwich Albion</team>
+<period>2006 - 2007</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Championship Play-Offs</competition>
+<team>West Bromwich Albion</team>
+<period>2006 - 2007</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Bromwich Albion</team>
+<period>2006 - 2007</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>West Bromwich Albion</team>
+<period>2006 - 2007</period>
+<fullapps>42</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>9</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Bromwich Albion</team>
+<period>2007 - 2008</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>West Bromwich Albion</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>West Bromwich Albion</team>
+<period>2007 - 2008</period>
+<fullapps>43</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>2</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>West Bromwich Albion</team>
+<period>2008 - 2009</period>
+<fullapps>35</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>7</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Bromwich Albion</team>
+<period>2008 - 2009</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2009 - 2010</period>
+<fullapps>5</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

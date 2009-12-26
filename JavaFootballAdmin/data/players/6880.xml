@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="6880"><name>Aliou Cisse</name>
+
+<details>
+<country>SEN</country>
+<born>24 March 1976</born>
+<birthplace>Ziguinchor</birthplace>
+<weight>75 kg</weight>
+<height>1.80 m</height>
+<position>Defender</position>
+
+</details>
+
+<description>Aliou's senior career began with Lille and Sedan before a move to Paris St Germain in the summer of 1998.
+A regular in the team that were runners-up in the French League in 1999-2000, he was rarely selected the following term and was told he would be allowed to leave the club when his contract expired.
+After an unsuccessful trial at West Ham United, he joined Montpellier in August 2001 on a year's loan with a view to a permanent move.
+He is an uncompromising defender, possessing great pace, is good on the ball and a tough tackler.
+His talent led to him becoming the Senegal captain.
+Aliou played in the Premiership in 2002-03 after PSG agreed a �1.5million fee with Birmingham City. He joined Portsmouth in August 2004 with a two-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Lille OSC</club>
+<date_joined unformated="1994-07-01">01-07-1994</date_joined>
+<date_left unformated="1997-07-01">01-07-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Sedan</club>
+<date_joined unformated="1997-07-01">01-07-1997</date_joined>
+<date_left unformated="1998-07-01">01-07-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Paris St Germain</club>
+<date_joined unformated="1998-07-01">01-07-1998</date_joined>
+<date_left unformated="2002-07-26">26-07-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Montpellier</club>
+<date_joined unformated="2001-08-01">01-08-2001</date_joined>
+<date_left unformated="2002-05-31">31-05-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2002-07-26">26-07-2002</date_joined>
+<date_left unformated="2004-08-06">06-08-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Portsmouth</club>
+<date_joined unformated="2004-08-06">06-08-2004</date_joined>
+<date_left unformated="2006-06-30">30-06-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Leeds United</club>
+<date_joined unformated="2006-07-31">31-07-2006</date_joined>
+<date_left unformated="2006-08-04">04-08-2006</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Stoke City</club>
+<date_joined unformated="2006-08-14">14-08-2006</date_joined>
+<date_left unformated="2006-08-18">18-08-2006</date_left>
+<trialist>T</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Senegal</team>
+<period>1994 - 1995</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Paris St Germain</team>
+<period>2000 - 2001</period>
+<fullapps>7</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Senegal</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Paris St Germain</team>
+<period>2000 - 2001</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Senegal</team>
+<period>2001 - 2002</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Montpellier</team>
+<period>2001 - 2002</period>
+<fullapps>17</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Senegal</team>
+<period>2001 - 2002</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Senegal</team>
+<period>2001 - 2002</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2002 - 2003</period>
+<fullapps>21</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>9</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Senegal</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Nelson Mandela Challenge</competition>
+<team>Senegal</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Joola Disaster Charity Match</competition>
+<team>Senegal</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Senegal</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Senegal</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Birmingham City</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2003 - 2004</period>
+<fullapps>5</fullapps>
+<subs>10</subs>
+<goals/>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Portsmouth</team>
+<period>2004 - 2005</period>
+<fullapps>12</fullapps>
+<subs>8</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Portsmouth</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Senegal</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Portsmouth</team>
+<period>2004 - 2005</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Portsmouth</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

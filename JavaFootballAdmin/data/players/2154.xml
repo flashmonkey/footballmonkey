@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="2154"><name>Kevin Poole</name>
+
+<details>
+<country>ENG</country>
+<born>21 July 1963</born>
+<birthplace>Bromsgrove</birthplace>
+<weight>81 kg</weight>
+<height>1.78 m</height>
+<position>Goalkeeper</position>
+
+</details>
+
+<description>Kevin was second choice in goal to Ian Bennett for Birmingham City during the whole of 2000-01 and, although he regularly featured on the substitutes' bench, his only first-team action came when he stepped in for the 3-2 home defeat by Barnsley in January.
+An excellent shot stopper who performs consistently well when called upon.
+Kevin's contract at Bolton Wanderers was extended to June 2005 in July 2004. He then joined Derby County as their goalkeeping coach.</description>
+
+<club_history>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="1981-06-26">26-06-1981</date_joined>
+<date_left unformated="1987-08-27">27-08-1987</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Northampton Town</club>
+<date_joined unformated="1984-11-08">08-11-1984</date_joined>
+<date_left unformated="1984-12-07">07-12-1984</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Middlesbrough</club>
+<date_joined unformated="1987-08-27">27-08-1987</date_joined>
+<date_left unformated="1991-07-30">30-07-1991</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hartlepool United</club>
+<date_joined unformated="1991-03-27">27-03-1991</date_joined>
+<date_left unformated="1991-05-12">12-05-1991</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Leicester City</club>
+<date_joined unformated="1991-07-30">30-07-1991</date_joined>
+<date_left unformated="1997-08-04">04-08-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="1997-08-04">04-08-1997</date_joined>
+<date_left unformated="2001-10-25">25-10-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2001-10-25">25-10-2001</date_joined>
+<date_left unformated="2005-06-30">30-06-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Derby County</club>
+<date_joined unformated="2005-07-11">11-07-2005</date_joined>
+<date_left unformated="2006-06-30">30-06-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Burton Albion</club>
+<date_joined unformated="2006-08-11">11-08-2006</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1984 - 1985</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+
+<cleansheets>4</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1985 - 1986</period>
+<fullapps>11</fullapps>
+<subs>0</subs>
+
+<cleansheets>6</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1985 - 1986</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Milk Cup</competition>
+<team>Aston Villa</team>
+<period>1985 - 1986</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Littlewoods Cup</competition>
+<team>Aston Villa</team>
+<period>1986 - 1987</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1986 - 1987</period>
+<fullapps>10</fullapps>
+<subs>0</subs>
+
+<cleansheets>6</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Middlesbrough</team>
+<period>1987 - 1988</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division Two</competition>
+<team>Middlesbrough</team>
+<period>1987 - 1988</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Middlesbrough</team>
+<period>1988 - 1989</period>
+<fullapps>12</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>6</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Littlewoods Cup</competition>
+<team>Middlesbrough</team>
+<period>1989 - 1990</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+
+<cleansheets>3</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division Two</competition>
+<team>Middlesbrough</team>
+<period>1989 - 1990</period>
+<fullapps>21</fullapps>
+<subs>0</subs>
+
+<cleansheets>12</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Middlesbrough</team>
+<period>1990 - 1991</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Rumbelows League Cup</competition>
+<team>Leicester City</team>
+<period>1991 - 1992</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division Two</competition>
+<team>Leicester City</team>
+<period>1991 - 1992</period>
+<fullapps>42</fullapps>
+<subs>0</subs>
+
+<cleansheets>28</cleansheets>
+<goalsconceded>5</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1 Play-Offs</competition>
+<team>Leicester City</team>
+<period>1992 - 1993</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>3</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Leicester City</team>
+<period>1992 - 1993</period>
+<fullapps>19</fullapps>
+<subs>0</subs>
+
+<cleansheets>9</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Leicester City</team>
+<period>1992 - 1993</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Leicester City</team>
+<period>1993 - 1994</period>
+<fullapps>14</fullapps>
+<subs>0</subs>
+
+<cleansheets>11</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Leicester City</team>
+<period>1993 - 1994</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Leicester City</team>
+<period>1994 - 1995</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Leicester City</team>
+<period>1994 - 1995</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Leicester City</team>
+<period>1994 - 1995</period>
+<fullapps>36</fullapps>
+<subs>0</subs>
+
+<cleansheets>4</cleansheets>
+<goalsconceded>65</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1 Play-Offs</competition>
+<team>Leicester City</team>
+<period>1995 - 1996</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Leicester City</team>
+<period>1995 - 1996</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Leicester City</team>
+<period>1995 - 1996</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Leicester City</team>
+<period>1995 - 1996</period>
+<fullapps>45</fullapps>
+<subs>0</subs>
+
+<cleansheets>39</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Leicester City</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Leicester City</team>
+<period>1996 - 1997</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>12</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Birmingham City</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Birmingham City</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Birmingham City</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Birmingham City</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>6</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2003 - 2004</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Derby County</team>
+<period>2005 - 2006</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>10</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Derby County</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Burton Albion</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Burton Albion</team>
+<period>2007 - 2008</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Burton Albion</team>
+<period>2009 - 2010</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>5</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

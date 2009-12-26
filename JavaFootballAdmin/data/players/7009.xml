@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="7009"><name>Fernando Hierro</name>
+
+<details>
+<country>ESP</country>
+<born>23 March 1968</born>
+<birthplace>Velez-Malaga</birthplace>
+<weight>84 kg</weight>
+<height>1.87 m</height>
+<position>Defender/Midfielder</position>
+
+</details>
+
+<description>His early professional career was spent with Real Vallodolid before he joined Real Madrid in 1989 and he won his first cap in September 1989 against Poland and he has been almost a permanent fixture ever since. He has been a key figure in the Madrid set up, appearing in almost 400 Primera Liga games and gaining European Cup winners� medals in 1998 and 2000. He was a non-playing substitute in the 1990 World Cup Finals but played in two World Cup Final Competitions (1994 and 1998) and the two European Championship Finals (1996 and 2000) in the centre of midfield. He has recently been moved back to the centre of defence which many observers regard as his best position. 
+ The veteran central defender is known for his accurate passing and powerful free kicks and despite his age Fernando continues to be of immense value to the national team and will be Spain's captain at the World Cup finals. As ever, he led by example - converting the late penalties that secured the 3-1 wins in their opening two games against Slovenia and Paraguay to extend his record as the country's record scorer. His international career ended in selection for FIFA's All-Star squad. 
+ After a year in Qatar, he joined Bolton Wanderers in July 2004 with a one-year contract but was made available for transfer in January 2005.</description>
+
+<club_history>
+
+<period>
+<club>Valladolid</club>
+<date_joined unformated="1987-07-01">01-07-1987</date_joined>
+<date_left unformated="1989-07-01">01-07-1989</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Real Madrid</club>
+<date_joined unformated="1989-07-01">01-07-1989</date_joined>
+<date_left unformated="2003-06-30">30-06-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Al Rayyan Sports Club</club>
+<date_joined unformated="2003-07-01">01-07-2003</date_joined>
+<date_left unformated="2004-06-30">30-06-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2004-07-28">28-07-2004</date_joined>
+<date_left unformated="2005-06-30">30-06-2005</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Spain</team>
+<period>1989 - 1990</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Spain</team>
+<period>1989 - 1990</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Spain</team>
+<period>1989 - 1990</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Spain</team>
+<period>1990 - 1991</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Spain</team>
+<period>1990 - 1991</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Spain</team>
+<period>1991 - 1992</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Spain</team>
+<period>1991 - 1992</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Spain</team>
+<period>1991 - 1992</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Spain</team>
+<period>1992 - 1993</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Spain</team>
+<period>1993 - 1994</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Spain</team>
+<period>1993 - 1994</period>
+<fullapps>6</fullapps>
+<subs>2</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Spain</team>
+<period>1994 - 1995</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Spain</team>
+<period>1994 - 1995</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Spain</team>
+<period>1995 - 1996</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Spain</team>
+<period>1995 - 1996</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Spain</team>
+<period>1996 - 1997</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>4</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Representative</competition>
+<team>Rest of the World</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Spain</team>
+<period>1997 - 1998</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Europe</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Representative</competition>
+<team>FIFA</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Spain</team>
+<period>1997 - 1998</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIGC Centenary</competition>
+<team>World XI</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Spain</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Super Cup</competition>
+<team>Real Madrid</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Spain</team>
+<period>1998 - 1999</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Spain</team>
+<period>1999 - 2000</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Spain</team>
+<period>1999 - 2000</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Spain</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Real Madrid</team>
+<period>2000 - 2001</period>
+<fullapps>11</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Real Madrid</team>
+<period>2000 - 2001</period>
+<fullapps>28</fullapps>
+<subs>1</subs>
+<goals>5</goals>
+
+<yellowcards>11</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Spain</team>
+<period>2000 - 2001</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Spain</team>
+<period>2001 - 2002</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Real Madrid</team>
+<period>2001 - 2002</period>
+<fullapps>14</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Spain</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Real Madrid</team>
+<period>2001 - 2002</period>
+<fullapps>30</fullapps>
+<subs>0</subs>
+<goals>5</goals>
+
+<yellowcards>15</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Real Madrid</team>
+<period>2002 - 2003</period>
+<fullapps>25</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>9</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Real Madrid</team>
+<period>2002 - 2003</period>
+<fullapps>10</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2004 - 2005</period>
+<fullapps>15</fullapps>
+<subs>14</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2004 - 2005</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

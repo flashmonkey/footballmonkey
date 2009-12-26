@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="5368"><name>Chris Fairclough</name>
+
+<details>
+<country>ENG</country>
+<born>12 April 1964</born>
+<birthplace>Nottingham</birthplace>
+<weight>73 kg</weight>
+<height>1.80 m</height>
+<position>Centre back</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Nottingham Forest</club>
+<date_joined unformated="1981-10-13">13-10-1981</date_joined>
+<date_left unformated="1987-07-03">03-07-1987</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Tottenham Hotspur</club>
+<date_joined unformated="1987-07-03">03-07-1987</date_joined>
+<date_left unformated="1989-03-23">23-03-1989</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Leeds United</club>
+<date_joined unformated="1989-03-23">23-03-1989</date_joined>
+<date_left unformated="1995-07-04">04-07-1995</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="1995-07-04">04-07-1995</date_joined>
+<date_left unformated="1998-07-30">30-07-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Notts County</club>
+<date_joined unformated="1998-07-30">30-07-1998</date_joined>
+<date_left unformated="1999-03-17">17-03-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>York City</club>
+<date_joined unformated="1999-03-17">17-03-1999</date_joined>
+<date_left unformated="2001-02-08">08-02-2001</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>1984 - 1985</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>England</team>
+<period>1984 - 1985</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>England</team>
+<period>1986 - 1987</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>1986 - 1987</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Tottenham Hotspur</team>
+<period>1987 - 1988</period>
+<fullapps>40</fullapps>
+<subs>0</subs>
+<goals>4</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>1987 - 1988</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>1987 - 1988</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>A v B</competition>
+<team>England</team>
+<period>1987 - 1988</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Littlewoods Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>1987 - 1988</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>1988 - 1989</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Tottenham Hotspur</team>
+<period>1988 - 1989</period>
+<fullapps>20</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Littlewoods Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>1988 - 1989</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>1988 - 1989</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Leeds United</team>
+<period>1992 - 1993</period>
+<fullapps>29</fullapps>
+<subs>1</subs>
+<goals>4</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Leeds United</team>
+<period>1993 - 1994</period>
+<fullapps>40</fullapps>
+<subs>0</subs>
+<goals>4</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Leeds United</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Bolton Wanderers</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>1995 - 1996</period>
+<fullapps>33</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>1997 - 1998</period>
+<fullapps>10</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

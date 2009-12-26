@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="1610"><name>Alan Kelly</name>
+
+<details>
+<country>IRL</country>
+<born>11 August 1968</born>
+<birthplace>Preston</birthplace>
+<weight>90 kg</weight>
+<height>1.88 m</height>
+<position>Goalkeeper</position>
+
+</details>
+
+<description>Alan started the 2002 World Cup qualifiers as Mick McCarthy�s first choice between the Irish sticks having spent many years in the shadow of the legendary Packie Bonner. However, as he slipped down the pecking order at Blackburn Rovers, he later battled with Dean Kiely to cover Shay Given at international level. 
+ Following in the footsteps of his famous goalkeeping father (Alan Kelly senior), he began his career at Preston North End. He moved on to Sheffield United for �200,000 in 1992 before earning a �675,000 switch to Blackburn in 1999. 
+ Alan - whose brother Gary is also an excellent keeper, having notably served Bury and Oldham Athletic - was forced to retire due to a hand injury in March 2004.</description>
+
+<club_history>
+
+<period>
+<club>Preston North End</club>
+<date_joined unformated="1985-09-25">25-09-1985</date_joined>
+<date_left unformated="1992-07-24">24-07-1992</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Sheffield United</club>
+<date_joined unformated="1992-07-24">24-07-1992</date_joined>
+<date_left unformated="1999-07-30">30-07-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1999-07-30">30-07-1999</date_joined>
+<date_left unformated="2004-03-05">05-03-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Stockport County</club>
+<date_joined unformated="2001-04-03">03-04-2001</date_joined>
+<date_left unformated="2001-05-07">07-05-2001</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2001-08-24">24-08-2001</date_joined>
+<date_left unformated="2001-09-11">11-09-2001</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Sheffield United</team>
+<period>1992 - 1993</period>
+<fullapps>32</fullapps>
+<subs>1</subs>
+
+<cleansheets>9</cleansheets>
+<goalsconceded>35</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Sheffield United</team>
+<period>1993 - 1994</period>
+<fullapps>29</fullapps>
+<subs>1</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>45</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Sheffield United</team>
+<period>1997 - 1998</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Sheffield United</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Stockport County</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Blackburn Rovers</team>
+<period>2000 - 2001</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>9</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Birmingham City</team>
+<period>2001 - 2002</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>9</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

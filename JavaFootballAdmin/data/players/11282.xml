@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="11282"><name>Mark Atkins</name>
+
+<details>
+<country>ENG</country>
+<born>14 August 1968</born>
+<birthplace>Doncaster</birthplace>
+<weight>83 kg</weight>
+<height>1.83 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>This vastly experienced midfielder made a surprise return to the Football League last March when he left Conference club Doncaster Rovers to join Hull City&amp;#8217;s charge towards the Third Division play-offs. He partnered Gary Brabin in the Tigers' engine room and soon showed that he was another successful capture by Brian Little, impressing with his calm authority in the centre of the park. Mark is a versatile player who can also play at full back if required. His Boothferry contract was not renewed in May and he subsequently joined Shrewsbury Town.</description>
+
+<club_history>
+
+<period>
+<club>Scunthorpe United</club>
+<date_joined unformated="1986-07-09">09-07-1986</date_joined>
+<date_left unformated="1988-06-16">16-06-1988</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1988-06-16">16-06-1988</date_joined>
+<date_left unformated="1995-09-21">21-09-1995</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Wolverhampton Wanderers</club>
+<date_joined unformated="1995-09-21">21-09-1995</date_joined>
+<date_left unformated="1999-08-05">05-08-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>York City</club>
+<date_joined unformated="1999-08-05">05-08-1999</date_joined>
+<date_left unformated="1999-10-31">31-10-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Doncaster Rovers</club>
+<date_joined unformated="1999-11-04">04-11-1999</date_joined>
+<date_left unformated="2001-03-21">21-03-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hull City</club>
+<date_joined unformated="2001-03-21">21-03-2001</date_joined>
+<date_left unformated="2001-06-30">30-06-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Shrewsbury Town</club>
+<date_joined unformated="2001-07-02">02-07-2001</date_joined>
+<date_left unformated="2003-06-30">30-06-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Harrogate Town</club>
+<date_joined unformated="2003-07-01">01-07-2003</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1992 - 1993</period>
+<fullapps>24</fullapps>
+<subs>7</subs>
+<goals>4</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1993 - 1994</period>
+<fullapps>8</fullapps>
+<subs>7</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Charity Shield</competition>
+<team>Blackburn Rovers</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1994 - 1995</period>
+<fullapps>30</fullapps>
+<subs>4</subs>
+<goals>6</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1995 - 1996</period>
+<fullapps>0</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Wolverhampton Wanderers</team>
+<period>1997 - 1998</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Wolverhampton Wanderers</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Hull City</team>
+<period>2000 - 2001</period>
+<fullapps>8</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Doncaster Rovers</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3 Play-Offs</competition>
+<team>Hull City</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Shrewsbury Town</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Shrewsbury Town</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Shrewsbury Town</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Shrewsbury Town</team>
+<period>2001 - 2002</period>
+<fullapps>42</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Shrewsbury Town</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Shrewsbury Town</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Shrewsbury Town</team>
+<period>2002 - 2003</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Shrewsbury Town</team>
+<period>2002 - 2003</period>
+<fullapps>29</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

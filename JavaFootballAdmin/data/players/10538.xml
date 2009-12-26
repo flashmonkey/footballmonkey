@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="10538"><name>Richard Witschge</name>
+
+<details>
+<country>NED</country>
+<born>20 September 1969</born>
+<birthplace>Amsterdam</birthplace>
+<weight>77 kg</weight>
+<height>1.82 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Dutch International</description>
+
+<club_history>
+
+<period>
+<club>Ajax</club>
+<date_joined unformated="1985-07-01">01-07-1985</date_joined>
+<date_left unformated="1991-07-01">01-07-1991</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Barcelona</club>
+<date_joined unformated="1991-07-01">01-07-1991</date_joined>
+<date_left unformated="1993-07-01">01-07-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bordeaux</club>
+<date_joined unformated="1993-07-01">01-07-1993</date_joined>
+<date_left unformated="1996-07-01">01-07-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1995-03-23">23-03-1995</date_joined>
+<date_left unformated="1995-05-31">31-05-1995</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Ajax</club>
+<date_joined unformated="1996-07-01">01-07-1996</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Holland</team>
+<period>1988 - 1989</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Holland</team>
+<period>1989 - 1990</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Holland</team>
+<period>1989 - 1990</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Holland</team>
+<period>1990 - 1991</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Holland</team>
+<period>1990 - 1991</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Holland</team>
+<period>1991 - 1992</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Holland</team>
+<period>1991 - 1992</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Holland</team>
+<period>1995 - 1996</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Holland</team>
+<period>1995 - 1996</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Holland</team>
+<period>1996 - 1997</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Holland</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Ajax</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Dutch KPN Telecompetitie</competition>
+<team>Ajax</team>
+<period>2000 - 2001</period>
+<fullapps>15</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Alaves</team>
+<period>2001 - 2002</period>
+<fullapps>7</fullapps>
+<subs>19</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Ajax</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="239"><name>Arnar Gunnlaugsson</name>
+
+<details>
+<country>ISL</country>
+<born>06 March 1972</born>
+<birthplace>Akranes</birthplace>
+<weight>74 kg</weight>
+<height>1.83 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>Although immensely popular with the fans, Arnie has generally proved more effective for Leicester when appearing from the bench than he has when in the starting line-up. Indeed he netted four valuable goals last term after appearing from the dug out, and most were memorable contributions to the Foxes' campaign - a curled shot from the edge of the box against Derby, a sweetly struck free kick against Newcastle and a controlled volley at Aston Villa to clinch victory in the FA Cup tie. Blessed with good technique, excellent close control and an eye for a strike on goal, it is not hard to see why he is so popular on the terraces, yet he often gives the impression of being slightly too much of an individualist to fit neatly into the team pattern, which perhaps explains his relatively few starting berths. Arnie also suffered his share of injury and illness during the season, including a bout of appendicitis in December. He is the twin brother of Preston's Bjarke Gunnlaugsson.</description>
+
+<club_history>
+
+<period>
+<club>IA Akranes</club>
+<date_joined unformated="1990-00-00">30-11-1989</date_joined>
+<date_left unformated="1992-00-00">30-11-1991</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Feyenoord</club>
+<date_joined unformated="1992-00-00">30-11-1991</date_joined>
+<date_left unformated="1994-00-00">30-11-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>1.FC Nurnberg</club>
+<date_joined unformated="1994-00-00">30-11-1993</date_joined>
+<date_left unformated="1995-00-00">30-11-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>FC Sochaux Montbeliard</club>
+<date_joined unformated="1995-00-00">30-11-1994</date_joined>
+<date_left unformated="1996-00-00">30-11-1995</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>IA Akranes</club>
+<date_joined unformated="1995-00-00">30-11-1994</date_joined>
+<date_left unformated="1995-00-00">30-11-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>IA Akranes</club>
+<date_joined unformated="1996-00-00">30-11-1995</date_joined>
+<date_left unformated="1997-08-07">07-08-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="1997-08-07">07-08-1997</date_joined>
+<date_left unformated="1999-02-05">05-02-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Leicester City</club>
+<date_joined unformated="1999-02-05">05-02-1999</date_joined>
+<date_left unformated="2002-02-22">22-02-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Stoke City</club>
+<date_joined unformated="2000-03-03">03-03-2000</date_joined>
+<date_left unformated="2000-05-18">18-05-2000</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Sheffield United</club>
+<date_joined unformated="2002-01-17">17-01-2002</date_joined>
+<date_left unformated="2002-02-07">07-02-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Stoke City</club>
+<date_joined unformated="2002-02-22">22-02-2002</date_joined>
+<date_left unformated="2002-06-30">30-06-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Dundee United</club>
+<date_joined unformated="2002-07-16">16-07-2002</date_joined>
+<date_left unformated="2002-07-29">29-07-2002</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Dundee United</club>
+<date_joined unformated="2002-07-30">30-07-2002</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Iceland</team>
+<period>1991 - 1992</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Iceland</team>
+<period>1992 - 1993</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Iceland</team>
+<period>1992 - 1993</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Iceland</team>
+<period>1992 - 1993</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Iceland</team>
+<period>1993 - 1994</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Iceland</team>
+<period>1993 - 1994</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Iceland</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Iceland</team>
+<period>1994 - 1995</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Iceland</team>
+<period>1995 - 1996</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Iceland</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>1997 - 1998</period>
+<fullapps>2</fullapps>
+<subs>13</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Cyprus Tournament</competition>
+<team>Iceland</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Bolton Wanderers</team>
+<period>1997 - 1998</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Iceland</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Leicester City</team>
+<period>1998 - 1999</period>
+<fullapps>5</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Iceland</team>
+<period>1998 - 1999</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Iceland</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Leicester City</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Leicester City</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Leicester City</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Leicester City</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Leicester City</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Leicester City</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Leicester City</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>14</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Leicester City</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Stoke City</team>
+<period>2001 - 2002</period>
+<fullapps>9</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>League Division 2 Play-Offs</competition>
+<team>Stoke City</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Iceland</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Dundee United</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>5</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

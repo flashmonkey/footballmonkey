@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="10618"><name>Stefan Postma</name>
+
+<details>
+<country>NED</country>
+<born>06 October 1976</born>
+<birthplace>Utrecht</birthplace>
+<weight>93 kg</weight>
+<height>1.98 m</height>
+<position>Goalkeeper</position>
+
+</details>
+
+<description>Stefan signed a new two-year contract with Aston Villa in May 2004. After a loan spell, he joined Wolverhampton Wanderers in January 2006 with a contract to the end of the season.</description>
+
+<club_history>
+
+<period>
+<club>FC Utrecht</club>
+<date_joined unformated="1995-07-01">01-07-1995</date_joined>
+<date_left unformated="2000-07-01">01-07-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>De Graafschap</club>
+<date_joined unformated="2000-07-01">01-07-2000</date_joined>
+<date_left unformated="2002-05-14">14-05-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="2002-05-14">14-05-2002</date_joined>
+<date_left unformated="2006-01-06">06-01-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Wolverhampton Wanderers</club>
+<date_joined unformated="2005-08-19">19-08-2005</date_joined>
+<date_left unformated="2006-01-05">05-01-2006</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Wolverhampton Wanderers</club>
+<date_joined unformated="2006-01-06">06-01-2006</date_joined>
+<date_left unformated="2006-06-30">30-06-2006</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Dutch KPN Telecompetitie</competition>
+<team>De Graafschap</team>
+<period>2000 - 2001</period>
+<fullapps>34</fullapps>
+<subs>0</subs>
+
+<cleansheets>3</cleansheets>
+<goalsconceded>63</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Dutch KPN Telecompetitie</competition>
+<team>De Graafschap</team>
+<period>2001 - 2002</period>
+<fullapps>17</fullapps>
+<subs>0</subs>
+
+<cleansheets>3</cleansheets>
+<goalsconceded>29</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Aston Villa</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Intertoto Cup</competition>
+<team>Aston Villa</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>2002 - 2003</period>
+<fullapps>5</fullapps>
+<subs>1</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>6</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+
+<cleansheets/>
+<goalsconceded/>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>8</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Wolverhampton Wanderers</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Wolverhampton Wanderers</team>
+<period>2005 - 2006</period>
+<fullapps>29</fullapps>
+<subs>0</subs>
+
+<cleansheets>8</cleansheets>
+<goalsconceded>21</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Wolverhampton Wanderers</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="230159"><name>Jay O'Shea</name>
+
+<details>
+<country>IRL</country>
+<born>10 August 1988</born>
+<birthplace>Dun Laoghaire</birthplace>
+<weight>70 kg</weight>
+<height>1.83 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Jay joined Birmingham City in August 2009 with a two-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Bray Wanderers</club>
+<date_joined unformated="2006-01-01">01-01-2006</date_joined>
+<date_left unformated="2008-01-01">01-01-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Galway United</club>
+<date_joined unformated="2008-01-01">01-01-2008</date_joined>
+<date_left unformated="2009-08-10">10-08-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2009-08-10">10-08-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Birmingham City</team>
+<period>2009 - 2010</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2009 - 2010</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

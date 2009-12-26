@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="165411"><name>Keith Fahey</name>
+
+<details>
+<country>IRL</country>
+<born>15 January 1983</born>
+<birthplace>Dublin</birthplace>
+<weight>79 kg</weight>
+<height>1.80 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Keith joined Birmingham City in January 2009 with a contract to June 2012.</description>
+
+<club_history>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="1999-07-01">01-07-1999</date_joined>
+<date_left unformated="2000-04-01">01-04-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="2000-04-01">01-04-2000</date_joined>
+<date_left unformated="2003-01-01">01-01-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>St Patricks Athletic</club>
+<date_joined unformated="2003-01-01">01-01-2003</date_joined>
+<date_left unformated="2006-01-01">01-01-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Drogheda United</club>
+<date_joined unformated="2006-01-01">01-01-2006</date_joined>
+<date_left unformated="2006-07-16">16-07-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>St Patricks Athletic</club>
+<date_joined unformated="2006-07-16">16-07-2006</date_joined>
+<date_left unformated="2009-01-02">02-01-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2009-01-02">02-01-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>World Youth Under 20</competition>
+<team>Republic of Ireland</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Birmingham City</team>
+<period>2008 - 2009</period>
+<fullapps>15</fullapps>
+<subs>4</subs>
+<goals>4</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Birmingham City</team>
+<period>2009 - 2010</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2009 - 2010</period>
+<fullapps>7</fullapps>
+<subs>6</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

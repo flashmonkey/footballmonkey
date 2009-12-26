@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="30"><name>Tommy Black</name>
+
+<details>
+<country>ENG</country>
+<born>26 November 1979</born>
+<birthplace>Chigwell</birthplace>
+<weight>72 kg</weight>
+<height>1.70 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>Michael Black's brother became a crowd favourite at Crystal Palace although he struggled to tie-down a regular place at Selhurst Park.
+Tommy joined Crystal Palace from Arsenal in the summer of 2000 along with another young player Julian Gray shortly before Steve Coppell departed as manager.
+He was mostly used on the wide right-side of midfield where his pace and ability to deliver accurate crosses proved most effective.
+His performances soon made him a crowd favourite and he was rarely absent from the first-team squad throughout 2000-01.
+Tommy agreed a new four-year contract with Palace in May 2003.
+He joined Southend United in July 2007 with a one-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="1998-07-03">03-07-1998</date_joined>
+<date_left unformated="2000-07-21">21-07-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Carlisle United</club>
+<date_joined unformated="1999-08-25">25-08-1999</date_joined>
+<date_left unformated="1999-09-26">26-09-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bristol City</club>
+<date_joined unformated="1999-12-17">17-12-1999</date_joined>
+<date_left unformated="2000-01-04">04-01-2000</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Crystal Palace</club>
+<date_joined unformated="2000-07-21">21-07-2000</date_joined>
+<date_left unformated="2007-06-30">30-06-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Sheffield United</club>
+<date_joined unformated="2004-09-17">17-09-2004</date_joined>
+<date_left unformated="2004-10-17">17-10-2004</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Gillingham</club>
+<date_joined unformated="2006-01-27">27-01-2006</date_joined>
+<date_left unformated="2006-05-31">31-05-2006</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bradford City</club>
+<date_joined unformated="2006-11-16">16-11-2006</date_joined>
+<date_left unformated="2006-12-16">16-12-2006</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Southend United</club>
+<date_joined unformated="2007-07-02">02-07-2007</date_joined>
+<date_left unformated="2008-06-30">30-06-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Stevenage Borough</club>
+<date_joined unformated="2008-10-01">01-10-2008</date_joined>
+<date_left unformated="2009-01-02">02-01-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Barnet</club>
+<date_joined unformated="2009-01-02">02-01-2009</date_joined>
+<date_left unformated="2009-02-02">02-02-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Grays Athletic</club>
+<date_joined unformated="2009-08-07">07-08-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Arsenal</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Crystal Palace</team>
+<period>2000 - 2001</period>
+<fullapps>30</fullapps>
+<subs>10</subs>
+<goals>4</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Crystal Palace</team>
+<period>2000 - 2001</period>
+<fullapps>8</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Crystal Palace</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Crystal Palace</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Crystal Palace</team>
+<period>2001 - 2002</period>
+<fullapps>5</fullapps>
+<subs>20</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>2</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Crystal Palace</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Crystal Palace</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Crystal Palace</team>
+<period>2002 - 2003</period>
+<fullapps>20</fullapps>
+<subs>16</subs>
+<goals>6</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Crystal Palace</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Crystal Palace</team>
+<period>2003 - 2004</period>
+<fullapps>12</fullapps>
+<subs>13</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Sheffield United</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Sheffield United</team>
+<period>2004 - 2005</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Gillingham</team>
+<period>2005 - 2006</period>
+<fullapps>17</fullapps>
+<subs>0</subs>
+<goals>5</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Crystal Palace</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Crystal Palace</team>
+<period>2005 - 2006</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Crystal Palace</team>
+<period>2005 - 2006</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Crystal Palace</team>
+<period>2006 - 2007</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bradford City</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Bradford City</team>
+<period>2006 - 2007</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One Play-Offs</competition>
+<team>Southend United</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Southend United</team>
+<period>2007 - 2008</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Southend United</team>
+<period>2007 - 2008</period>
+<fullapps>29</fullapps>
+<subs>9</subs>
+<goals>2</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Johnstones Paint Trophy</competition>
+<team>Southend United</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Southend United</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Barnet</team>
+<period>2008 - 2009</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

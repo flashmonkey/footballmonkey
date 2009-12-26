@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="34916"><name>Dariusz Kubicki</name>
+
+<details>
+<country>POL</country>
+<born>06 June 1963</born>
+<birthplace>Warszawa</birthplace>
+<weight>75 kg</weight>
+<height>1.78 m</height>
+<position>Right back</position>
+
+</details>
+
+<description>Poland International 
+</description>
+
+<club_history>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="1991-08-01">01-08-1991</date_joined>
+<date_left unformated="1994-03-01">01-03-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Sunderland</club>
+<date_joined unformated="1994-03-01">01-03-1994</date_joined>
+<date_left unformated="1997-08-01">01-08-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Wolverhampton Wanderers</club>
+<date_joined unformated="1997-08-01">01-08-1997</date_joined>
+<date_left unformated="1998-07-01">01-07-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Carlisle United</club>
+<date_joined unformated="1998-07-01">01-07-1998</date_joined>
+<date_left unformated="1998-10-01">01-10-1998</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Rumbelows League Cup</competition>
+<team>Aston Villa</team>
+<period>1991 - 1992</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1991 - 1992</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1991 - 1992</period>
+<fullapps>23</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Aston Villa</team>
+<period>1992 - 1993</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1993 - 1994</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Sunderland</team>
+<period>1996 - 1997</period>
+<fullapps>28</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Sunderland</team>
+<period>1996 - 1997</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

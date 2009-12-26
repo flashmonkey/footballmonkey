@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="4241"><name>Fabian De Freitas</name>
+
+<details>
+<country>NED</country>
+<born>28 July 1972</born>
+<birthplace>Paramaribo</birthplace>
+<weight>77 kg</weight>
+<height>1.83 m</height>
+<position>Striker</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Volendam</club>
+<date_joined unformated="">30-12-1999</date_joined>
+<date_left unformated="1994-08-19">19-08-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="1994-08-19">19-08-1994</date_joined>
+<date_left unformated="1996-09-06">06-09-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Osasuna</club>
+<date_joined unformated="1996-09-06">06-09-1996</date_joined>
+<date_left unformated="1998-08-21">21-08-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>West Bromwich Albion</club>
+<date_joined unformated="1998-08-21">21-08-1998</date_joined>
+<date_left unformated="2000-09-01">01-09-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Cambuur Leeuwarden</club>
+<date_joined unformated="2000-09-01">01-09-2000</date_joined>
+<date_left unformated="2001-07-01">01-07-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Den Bosch</club>
+<date_joined unformated="2001-07-01">01-07-2001</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Bolton Wanderers</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>1995 - 1996</period>
+<fullapps>17</fullapps>
+<subs>10</subs>
+<goals>5</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Dutch KPN Telecompetitie</competition>
+<team>Den Bosch</team>
+<period>2001 - 2002</period>
+<fullapps>14</fullapps>
+<subs>2</subs>
+<goals>4</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+</player_stats>
+
+</player>

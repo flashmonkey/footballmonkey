@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="230208"><name>Danny Ward</name>
+
+<details>
+<country>ENG</country>
+<born>11 December 1991</born>
+<birthplace>Leeds</birthplace>
+
+
+<position>Midfielder</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2009-07-01">01-07-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Swindon Town</club>
+<date_joined unformated="2009-11-26">26-11-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>League One</competition>
+<team>Swindon Town</team>
+<period>2009 - 2010</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2009 - 2010</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

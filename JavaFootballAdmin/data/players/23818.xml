@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="23818"><name>Simon Ireland</name>
+
+<details>
+<country>ENG</country>
+<born>23 November 1971</born>
+<birthplace>Barnstaple</birthplace>
+<weight>75 kg</weight>
+<height>1.80 m</height>
+<position>Winger</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Huddersfield Town</club>
+<date_joined unformated="1990-07-01">01-07-1990</date_joined>
+<date_left unformated="1992-11-01">01-11-1992</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1992-11-01">01-11-1992</date_joined>
+<date_left unformated="1994-03-01">01-03-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Mansfield Town</club>
+<date_joined unformated="1994-03-01">01-03-1994</date_joined>
+<date_left unformated="1997-01-01">01-01-1997</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1992 - 1993</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

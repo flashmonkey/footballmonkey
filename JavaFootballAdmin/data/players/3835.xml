@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="3835"><name>Jay Bothroyd</name>
+
+<details>
+<country>ENG</country>
+<born>07 May 1982</born>
+<birthplace>Islington</birthplace>
+<weight>86 kg</weight>
+<height>1.91 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>A member of the Arsenal team that won the FA Youth Cup in 1999-2000, Jay joined Coventry City in the 2000 close season as a long-term prospect for the Sky Blues.
+After making his senior debut in a Worthington Cup tie against Preston North End, he was given a tough baptism in the Premiership when he was chosen to lead the attack against Manchester United in November.
+Although slightly overawed by the occasion, he was later recalled for the FA Cup tie at Manchester City when he performed well and subsequently made a number of short appearances as a substitute. 
+His efforts for England Under-18s were rewarded in May with an appearance for the Under-21s from the subs' bench in the friendly against Mexico when he scored with a spectacular overhead kick.
+Jay joined Perugia in July 2003 in a three-year deal.
+He joined Wolverhampton Wanderers in July 2006 with a three-year contract but was made available for transfer in May 2008.
+Jay joined Cardiff City in August 2008 with a three-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="1999-07-01">01-07-1999</date_joined>
+<date_left unformated="2000-07-12">12-07-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Coventry City</club>
+<date_joined unformated="2000-07-12">12-07-2000</date_joined>
+<date_left unformated="2003-07-10">10-07-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Perugia</club>
+<date_joined unformated="2003-07-10">10-07-2003</date_joined>
+<date_left unformated="2005-08-31">31-08-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="2004-08-31">31-08-2004</date_joined>
+<date_left unformated="2005-05-31">31-05-2005</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Charlton Athletic</club>
+<date_joined unformated="2005-08-31">31-08-2005</date_joined>
+<date_left unformated="2006-06-30">30-06-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Wolverhampton Wanderers</club>
+<date_joined unformated="2006-07-27">27-07-2006</date_joined>
+<date_left unformated="2008-08-05">05-08-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Stoke City</club>
+<date_joined unformated="2008-03-14">14-03-2008</date_joined>
+<date_left unformated="2008-05-31">31-05-2008</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Cardiff City</club>
+<date_joined unformated="2008-08-05">05-08-2008</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Under 18</competition>
+<team>England</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Coventry City</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Coventry City</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 18</competition>
+<team>England</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Coventry City</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>5</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>England</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 18</competition>
+<team>England</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 20</competition>
+<team>England</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Coventry City</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Coventry City</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Coventry City</team>
+<period>2001 - 2002</period>
+<fullapps>24</fullapps>
+<subs>7</subs>
+<goals>6</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Coventry City</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Coventry City</team>
+<period>2002 - 2003</period>
+<fullapps>24</fullapps>
+<subs>9</subs>
+<goals>8</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Coventry City</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Serie A</competition>
+<team>Perugia</team>
+<period>2003 - 2004</period>
+<fullapps>16</fullapps>
+<subs>10</subs>
+<goals>5</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Perugia</team>
+<period>2003 - 2004</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2004 - 2005</period>
+<fullapps>6</fullapps>
+<subs>5</subs>
+<goals>1</goals>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2004 - 2005</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Charlton Athletic</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>3</subs>
+<goals>2</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Charlton Athletic</team>
+<period>2005 - 2006</period>
+<fullapps>3</fullapps>
+<subs>15</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Charlton Athletic</team>
+<period>2005 - 2006</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Wolverhampton Wanderers</team>
+<period>2006 - 2007</period>
+<fullapps>19</fullapps>
+<subs>14</subs>
+<goals>9</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Championship Play-Offs</competition>
+<team>Wolverhampton Wanderers</team>
+<period>2006 - 2007</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Stoke City</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Wolverhampton Wanderers</team>
+<period>2007 - 2008</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Wolverhampton Wanderers</team>
+<period>2007 - 2008</period>
+<fullapps>13</fullapps>
+<subs>9</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Cardiff City</team>
+<period>2008 - 2009</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Cardiff City</team>
+<period>2008 - 2009</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Cardiff City</team>
+<period>2008 - 2009</period>
+<fullapps>35</fullapps>
+<subs>4</subs>
+<goals>12</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Cardiff City</team>
+<period>2009 - 2010</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Cardiff City</team>
+<period>2009 - 2010</period>
+<fullapps>19</fullapps>
+<subs>0</subs>
+<goals>5</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

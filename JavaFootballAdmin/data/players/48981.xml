@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="48981"><name>Mark Davies</name>
+
+<details>
+<country>ENG</country>
+<born>18 February 1988</born>
+<birthplace>Wolverhampton</birthplace>
+<weight>73 kg</weight>
+<height>1.80 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Mark joined Bolton Wanderers in January 2009 with a contract to June 2013.</description>
+
+<club_history>
+
+<period>
+<club>Wolverhampton Wanderers</club>
+<date_joined unformated="2005-02-18">18-02-2005</date_joined>
+<date_left unformated="2009-01-26">26-01-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Leicester City</club>
+<date_joined unformated="2008-11-27">27-11-2008</date_joined>
+<date_left unformated="2009-01-25">25-01-2009</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2009-01-26">26-01-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Under 16 Ballymena Tournament</competition>
+<team>England</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Wolverhampton Wanderers</team>
+<period>2005 - 2006</period>
+<fullapps>12</fullapps>
+<subs>8</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Wolverhampton Wanderers</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Wolverhampton Wanderers</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Wolverhampton Wanderers</team>
+<period>2006 - 2007</period>
+<fullapps>0</fullapps>
+<subs>7</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Wolverhampton Wanderers</team>
+<period>2006 - 2007</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Wolverhampton Wanderers</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2008 - 2009</period>
+<fullapps>8</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Leicester City</team>
+<period>2008 - 2009</period>
+<fullapps>5</fullapps>
+<subs>2</subs>
+<goals>2</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Leicester City</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2009 - 2010</period>
+<fullapps>2</fullapps>
+<subs>6</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2009 - 2010</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

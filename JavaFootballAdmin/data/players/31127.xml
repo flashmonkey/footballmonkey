@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="31127"><name>Eddie McGoldrick</name>
+
+<details>
+<country>IRL</country>
+<born>30 April 1965</born>
+<birthplace>Islington</birthplace>
+<weight>73 kg</weight>
+<height>1.78 m</height>
+<position>Right Midfielder</position>
+
+</details>
+
+<description>Eire International 
+With Arsenal, ECW Cup winner 1994. An expensive midfielder, ultimately disappointing. Originally joined Manchester City on loan in September 1996 before move made permanent.
+A �1million signing, Eddie�s only Arsenal goal was the seventh in a 7-0 win against Standard Liege in the European Cup Winners Cup in November 1983.</description>
+
+<club_history>
+
+<period>
+<club>Northampton Town</club>
+<date_joined unformated="1986-08-01">01-08-1986</date_joined>
+<date_left unformated="1989-01-01">01-01-1989</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Crystal Palace</club>
+<date_joined unformated="1989-01-01">01-01-1989</date_joined>
+<date_left unformated="1993-06-01">01-06-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="1993-06-01">01-06-1993</date_joined>
+<date_left unformated="1996-09-01">01-09-1996</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>B Inter</competition>
+<team>Republic of Ireland</team>
+<period>1991 - 1992</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Republic of Ireland</team>
+<period>1991 - 1992</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>David O'Leary Testimonial</competition>
+<team>Republic of Ireland</team>
+<period>1992 - 1993</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Republic of Ireland</team>
+<period>1992 - 1993</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Crystal Palace</team>
+<period>1992 - 1993</period>
+<fullapps>42</fullapps>
+<subs>0</subs>
+<goals>8</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Republic of Ireland</team>
+<period>1992 - 1993</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>1993 - 1994</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Cup Winners Cup</competition>
+<team>Arsenal</team>
+<period>1993 - 1994</period>
+<fullapps>3</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Republic of Ireland</team>
+<period>1993 - 1994</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Charity Shield</competition>
+<team>Arsenal</team>
+<period>1993 - 1994</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Republic of Ireland</team>
+<period>1993 - 1994</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1993 - 1994</period>
+<fullapps>23</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Arsenal</team>
+<period>1993 - 1994</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Abandoned</competition>
+<team>Republic of Ireland</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Arsenal</team>
+<period>1994 - 1995</period>
+<fullapps>3</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Cup Winners Cup</competition>
+<team>Arsenal</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1994 - 1995</period>
+<fullapps>9</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Republic of Ireland</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1995 - 1996</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Manchester City</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

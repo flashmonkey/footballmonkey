@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="20445"><name>Luciano Figueroa</name>
+
+<details>
+<country>ARG</country>
+<born>19 May 1981</born>
+<birthplace>Santa Fe</birthplace>
+<weight>74 kg</weight>
+<height>1.83 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>The young goal-machine was subject of a failed bid by Rangers before he joined Birmingham City in August 2003 on a five-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Rosario Central</club>
+<date_joined unformated="2000-00-00">30-11-1999</date_joined>
+<date_left unformated="2003-08-04">04-08-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2003-08-04">04-08-2003</date_joined>
+<date_left unformated="2003-12-23">23-12-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Cruz Azul</club>
+<date_joined unformated="2003-12-23">23-12-2003</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Olympics</competition>
+<team>Argentina</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>4</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Birmingham City</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Argentina</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Copa America</competition>
+<team>Argentina</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FIFA Confederations Cup</competition>
+<team>Argentina</team>
+<period>2004 - 2005</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>4</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Villarreal</team>
+<period>2004 - 2005</period>
+<fullapps>7</fullapps>
+<subs>8</subs>
+<goals>4</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Argentina</team>
+<period>2004 - 2005</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Argentina</team>
+<period>2004 - 2005</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Villarreal</team>
+<period>2005 - 2006</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="16306"><name>Manuel Almunia</name>
+
+<details>
+<country>ESP</country>
+<born>19 May 1977</born>
+<birthplace>Pamplona</birthplace>
+<weight>80 kg</weight>
+<height>1.90 m</height>
+<position>Goalkeeper</position>
+
+</details>
+
+<description>Brought in to provide cover for Jens Lehmann, the tall Spaniard played a key part in Arsenal�s 2005 FA Cup success with two penalty saves in the Fifth Round shoot-out against Sheffield United.</description>
+
+<club_history>
+
+<period>
+<club>Osasuna 'B'</club>
+<date_joined unformated="1997-07-01">01-07-1997</date_joined>
+<date_left unformated="2001-07-01">01-07-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Cartaganova</club>
+<date_joined unformated="1999-07-01">01-07-1999</date_joined>
+<date_left unformated="2000-05-31">31-05-2000</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Sabadell</club>
+<date_joined unformated="2000-08-01">01-08-2000</date_joined>
+<date_left unformated="2001-05-31">31-05-2001</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Celta Vigo</club>
+<date_joined unformated="2001-07-01">01-07-2001</date_joined>
+<date_left unformated="2004-07-14">14-07-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Eibar</club>
+<date_joined unformated="2001-08-01">01-08-2001</date_joined>
+<date_left unformated="2002-05-31">31-05-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Recreativo de Huelva</club>
+<date_joined unformated="2002-08-01">01-08-2002</date_joined>
+<date_left unformated="2003-05-31">31-05-2003</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Albacete Balompie</club>
+<date_joined unformated="2003-08-01">01-08-2003</date_joined>
+<date_left unformated="2004-05-31">31-05-2004</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="2004-07-14">14-07-2004</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Recreativo de Huelva</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Albacete Balompie</team>
+<period>2003 - 2004</period>
+<fullapps>24</fullapps>
+<subs>0</subs>
+
+<cleansheets>7</cleansheets>
+<goalsconceded>28</goalsconceded>
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Arsenal</team>
+<period>2004 - 2005</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2004 - 2005</period>
+<fullapps>10</fullapps>
+<subs>0</subs>
+
+<cleansheets>5</cleansheets>
+<goalsconceded>8</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Arsenal</team>
+<period>2005 - 2006</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>2005 - 2006</period>
+<fullapps>5</fullapps>
+<subs>1</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>2006 - 2007</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Arsenal</team>
+<period>2006 - 2007</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>7</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>2006 - 2007</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>2007 - 2008</period>
+<fullapps>9</fullapps>
+<subs>0</subs>
+
+<cleansheets>5</cleansheets>
+<goalsconceded>8</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2007 - 2008</period>
+<fullapps>29</fullapps>
+<subs>0</subs>
+
+<cleansheets>10</cleansheets>
+<goalsconceded>22</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2008 - 2009</period>
+<fullapps>32</fullapps>
+<subs>0</subs>
+
+<cleansheets>11</cleansheets>
+<goalsconceded>25</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>2008 - 2009</period>
+<fullapps>12</fullapps>
+<subs>0</subs>
+
+<cleansheets>5</cleansheets>
+<goalsconceded>10</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2009 - 2010</period>
+<fullapps>11</fullapps>
+<subs>0</subs>
+
+<cleansheets>3</cleansheets>
+<goalsconceded>11</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>2009 - 2010</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

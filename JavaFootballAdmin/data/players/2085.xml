@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="2085"><name>Mixu Paatelainen</name>
+
+<details>
+<country>FIN</country>
+<born>03 February 1967</born>
+<birthplace>Helsinki</birthplace>
+<weight>90 kg</weight>
+<height>1.83 m</height>
+<position>Forward</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>FC Haka</club>
+<date_joined unformated="">30-12-1999</date_joined>
+<date_left unformated="1987-10-01">01-10-1987</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Dundee United</club>
+<date_joined unformated="1987-10-01">01-10-1987</date_joined>
+<date_left unformated="1992-03-31">31-03-1992</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Aberdeen</club>
+<date_joined unformated="1992-03-31">31-03-1992</date_joined>
+<date_left unformated="1994-07-29">29-07-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="1994-07-29">29-07-1994</date_joined>
+<date_left unformated="1997-08-08">08-08-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Wolverhampton Wanderers</club>
+<date_joined unformated="1997-08-08">08-08-1997</date_joined>
+<date_left unformated="1998-09-11">11-09-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hibernian</club>
+<date_joined unformated="1998-09-11">11-09-1998</date_joined>
+<date_left unformated="2001-06-30">30-06-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Strasbourg</club>
+<date_joined unformated="2001-07-01">01-07-2001</date_joined>
+<date_left unformated="2002-06-30">30-06-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hibernian</club>
+<date_joined unformated="2002-08-02">02-08-2002</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>1995 - 1996</period>
+<fullapps>12</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Wolverhampton Wanderers</team>
+<period>1997 - 1998</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Hibernian</team>
+<period>1999 - 2000</period>
+<fullapps>25</fullapps>
+<subs>6</subs>
+<goals>9</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish FA Cup</competition>
+<team>Hibernian</team>
+<period>1999 - 2000</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish League Cup</competition>
+<team>Hibernian</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish FA Cup</competition>
+<team>Hibernian</team>
+<period>2000 - 2001</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Hibernian</team>
+<period>2000 - 2001</period>
+<fullapps>32</fullapps>
+<subs>4</subs>
+<goals>8</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish League Cup</competition>
+<team>Hibernian</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Strasbourg</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Hibernian</team>
+<period>2002 - 2003</period>
+<fullapps>16</fullapps>
+<subs>3</subs>
+<goals>7</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish League Cup</competition>
+<team>Hibernian</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="157"><name>Andy Oakes</name>
+
+<details>
+<country>ENG</country>
+<born>11 January 1977</born>
+<birthplace>Northwich</birthplace>
+<weight>83 kg</weight>
+<height>1.93 m</height>
+<position>Goalkeeper</position>
+
+</details>
+
+<description>Andy was a regular in Derby County's successful reserve side in 2000-01 before being thrown headlong into the senior team and a battle against relegation after Mart Poom suffered a shoulder injury against Charlton Athletic.
+He made his debut in the home game against Sunderland when he sealed victory with a stunning save in the closing minutes.
+A series of steady performances in the next half-dozen games impressed all, before his season was cut short when he suffered a medial ligament injury to his right knee in the away game with Coventry City.
+Andy was made available for transfer by Derby County in May 2004.
+He joined Walsall in March 2005 with a contract to June 2006.
+Andy joined Swansea City in August 2006 with a one-year contract.
+He joined Darlington in July 2007 in a two-year deal.</description>
+
+<club_history>
+
+<period>
+<club>Burnley</club>
+<date_joined unformated="1995-07-01">01-07-1995</date_joined>
+<date_left unformated="1996-06-30">30-06-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Macclesfield Town</club>
+<date_joined unformated="1996-07-01">01-07-1996</date_joined>
+<date_left unformated="1998-06-30">30-06-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Winsford United</club>
+<date_joined unformated="1998-07-01">01-07-1998</date_joined>
+<date_left unformated="1998-12-08">08-12-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hull City</club>
+<date_joined unformated="1998-12-08">08-12-1998</date_joined>
+<date_left unformated="1999-06-02">02-06-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Derby County</club>
+<date_joined unformated="1999-06-03">03-06-1999</date_joined>
+<date_left unformated="2005-03-18">18-03-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Port Vale</club>
+<date_joined unformated="1999-08-20">20-08-1999</date_joined>
+<date_left unformated="1999-09-10">10-09-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2004-08-31">31-08-2004</date_joined>
+<date_left unformated="2005-03-17">17-03-2005</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Walsall</club>
+<date_joined unformated="2005-03-18">18-03-2005</date_joined>
+<date_left unformated="2006-06-30">30-06-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Swansea City</club>
+<date_joined unformated="2006-08-01">01-08-2006</date_joined>
+<date_left unformated="2007-06-30">30-06-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Darlington</club>
+<date_joined unformated="2007-07-18">18-07-2007</date_joined>
+<date_left unformated="2009-06-30">30-06-2009</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Derby County</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>5</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Derby County</team>
+<period>2000 - 2001</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+
+<cleansheets>3</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Derby County</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>5</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Derby County</team>
+<period>2001 - 2002</period>
+<fullapps>20</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>33</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Derby County</team>
+<period>2002 - 2003</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>14</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Derby County</team>
+<period>2003 - 2004</period>
+<fullapps>10</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>13</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Walsall</team>
+<period>2004 - 2005</period>
+<fullapps>9</fullapps>
+<subs>0</subs>
+
+<cleansheets>3</cleansheets>
+<goalsconceded>9</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Walsall</team>
+<period>2005 - 2006</period>
+<fullapps>25</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>40</goalsconceded>
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Walsall</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Walsall</team>
+<period>2005 - 2006</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Walsall</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Johnstones Paint Trophy</competition>
+<team>Swansea City</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Swansea City</team>
+<period>2006 - 2007</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>5</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Johnstones Paint Trophy</competition>
+<team>Darlington</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Darlington</team>
+<period>2007 - 2008</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+
+<cleansheets>3</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Darlington</team>
+<period>2008 - 2009</period>
+<fullapps>10</fullapps>
+<subs>0</subs>
+
+<cleansheets>4</cleansheets>
+<goalsconceded>10</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Darlington</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

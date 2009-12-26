@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="3901"><name>Marlon Broomes</name>
+
+<details>
+<country>ENG</country>
+<born>28 November 1977</born>
+<birthplace>Birmingham</birthplace>
+<weight>82 kg</weight>
+<height>1.83 m</height>
+<position>Defender/Centre back</position>
+
+</details>
+
+<description>Despite his obvious athleticism, Marlon failed to make much of an impact with Blackburn Rovers in 2000-01and in fact slipped down the pecking order of defenders during the campaign.
+He made a handful of early season appearances for Rovers and then joined Queens Park Rangers on loan towards the end of October 2000.
+He quickly became popular with the Loftus Road faithful with some fine performances and Rangers' boss Gerry Francis tried to make the deal permanent, but was unable to agree terms and so Marlon returned to Ewood Park where he played no further part in the club's successful season.
+He spent the start of f the 2001-02 season on loan at Grimsby Town and finally left Blackburn when he signed for Sheffield Wednesday in December 2001 on a deal which lasted until the end of the season.
+They did not offer him a long term contract and he was released in the summer.
+He remained a central defender of considerable potential, he had trials at Blackpool and Burnley in the summer of 2002 but was snapped up by Preston North End in August 2002 as a replacement for Shaun Gregan who had left for West Bromwich Albion.
+Marlon joined Stoke City in August 2005 with a three-year contract.
+He joined Blackpool in July 2008 with a one-year contract.
+After joining on a non-contract basis, Marlon agreed a one-season contract with Tranmere Rovers in September 2009.</description>
+
+<club_history>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1994-11-28">28-11-1994</date_joined>
+<date_left unformated="2001-12-12">12-12-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Swindon Town</club>
+<date_joined unformated="1997-01-22">22-01-1997</date_joined>
+<date_left unformated="1997-03-21">21-03-1997</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Queens Park Rangers</club>
+<date_joined unformated="2000-10-24">24-10-2000</date_joined>
+<date_left unformated="2000-11-29">29-11-2000</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Grimsby Town</club>
+<date_joined unformated="2001-09-06">06-09-2001</date_joined>
+<date_left unformated="2001-12-10">10-12-2001</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Sheffield Wednesday</club>
+<date_joined unformated="2001-12-12">12-12-2001</date_joined>
+<date_left unformated="2002-06-30">30-06-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Burnley</club>
+<date_joined unformated="2002-07-19">19-07-2002</date_joined>
+<date_left unformated="2002-08-09">09-08-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Preston North End</club>
+<date_joined unformated="2002-08-09">09-08-2002</date_joined>
+<date_left unformated="2005-08-02">02-08-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Stoke City</club>
+<date_joined unformated="2005-08-02">02-08-2005</date_joined>
+<date_left unformated="2008-06-30">30-06-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackpool</club>
+<date_joined unformated="2008-07-01">01-07-2008</date_joined>
+<date_left unformated="2009-06-30">30-06-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Crewe Alexandra</club>
+<date_joined unformated="2009-01-26">26-01-2009</date_joined>
+<date_left unformated="2009-03-06">06-03-2009</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Crewe Alexandra</club>
+<date_joined unformated="2009-03-13">13-03-2009</date_joined>
+<date_left unformated="2009-05-31">31-05-2009</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Tranmere Rovers</club>
+<date_joined unformated="2009-08-08">08-08-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Under 18</competition>
+<team>England</team>
+<period>1994 - 1995</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Under 18</competition>
+<team>England</team>
+<period>1995 - 1996</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>England</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>World Youth Cup</competition>
+<team>England</team>
+<period>1996 - 1997</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1997 - 1998</period>
+<fullapps>2</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1998 - 1999</period>
+<fullapps>8</fullapps>
+<subs>5</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1998 - 1999</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Blackburn Rovers</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Queens Park Rangers</team>
+<period>2000 - 2001</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Sheffield Wednesday</team>
+<period>2001 - 2002</period>
+<fullapps>18</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Sheffield Wednesday</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Grimsby Town</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Grimsby Town</team>
+<period>2001 - 2002</period>
+<fullapps>13</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Preston North End</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Preston North End</team>
+<period>2002 - 2003</period>
+<fullapps>21</fullapps>
+<subs>7</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Preston North End</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Preston North End</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Preston North End</team>
+<period>2003 - 2004</period>
+<fullapps>30</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>4</yellowcards>
+<redcards>2</redcards>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Preston North End</team>
+<period>2004 - 2005</period>
+<fullapps>8</fullapps>
+<subs>3</subs>
+<goals>0</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Preston North End</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship Play-Offs</competition>
+<team>Preston North End</team>
+<period>2004 - 2005</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Stoke City</team>
+<period>2005 - 2006</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Stoke City</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Stoke City</team>
+<period>2005 - 2006</period>
+<fullapps>36</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Crewe Alexandra</team>
+<period>2008 - 2009</period>
+<fullapps>19</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Blackpool</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Tranmere Rovers</team>
+<period>2009 - 2010</period>
+<fullapps>15</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>5</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Tranmere Rovers</team>
+<period>2009 - 2010</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Tranmere Rovers</team>
+<period>2009 - 2010</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

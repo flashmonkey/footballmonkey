@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="1451"><name>David Holdsworth</name>
+
+<details>
+<country>ENG</country>
+<born>08 November 1968</born>
+<birthplace>Walthamstow</birthplace>
+<weight>81 kg</weight>
+<height>1.85 m</height>
+<position>Defender/Centre back</position>
+
+</details>
+
+<description>David was in fine form for Birmingham City in the early part of last season, marshalling the defence with a calm assurance and reading the play very well. However he had his tonsils removed in November and ended up back in a hospital trauma ward after suffering severe haemorrhaging, he then had trouble eating and drinking and lost a stone in weight before finally setting out on the road to recovery. He made a surprise return to the subs' bench for the Worthington Cup final and subsequently returned to first-team action for the Blues. 
+ David, who is the twin brother of Bolton's Dean Holdsworth, joined Wanderers on a monthly contract in August 2002.</description>
+
+<club_history>
+
+<period>
+<club>Watford</club>
+<date_joined unformated="1986-11-08">08-11-1986</date_joined>
+<date_left unformated="1996-10-08">08-10-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Sheffield United</club>
+<date_joined unformated="1996-10-08">08-10-1996</date_joined>
+<date_left unformated="1999-03-23">23-03-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="1999-03-22">22-03-1999</date_joined>
+<date_left unformated="2002-06-30">30-06-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Walsall</club>
+<date_joined unformated="2002-01-18">18-01-2002</date_joined>
+<date_left unformated="2002-04-25">25-04-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2002-08-30">30-08-2002</date_joined>
+<date_left unformated="2002-11-01">01-11-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Scarborough</club>
+<date_joined unformated="2002-11-01">01-11-2002</date_joined>
+<date_left unformated="2003-03-19">19-03-2003</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Cannes Tournament</competition>
+<team>England</team>
+<period>1985 - 1986</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>IYT</competition>
+<team>England</team>
+<period>1985 - 1986</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Sheffield United</team>
+<period>1997 - 1998</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Sheffield United</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Birmingham City</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1 Play-Offs</competition>
+<team>Birmingham City</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Birmingham City</team>
+<period>2000 - 2001</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Birmingham City</team>
+<period>2000 - 2001</period>
+<fullapps>24</fullapps>
+<subs>5</subs>
+<goals>1</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Birmingham City</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Birmingham City</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Walsall</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Walsall</team>
+<period>2001 - 2002</period>
+<fullapps>9</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>2</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Scarborough</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

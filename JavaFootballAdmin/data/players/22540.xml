@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="22540"><name>Chris Boden</name>
+
+<details>
+<country>ENG</country>
+<born>13 October 1973</born>
+<birthplace>Wolverhampton</birthplace>
+<weight>70 kg</weight>
+<height>1.75 m</height>
+<position>Defender</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Derby County</team>
+<period>1994 - 1995</period>
+<fullapps>4</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1994 - 1995</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Derby County</team>
+<period>1995 - 1996</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

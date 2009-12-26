@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="1690"><name>Florent Laville</name>
+
+<details>
+<country>FRA</country>
+<born>07 August 1973</born>
+<birthplace>Valence</birthplace>
+<weight>85 kg</weight>
+<height>1.85 m</height>
+<position>Defender/Centre back</position>
+
+</details>
+
+<description>Florent was made available for transfer by Bolton Wanderers in January 2005.</description>
+
+<club_history>
+
+<period>
+<club>Olympique Lyonnais</club>
+<date_joined unformated="1993-07-01">01-07-1993</date_joined>
+<date_left unformated="2003-07-02">02-07-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2003-02-01">01-02-2003</date_joined>
+<date_left unformated="2003-05-31">31-05-2003</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2003-07-02">02-07-2003</date_joined>
+<date_left unformated="2005-06-30">30-06-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Coventry City</club>
+<date_joined unformated="2004-10-29">29-10-2004</date_joined>
+<date_left unformated="2004-12-29">29-12-2004</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Olympique Lyonnais</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Olympique Lyonnais</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Olympique Lyonnais</team>
+<period>2000 - 2001</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Olympique Lyonnais</team>
+<period>2000 - 2001</period>
+<fullapps>9</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Olympique Lyonnais</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Olympique Lyonnais</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Olympique Lyonnais</team>
+<period>2001 - 2002</period>
+<fullapps>11</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Olympique Lyonnais</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2002 - 2003</period>
+<fullapps>10</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>5</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Olympique Lyonnais</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Olympique Lyonnais</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2003 - 2004</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Coventry City</team>
+<period>2004 - 2005</period>
+<fullapps>5</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

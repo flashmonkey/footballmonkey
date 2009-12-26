@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="42678"><name>Jemal Johnson</name>
+
+<details>
+<country>USA</country>
+<born>03 May 1984</born>
+<birthplace>New Jersey</birthplace>
+<weight>72 kg</weight>
+<height>1.83 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>Jemal joined Wolverhampton Wanderers in August 2006 with a two-year contract but was made available for transfer in May 2007.
+He joined Milton Keynes Dons in August 2007 with a two-year contract that was extended to June 2011 in July 2009.</description>
+
+<club_history>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="2002-05-10">10-05-2002</date_joined>
+<date_left unformated="2006-08-17">17-08-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Preston North End</club>
+<date_joined unformated="2005-10-28">28-10-2005</date_joined>
+<date_left unformated="2005-11-28">28-11-2005</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Darlington</club>
+<date_joined unformated="2006-03-10">10-03-2006</date_joined>
+<date_left unformated="2006-05-31">31-05-2006</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Wolverhampton Wanderers</club>
+<date_joined unformated="2006-08-17">17-08-2006</date_joined>
+<date_left unformated="2007-08-31">31-08-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Leeds United</club>
+<date_joined unformated="2007-02-19">19-02-2007</date_joined>
+<date_left unformated="2007-05-31">31-05-2007</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Milton Keynes Dons</club>
+<date_joined unformated="2007-08-31">31-08-2007</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2004 - 2005</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2005 - 2006</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Preston North End</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Darlington</team>
+<period>2005 - 2006</period>
+<fullapps>9</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2005 - 2006</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Wolverhampton Wanderers</team>
+<period>2006 - 2007</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Leeds United</team>
+<period>2006 - 2007</period>
+<fullapps>3</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Wolverhampton Wanderers</team>
+<period>2006 - 2007</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Wolverhampton Wanderers</team>
+<period>2006 - 2007</period>
+<fullapps>14</fullapps>
+<subs>6</subs>
+<goals>3</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Milton Keynes Dons</team>
+<period>2007 - 2008</period>
+<fullapps>17</fullapps>
+<subs>22</subs>
+<goals>5</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Milton Keynes Dons</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Johnstones Paint Trophy</competition>
+<team>Milton Keynes Dons</team>
+<period>2007 - 2008</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Milton Keynes Dons</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Milton Keynes Dons</team>
+<period>2008 - 2009</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Milton Keynes Dons</team>
+<period>2008 - 2009</period>
+<fullapps>19</fullapps>
+<subs>14</subs>
+<goals>5</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Johnstones Paint Trophy</competition>
+<team>Milton Keynes Dons</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Johnstones Paint Trophy</competition>
+<team>Milton Keynes Dons</team>
+<period>2009 - 2010</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Milton Keynes Dons</team>
+<period>2009 - 2010</period>
+<fullapps>12</fullapps>
+<subs>5</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Milton Keynes Dons</team>
+<period>2009 - 2010</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

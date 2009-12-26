@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="27"><name>Stefan Malz</name>
+
+<details>
+<country>GER</country>
+<born>15 June 1972</born>
+<birthplace>Ludwigshafen</birthplace>
+<weight>77 kg</weight>
+<height>1.83 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>A left-sided midfielder, Stefan scored the winner on his Arsenal debut in a 2-1 victory against Preston North End at Highbury.
+Stefan again struggled to break into the Arsenal first team last season and remained very much on the fringes of the squad. He had to wait until January before making his first appearance as a substitute in the Premiership game at Charlton and he also featured from the subs' bench in the FA Cup ties at Carlisle and Queens Park Rangers. A left-sided midfield player, he is comfortable on the ball, can pass accurately and tracks back well. He was reported to have signed for Kaiserslautern in the summer.</description>
+
+<club_history>
+
+<period>
+<club>BW Oppau</club>
+<date_joined unformated="">30-12-1999</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>SV Pfingstweide</club>
+<date_joined unformated="">30-12-1999</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>SW Ludwigshafen</club>
+<date_joined unformated="">30-12-1999</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Darmstadt 98</club>
+<date_joined unformated="1992-00-00">30-11-1991</date_joined>
+<date_left unformated="1993-00-00">30-11-1992</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Vfr Mannheim</club>
+<date_joined unformated="1995-00-00">30-11-1994</date_joined>
+<date_left unformated="1997-00-00">30-11-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>TSV 1860 Munchen</club>
+<date_joined unformated="1997-00-00">30-11-1996</date_joined>
+<date_left unformated="1999-06-24">24-06-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="1999-06-24">24-06-1999</date_joined>
+<date_left unformated="2001-06-26">26-06-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>1.FC Kaiserslautern</club>
+<date_joined unformated="2001-06-26">26-06-2001</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Arsenal</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Arsenal</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Bundesliga</competition>
+<team>1.FC Kaiserslautern</team>
+<period>2001 - 2002</period>
+<fullapps>12</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>7</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Bundesliga</competition>
+<team>1.FC Kaiserslautern</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Bundesliga</competition>
+<team>1.FC Kaiserslautern</team>
+<period>2003 - 2004</period>
+<fullapps>14</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+</player_stats>
+
+</player>

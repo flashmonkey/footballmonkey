@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="4531"><name>Tony Dobson</name>
+
+<details>
+<country>ENG</country>
+<born>05 February 1969</born>
+<birthplace>Coventry</birthplace>
+<weight>87 kg</weight>
+<height>1.85 m</height>
+<position>Defender/Full back</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Coventry City</club>
+<date_joined unformated="1986-07-07">07-07-1986</date_joined>
+<date_left unformated="1991-01-17">17-01-1991</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1991-01-17">17-01-1991</date_joined>
+<date_left unformated="1993-09-22">22-09-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Portsmouth</club>
+<date_joined unformated="1993-09-22">22-09-1993</date_joined>
+<date_left unformated="1997-08-08">08-08-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Oxford United</club>
+<date_joined unformated="1994-12-15">15-12-1994</date_joined>
+<date_left unformated="1995-01-15">15-01-1995</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Peterborough United</club>
+<date_joined unformated="1996-01-29">29-01-1996</date_joined>
+<date_left unformated="1996-03-29">29-03-1996</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>West Bromwich Albion</club>
+<date_joined unformated="1997-08-08">08-08-1997</date_joined>
+<date_left unformated="1998-09-11">11-09-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Gillingham</club>
+<date_joined unformated="1998-09-04">04-09-1998</date_joined>
+<date_left unformated="1998-10-04">04-10-1998</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Northampton Town</club>
+<date_joined unformated="1998-09-11">11-09-1998</date_joined>
+<date_left unformated="2001-06-30">30-06-2001</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>League Division One</competition>
+<team>Coventry City</team>
+<period>1986 - 1987</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Coventry City</team>
+<period>1987 - 1988</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Littlewoods Cup</competition>
+<team>Coventry City</team>
+<period>1988 - 1989</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Coventry City</team>
+<period>1988 - 1989</period>
+<fullapps>16</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Coventry City</team>
+<period>1989 - 1990</period>
+<fullapps>28</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Littlewoods Cup</competition>
+<team>Coventry City</team>
+<period>1989 - 1990</period>
+<fullapps>5</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Coventry City</team>
+<period>1990 - 1991</period>
+<fullapps>5</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1992 - 1993</period>
+<fullapps>15</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Portsmouth</team>
+<period>1996 - 1997</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>West Bromwich Albion</team>
+<period>1997 - 1998</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Bromwich Albion</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Northampton Town</team>
+<period>1998 - 1999</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

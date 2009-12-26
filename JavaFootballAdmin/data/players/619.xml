@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="619"><name>Julian Gray</name>
+
+<details>
+<country>ENG</country>
+<born>21 September 1979</born>
+<birthplace>Lewisham</birthplace>
+<weight>70 kg</weight>
+<height>1.85 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Prior to establishing his Premiership place at Birmingham City, Julian made his only Arsenal outing in the last game of the 1999-2000 season at Newcastle United.
+This tall wide-left midfield player joined Crystal Palace from Arsenal in the summer of 2000 and featured regularly for the Eagles in the first half of the 2000-01 season before dropping out of the squad.
+He has plenty of speed, is a good crosser of the ball and is strong in the air. Julian scored his first league goal with a header in the 2-1 win at Huddersfield Town in August 2000.
+ After initially rejecting a new contract with Crystal Palace at the end of the 2002-03 season, Julian subsequently returned to the Selhurst Park ranks in October 2003 on a week-to-week basis before joining Birmingham City in July 2004 on a three-year contract.
+Julian joined Coventry City in July 2007 with a two-year contract.
+After a loan spell, he joined Fulham in February 2009 with a contract to June 2009.</description>
+
+<club_history>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="1998-07-13">13-07-1998</date_joined>
+<date_left unformated="2000-07-21">21-07-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Crystal Palace</club>
+<date_joined unformated="2000-07-21">21-07-2000</date_joined>
+<date_left unformated="2004-06-30">30-06-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Leeds United</club>
+<date_joined unformated="2003-07-18">18-07-2003</date_joined>
+<date_left unformated="2003-07-22">22-07-2003</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Charlton Athletic</club>
+<date_joined unformated="2003-07-25">25-07-2003</date_joined>
+<date_left unformated="2003-08-02">02-08-2003</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Hannover 96</club>
+<date_joined unformated="2003-08-18">18-08-2003</date_joined>
+<date_left unformated="2003-08-22">22-08-2003</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Cardiff City</club>
+<date_joined unformated="2003-10-13">13-10-2003</date_joined>
+<date_left unformated="2003-11-13">13-11-2003</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2004-07-01">01-07-2004</date_joined>
+<date_left unformated="2007-06-30">30-06-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Coventry City</club>
+<date_joined unformated="2007-07-10">10-07-2007</date_joined>
+<date_left unformated="2009-02-02">02-02-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Fulham</club>
+<date_joined unformated="2008-09-01">01-09-2008</date_joined>
+<date_left unformated="2009-02-01">01-02-2009</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Fulham</club>
+<date_joined unformated="2009-02-02">02-02-2009</date_joined>
+<date_left unformated="2009-06-30">30-06-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Barnsley</club>
+<date_joined unformated="2009-09-17">17-09-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Crystal Palace</team>
+<period>2000 - 2001</period>
+<fullapps>12</fullapps>
+<subs>11</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Crystal Palace</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Crystal Palace</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Crystal Palace</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Crystal Palace</team>
+<period>2001 - 2002</period>
+<fullapps>35</fullapps>
+<subs>8</subs>
+<goals>2</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Crystal Palace</team>
+<period>2002 - 2003</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Crystal Palace</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Crystal Palace</team>
+<period>2002 - 2003</period>
+<fullapps>29</fullapps>
+<subs>6</subs>
+<goals>5</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Cardiff City</team>
+<period>2003 - 2004</period>
+<fullapps>5</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Crystal Palace</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Crystal Palace</team>
+<period>2003 - 2004</period>
+<fullapps>24</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1 Play-Offs</competition>
+<team>Crystal Palace</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Birmingham City</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2004 - 2005</period>
+<fullapps>18</fullapps>
+<subs>14</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Birmingham City</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2005 - 2006</period>
+<fullapps>18</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>2005 - 2006</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Birmingham City</team>
+<period>2006 - 2007</period>
+<fullapps>2</fullapps>
+<subs>5</subs>
+<goals/>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Birmingham City</team>
+<period>2006 - 2007</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Coventry City</team>
+<period>2007 - 2008</period>
+<fullapps>20</fullapps>
+<subs>6</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Coventry City</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Coventry City</team>
+<period>2007 - 2008</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Coventry City</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Coventry City</team>
+<period>2008 - 2009</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Fulham</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Fulham</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Barnsley</team>
+<period>2009 - 2010</period>
+<fullapps>1</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Barnsley</team>
+<period>2009 - 2010</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

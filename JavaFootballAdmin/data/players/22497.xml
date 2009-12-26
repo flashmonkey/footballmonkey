@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="22497"><name>Gerald Cid</name>
+
+<details>
+<country>FRA</country>
+<born>17 February 1983</born>
+<birthplace>Talence</birthplace>
+<weight>74 kg</weight>
+<height>1.88 m</height>
+<position>Defender</position>
+
+</details>
+
+<description>Gerald joined Bolton Wanderers in July 2007 with a four-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Bordeaux</club>
+<date_joined unformated="2003-07-01">01-07-2003</date_joined>
+<date_left unformated="2007-06-30">30-06-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Istres</club>
+<date_joined unformated="2005-08-01">01-08-2005</date_joined>
+<date_left unformated="2006-05-31">31-05-2006</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2007-07-01">01-07-2007</date_joined>
+<date_left unformated="2008-01-14">14-01-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>OGC Nice</club>
+<date_joined unformated="2008-01-14">14-01-2008</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Under 19</competition>
+<team>France</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Bordeaux</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Bordeaux</team>
+<period>2004 - 2005</period>
+<fullapps>7</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Bordeaux</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2007 - 2008</period>
+<fullapps>6</fullapps>
+<subs>1</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2007 - 2008</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

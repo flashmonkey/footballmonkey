@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="1351"><name>Martin Grainger</name>
+
+<details>
+<country>ENG</country>
+<born>23 August 1972</born>
+<birthplace>Enfield</birthplace>
+<weight>76 kg</weight>
+<height>1.80 m</height>
+<position>Defender/Left back</position>
+
+</details>
+
+<description>One of the vital members of the Birmingham City team, Martin had a solid campaign in 2000-01 and could always be relied on to provide 100 per cent effort for the cause. An experienced midfield player he strikes the ball sweetly with his left foot and is always a danger from set pieces, his tally of eight last season putting him among the Blues' leading scorers. The high point of his campaign was appearing in the team that was so narrowly defeated by Liverpool in the Worthington Cup final at Cardiff's Millenium Stadium. He was honoured by his fellow professionals when he was selected for the PFA's First Division team in April. 
+ Martin was forced to announce his retirement due to a knee injury in December 2004.</description>
+
+<club_history>
+
+<period>
+<club>Colchester United</club>
+<date_joined unformated="1992-07-28">28-07-1992</date_joined>
+<date_left unformated="1993-10-21">21-10-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Brentford</club>
+<date_joined unformated="1993-10-21">21-10-1993</date_joined>
+<date_left unformated="1996-03-25">25-03-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="1996-03-25">25-03-1996</date_joined>
+<date_left unformated="2004-12-03">03-12-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Coventry City</club>
+<date_joined unformated="2004-02-12">12-02-2004</date_joined>
+<date_left unformated="2004-03-18">18-03-2004</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Brentford</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Birmingham City</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>1998 - 1999</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Birmingham City</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Birmingham City</team>
+<period>2000 - 2001</period>
+<fullapps>10</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1 Play-Offs</competition>
+<team>Birmingham City</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Birmingham City</team>
+<period>2000 - 2001</period>
+<fullapps>35</fullapps>
+<subs>0</subs>
+<goals>6</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Birmingham City</team>
+<period>2001 - 2002</period>
+<fullapps>39</fullapps>
+<subs>1</subs>
+<goals>4</goals>
+
+<yellowcards>11</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1 Play-Offs</competition>
+<team>Birmingham City</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Birmingham City</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2002 - 2003</period>
+<fullapps>8</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Coventry City</team>
+<period>2003 - 2004</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

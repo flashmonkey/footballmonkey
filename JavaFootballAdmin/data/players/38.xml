@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="38"><name>Darren Byfield</name>
+
+<details>
+<country>JAM</country>
+<born>29 September 1976</born>
+<birthplace>Sutton Coldfield</birthplace>
+<weight>75 kg</weight>
+<height>1.80 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>Darren made his Aston Villa debut in December 1997 against Leeds United. 
+He did not break into the first team in 1998-99 and was loaned to Preston North End but returned early after picking up an injury.
+He again went on loan at the start of the 1999-2000 season to Northampton Town.
+A permenant deal looked on the cards but the asking price of �200,000 was out of Northampton's reach.
+Another loan spell followed at Cambridge United and then at Blackpool, he was allowed surprisingly to join Walsall on a free transfer with a year left on his contract in June 2000.
+Darren received regular first-team football at Walsall in 2000-01 as manager Ray Graydon used him either to give the team a flying start or from the subs' bench to provide fresh legs.
+He netted some vital goals, scoring with his first touch after coming on as a substitute against Notts County and heading the late equaliser at Bournemouth.
+His finest hour came in the second half of extra time in the Play-Off Final against Reading when he hit the unforgettable 20-yard match-winner that took Walsall back to Division One.
+He is a pacy striker with quick reactions in the box and a great eye for goal.
+He left to join Rotherham United for �50,000 in March 2002.
+Darren joined Sunderland in February 2004 with a contract to the end of the season. The deal included a player exchange with Michael Proctor.
+He moved to Gillingham in July 2004 with a two-year contract.
+Darren joined Millwall in June 2006 with a three-year contract.
+He joined Bristol City in August 2007 with a one-year contract.
+Darren joined Doncaster Rovers in July 2008 in a one-year deal.
+He re-joined Walsall in August 2009 with a five-month contract that was extended to June 2011 in December 2009.</description>
+
+<club_history>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="1994-02-14">14-02-1994</date_joined>
+<date_left unformated="2000-06-08">08-06-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Preston North End</club>
+<date_joined unformated="1998-11-16">16-11-1998</date_joined>
+<date_left unformated="1999-01-19">19-01-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Northampton Town</club>
+<date_joined unformated="1999-08-03">03-08-1999</date_joined>
+<date_left unformated="1999-09-12">12-09-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Cambridge United</club>
+<date_joined unformated="1999-09-17">17-09-1999</date_joined>
+<date_left unformated="1999-10-25">25-10-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Blackpool</club>
+<date_joined unformated="2000-03-06">06-03-2000</date_joined>
+<date_left unformated="2000-05-06">06-05-2000</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Walsall</club>
+<date_joined unformated="2000-06-08">08-06-2000</date_joined>
+<date_left unformated="2002-03-27">27-03-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Rotherham United</club>
+<date_joined unformated="2002-03-27">27-03-2002</date_joined>
+<date_left unformated="2004-02-06">06-02-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Sunderland</club>
+<date_joined unformated="2004-02-06">06-02-2004</date_joined>
+<date_left unformated="2004-06-30">30-06-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Gillingham</club>
+<date_joined unformated="2004-07-20">20-07-2004</date_joined>
+<date_left unformated="2006-06-30">30-06-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Millwall</club>
+<date_joined unformated="2006-07-07">07-07-2006</date_joined>
+<date_left unformated="2007-08-30">30-08-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bristol City</club>
+<date_joined unformated="2007-08-30">30-08-2007</date_joined>
+<date_left unformated="2008-06-30">30-06-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Doncaster Rovers</club>
+<date_joined unformated="2008-07-15">15-07-2008</date_joined>
+<date_left unformated="2009-06-30">30-06-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Oldham Athletic</club>
+<date_joined unformated="2008-11-14">14-11-2008</date_joined>
+<date_left unformated="2009-01-09">09-01-2009</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Oldham Athletic</club>
+<date_joined unformated="2009-08-06">06-08-2009</date_joined>
+<date_left unformated="2009-08-25">25-08-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Walsall</club>
+<date_joined unformated="2009-08-28">28-08-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>5</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1997 - 1998</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Aston Villa</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Aston Villa</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Walsall</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Walsall</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Walsall</team>
+<period>2000 - 2001</period>
+<fullapps>21</fullapps>
+<subs>19</subs>
+<goals>9</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 2 Play-Offs</competition>
+<team>Walsall</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Walsall</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Rotherham United</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Walsall</team>
+<period>2001 - 2002</period>
+<fullapps>24</fullapps>
+<subs>13</subs>
+<goals>4</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Walsall</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Walsall</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Rotherham United</team>
+<period>2002 - 2003</period>
+<fullapps>24</fullapps>
+<subs>13</subs>
+<goals>13</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Jamaica</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Rotherham United</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Gold Cup</competition>
+<team>Jamaica</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Sunderland</team>
+<period>2003 - 2004</period>
+<fullapps>8</fullapps>
+<subs>9</subs>
+<goals>5</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Rotherham United</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Rotherham United</team>
+<period>2003 - 2004</period>
+<fullapps>26</fullapps>
+<subs>2</subs>
+<goals>7</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Rotherham United</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Jamaica</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Gillingham</team>
+<period>2004 - 2005</period>
+<fullapps>27</fullapps>
+<subs>11</subs>
+<goals>6</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Gillingham</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Gillingham</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Gillingham</team>
+<period>2005 - 2006</period>
+<fullapps>27</fullapps>
+<subs>2</subs>
+<goals>13</goals>
+
+<yellowcards>8</yellowcards>
+<redcards>2</redcards>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Gillingham</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Johnstones Paint Trophy</competition>
+<team>Millwall</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Millwall</team>
+<period>2006 - 2007</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Millwall</team>
+<period>2006 - 2007</period>
+<fullapps>28</fullapps>
+<subs>3</subs>
+<goals>16</goals>
+
+<yellowcards>9</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Championship Play-Offs</competition>
+<team>Bristol City</team>
+<period>2007 - 2008</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bristol City</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Bristol City</team>
+<period>2007 - 2008</period>
+<fullapps>17</fullapps>
+<subs>16</subs>
+<goals>8</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Doncaster Rovers</team>
+<period>2008 - 2009</period>
+<fullapps>3</fullapps>
+<subs>12</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Doncaster Rovers</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Oldham Athletic</team>
+<period>2008 - 2009</period>
+<fullapps>8</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Walsall</team>
+<period>2009 - 2010</period>
+<fullapps>16</fullapps>
+<subs>1</subs>
+<goals>8</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Walsall</team>
+<period>2009 - 2010</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Oldham Athletic</team>
+<period>2009 - 2010</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Oldham Athletic</team>
+<period>2009 - 2010</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Johnstones Paint Trophy</competition>
+<team>Walsall</team>
+<period>2009 - 2010</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

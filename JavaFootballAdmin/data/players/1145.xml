@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="1145"><name>George Donis</name>
+
+<details>
+<country>GRE</country>
+<born>29 October 1969</born>
+<birthplace>Greece</birthplace>
+<weight>79 kg</weight>
+<height>1.83 m</height>
+<position>Striker</position>
+
+</details>
+
+<description>Before Panathinaikos, George played for Yannina.</description>
+
+<club_history>
+
+<period>
+<club>Panathinaikos</club>
+<date_joined unformated="">30-12-1999</date_joined>
+<date_left unformated="1996-07-05">05-07-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1996-07-05">05-07-1996</date_joined>
+<date_left unformated="1997-09-20">20-09-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>AEK Athens</club>
+<date_joined unformated="1997-09-20">20-09-1997</date_joined>
+<date_left unformated="1999-03-25">25-03-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Sheffield United</club>
+<date_joined unformated="1999-03-25">25-03-1999</date_joined>
+<date_left unformated="1999-06-04">04-06-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Huddersfield Town</club>
+<date_joined unformated="1999-06-04">04-06-1999</date_joined>
+<date_left unformated="2000-07-09">09-07-2000</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1996 - 1997</period>
+<fullapps>11</fullapps>
+<subs>9</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1996 - 1997</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Huddersfield Town</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Huddersfield Town</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

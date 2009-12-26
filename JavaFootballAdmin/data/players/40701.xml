@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="40701"><name>Olivier Kapo-Obou</name>
+
+<details>
+<country>FRA</country>
+<born>27 September 1980</born>
+<birthplace>Abidjan, Ivory Coast</birthplace>
+<weight>78 kg</weight>
+<height>1.87 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Olivier joined Birmingham City in June 2007 with a three-year contract.
+He joined Wigan Athletic in July 2008 in a three-year deal.</description>
+
+<club_history>
+
+<period>
+<club>Auxerre</club>
+<date_joined unformated="1999-07-01">01-07-1999</date_joined>
+<date_left unformated="2004-07-01">01-07-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Juventus</club>
+<date_joined unformated="2004-07-01">01-07-2004</date_joined>
+<date_left unformated="2007-06-29">29-06-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>AS Monaco</club>
+<date_joined unformated="2005-08-01">01-08-2005</date_joined>
+<date_left unformated="2006-05-31">31-05-2006</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Levante</club>
+<date_joined unformated="2006-08-01">01-08-2006</date_joined>
+<date_left unformated="2007-05-31">31-05-2007</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2007-06-29">29-06-2007</date_joined>
+<date_left unformated="2008-07-16">16-07-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Wigan Athletic</club>
+<date_joined unformated="2008-07-16">16-07-2008</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Under 18</competition>
+<team>France</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>France</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Auxerre</team>
+<period>2000 - 2001</period>
+<fullapps>23</fullapps>
+<subs>6</subs>
+<goals>4</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>France</team>
+<period>2000 - 2001</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>France</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>France</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Auxerre</team>
+<period>2001 - 2002</period>
+<fullapps>25</fullapps>
+<subs>0</subs>
+<goals>4</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>France</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>France</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Auxerre</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>France</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Auxerre</team>
+<period>2002 - 2003</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FIFA Confederations Cup</competition>
+<team>France</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Auxerre</team>
+<period>2002 - 2003</period>
+<fullapps>20</fullapps>
+<subs>1</subs>
+<goals>7</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Auxerre</team>
+<period>2003 - 2004</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FIFA Centenary International</competition>
+<team>France</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Auxerre</team>
+<period>2003 - 2004</period>
+<fullapps>24</fullapps>
+<subs>5</subs>
+<goals>2</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Serie A</competition>
+<team>Juventus</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>12</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>AS Monaco</team>
+<period>2005 - 2006</period>
+<fullapps>21</fullapps>
+<subs>4</subs>
+<goals>5</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2007 - 2008</period>
+<fullapps>22</fullapps>
+<subs>4</subs>
+<goals>5</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Wigan Athletic</team>
+<period>2008 - 2009</period>
+<fullapps>10</fullapps>
+<subs>9</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Wigan Athletic</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Wigan Athletic</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Wigan Athletic</team>
+<period>2009 - 2010</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

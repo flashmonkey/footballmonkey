@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="21172"><name>Carlos Cuellar</name>
+
+<details>
+<country>ESP</country>
+<born>23 August 1981</born>
+<birthplace>Madrid</birthplace>
+<weight>80 kg</weight>
+<height>1.90 m</height>
+<position>Defender</position>
+
+</details>
+
+<description>Carlos joined Aston Villa in August 2008 on a four-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Calahorra</club>
+<date_joined unformated="2000-07-01">01-07-2000</date_joined>
+<date_left unformated="2001-07-01">01-07-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Numancia</club>
+<date_joined unformated="2001-07-01">01-07-2001</date_joined>
+<date_left unformated="2003-07-01">01-07-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Osasuna</club>
+<date_joined unformated="2003-07-01">01-07-2003</date_joined>
+<date_left unformated="2007-07-05">05-07-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Rangers</club>
+<date_joined unformated="2007-07-05">05-07-2007</date_joined>
+<date_left unformated="2008-08-12">12-08-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="2008-08-12">12-08-2008</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Osasuna</team>
+<period>2003 - 2004</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Osasuna</team>
+<period>2004 - 2005</period>
+<fullapps>12</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Aston Villa</team>
+<period>2008 - 2009</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Aston Villa</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>2008 - 2009</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>2008 - 2009</period>
+<fullapps>24</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>2009 - 2010</period>
+<fullapps>16</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Aston Villa</team>
+<period>2009 - 2010</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Europa League</competition>
+<team>Aston Villa</team>
+<period>2009 - 2010</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

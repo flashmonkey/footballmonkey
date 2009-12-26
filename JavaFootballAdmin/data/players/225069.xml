@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="225069"><name>Amaury Bischoff</name>
+
+<details>
+<country>FRA</country>
+<born>31 March 1987</born>
+<birthplace>Colmar</birthplace>
+<weight>61 kg</weight>
+<height>1.75 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Werder Bremen</club>
+<date_joined unformated="2005-07-01">01-07-2005</date_joined>
+<date_left unformated="2008-06-30">30-06-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="2008-07-30">30-07-2008</date_joined>
+<date_left unformated="2009-06-30">30-06-2009</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Arsenal</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

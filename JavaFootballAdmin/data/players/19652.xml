@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="19652"><name>Rami Shaaban</name>
+
+<details>
+<country>SWE</country>
+<born>30 June 1975</born>
+<birthplace>Stockholm</birthplace>
+<weight>93 kg</weight>
+<height>1.93 m</height>
+<position>Goalkeeper</position>
+
+</details>
+
+<description>An agile goalkeeper, Rami's hopes of making further progress at Arsenal were severely dented when he fractured his right leg in a freak training ground accident in December 2002. 
+Rami joined Arsenal from Djurgardens in the summer of 2002 as a replacement for Richard Wright after Fabain Carini's transfer collapsed. He had previously played for Saltsjobadens and had been on loan at Zamalek and Thodosman in Egypt before signing for the Gunners.
+Rami joined Brighton &amp; Hove Albion in February 2005 on non-contract terms before agreeing a deal to the end of the season.
+Rami made his international debut for Sweden shortly before the 2006 World Cup finals.</description>
+
+<club_history>
+
+<period>
+<club>Nacka</club>
+<date_joined unformated="1997-07-01">01-07-1997</date_joined>
+<date_left unformated="1999-12-31">31-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Djurgardens</club>
+<date_joined unformated="2000-01-01">01-01-2000</date_joined>
+<date_left unformated="2002-06-30">30-06-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="2002-07-01">01-07-2002</date_joined>
+<date_left unformated="2003-12-31">31-12-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>West Ham United</club>
+<date_joined unformated="2004-01-01">01-01-2004</date_joined>
+<date_left unformated="2004-06-30">30-06-2004</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Leeds United</club>
+<date_joined unformated="2004-07-19">19-07-2004</date_joined>
+<date_left unformated="2004-07-31">31-07-2004</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Brighton and Hove Albion</club>
+<date_joined unformated="2005-01-01">01-01-2005</date_joined>
+<date_left unformated="2005-06-30">30-06-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Fredrikstad</club>
+<date_joined unformated="2005-07-01">01-07-2005</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Brighton and Hove Albion</team>
+<period>2004 - 2005</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>13</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Sweden</team>
+<period>2005 - 2006</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+
+<cleansheets/>
+<goalsconceded/>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Sweden</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Sweden</team>
+<period>2006 - 2007</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>7</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Sweden</team>
+<period>2006 - 2007</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA 2008</competition>
+<team>Sweden</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Sweden</team>
+<period>2007 - 2008</period>
+<fullapps>2</fullapps>
+<subs>3</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="2499"><name>Bob Taylor</name>
+
+<details>
+<country>ENG</country>
+<born>03 February 1967</born>
+<birthplace>Horden</birthplace>
+<weight>82 kg</weight>
+<height>1.78 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>West Bromwich Albion boss Gary Megson preferred a twin strike-force of Jason Roberts and Lee Hughes for much of the 2000-01 season but 'Super Bob' was always there in the wings, waiting to enter the fray, ready for the challenge and eager to score goals ... which he did at crucial times and indeed, in crucial matches.
+He hit a vital brace in a 2-1 win over Tranmere Rovers after Albion had suffered two successive defeats that had seriously dented their Play-Off chances, while a late equaliser at Burnley also proved important.
+Powerful in the air, he acted as the perfect supporting foil to either Roberts or Hughes when called into action and he was still as keen and eager as ever to play when callled up.
+Bob joined Cheltenham Town in August 2003 in a one-year deal.</description>
+
+<club_history>
+
+<period>
+<club>Horden Colliery Welfare</club>
+<date_joined unformated="1985-07-01">01-07-1985</date_joined>
+<date_left unformated="1986-03-27">27-03-1986</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Leeds United</club>
+<date_joined unformated="1986-03-27">27-03-1986</date_joined>
+<date_left unformated="1989-03-23">23-03-1989</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bristol City</club>
+<date_joined unformated="1989-03-23">23-03-1989</date_joined>
+<date_left unformated="1992-01-31">31-01-1992</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>West Bromwich Albion</club>
+<date_joined unformated="1992-01-31">31-01-1992</date_joined>
+<date_left unformated="1998-07-02">02-07-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="1998-01-09">09-01-1998</date_joined>
+<date_left unformated="1998-02-09">09-02-1998</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="1998-03-26">26-03-1998</date_joined>
+<date_left unformated="1998-05-31">31-05-1998</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="1998-07-02">02-07-1998</date_joined>
+<date_left unformated="2000-03-23">23-03-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>West Bromwich Albion</club>
+<date_joined unformated="2000-03-23">23-03-2000</date_joined>
+<date_left unformated="2003-06-30">30-06-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Cheltenham Town</club>
+<date_joined unformated="2003-08-18">18-08-2003</date_joined>
+<date_left unformated="2004-06-30">30-06-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Tamworth</club>
+<date_joined unformated="2004-08-31">31-08-2004</date_joined>
+<date_left unformated="2006-06-30">30-06-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Kidderminster Harriers</club>
+<date_joined unformated="2006-09-13">13-09-2006</date_joined>
+<date_left unformated="2007-01-19">19-01-2007</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Bromwich Albion</team>
+<period>1996 - 1997</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>West Bromwich Albion</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>1997 - 1998</period>
+<fullapps>10</fullapps>
+<subs>2</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>1998 - 1999</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>West Bromwich Albion</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Bromwich Albion</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1 Play-Offs</competition>
+<team>West Bromwich Albion</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>West Bromwich Albion</team>
+<period>2000 - 2001</period>
+<fullapps>17</fullapps>
+<subs>23</subs>
+<goals>5</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Bromwich Albion</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>West Bromwich Albion</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>West Bromwich Albion</team>
+<period>2001 - 2002</period>
+<fullapps>18</fullapps>
+<subs>16</subs>
+<goals>7</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>West Bromwich Albion</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Cheltenham Town</team>
+<period>2003 - 2004</period>
+<fullapps>19</fullapps>
+<subs>9</subs>
+<goals>7</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Cheltenham Town</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Cheltenham Town</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Tamworth</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Kidderminster Harriers</team>
+<period>2006 - 2007</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

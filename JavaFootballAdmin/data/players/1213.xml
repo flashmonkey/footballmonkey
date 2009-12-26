@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="1213"><name>Gareth Farrelly</name>
+
+<details>
+<country>IRL</country>
+<born>28 August 1975</born>
+<birthplace>Dublin</birthplace>
+<weight>83 kg</weight>
+<height>1.83 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Surely Bolton Wanderers' most improved player in 2000-01, Gareth was a touch of class at the heart of a successful team.
+Consistently outstanding throughout the campaign, he was at his most dangerous when on the ball.
+With the ability and the vision to pick out the right pass almost every time and also in possession of a mean shot when he chose to let fly, he represented a constant threat to opposing defences even though his final tally of goals was a little disappointing.
+However, he capped a fine season by netting the vital first goal in the Play-Off Final against Preston North End.
+Gareth joined Wigan Athletic in March 2004 with a contract to the end of the season.</description>
+
+<club_history>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="1992-01-21">21-01-1992</date_joined>
+<date_left unformated="1997-07-09">09-07-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Rotherham United</club>
+<date_joined unformated="1995-03-21">21-03-1995</date_joined>
+<date_left unformated="1995-05-07">07-05-1995</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Everton</club>
+<date_joined unformated="1997-07-09">09-07-1997</date_joined>
+<date_left unformated="1999-12-17">17-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="1999-11-12">12-11-1999</date_joined>
+<date_left unformated="1999-12-14">14-12-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="1999-12-17">17-12-1999</date_joined>
+<date_left unformated="2004-03-09">09-03-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Rotherham United</club>
+<date_joined unformated="2003-03-12">12-03-2003</date_joined>
+<date_left unformated="2003-05-05">05-05-2003</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Burnley</club>
+<date_joined unformated="2003-09-01">01-09-2003</date_joined>
+<date_left unformated="2003-11-17">17-11-2003</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bradford City</club>
+<date_joined unformated="2003-11-28">28-11-2003</date_joined>
+<date_left unformated="2004-02-29">29-02-2004</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Wigan Athletic</club>
+<date_joined unformated="2004-03-09">09-03-2004</date_joined>
+<date_left unformated="2004-06-30">30-06-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Millwall</club>
+<date_joined unformated="2004-07-12">12-07-2004</date_joined>
+<date_left unformated="2004-07-21">21-07-2004</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Blackpool</club>
+<date_joined unformated="2004-08-09">09-08-2004</date_joined>
+<date_left unformated="2004-08-13">13-08-2004</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Bohemians Dublin</club>
+<date_joined unformated="2004-08-20">20-08-2004</date_joined>
+<date_left unformated="2006-08-30">30-08-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Leicester City</club>
+<date_joined unformated="2006-09-28">28-09-2006</date_joined>
+<date_left unformated="2006-10-05">05-10-2006</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Blackpool</club>
+<date_joined unformated="2006-11-23">23-11-2006</date_joined>
+<date_left unformated="2007-01-23">23-01-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Cork City</club>
+<date_joined unformated="2007-02-15">15-02-2007</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Under 18</competition>
+<team>Republic of Ireland</team>
+<period>1993 - 1994</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Republic of Ireland</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Republic of Ireland</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Aston Villa</team>
+<period>1995 - 1996</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>Republic of Ireland</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Republic of Ireland</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Republic of Ireland</team>
+<period>1996 - 1997</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>B Inter</competition>
+<team>Republic of Ireland</team>
+<period>1997 - 1998</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Republic of Ireland</team>
+<period>1997 - 1998</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Everton</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Everton</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Republic of Ireland</team>
+<period>1997 - 1998</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Everton</team>
+<period>1997 - 1998</period>
+<fullapps>18</fullapps>
+<subs>8</subs>
+<goals>1</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Everton</team>
+<period>1998 - 1999</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Everton</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>US Nike Cup</competition>
+<team>Republic of Ireland</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1 Play-Offs</competition>
+<team>Bolton Wanderers</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Bolton Wanderers</team>
+<period>2000 - 2001</period>
+<fullapps>36</fullapps>
+<subs>5</subs>
+<goals>3</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2001 - 2002</period>
+<fullapps>11</fullapps>
+<subs>7</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Rotherham United</team>
+<period>2002 - 2003</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2002 - 2003</period>
+<fullapps>6</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Burnley</team>
+<period>2003 - 2004</period>
+<fullapps>9</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Burnley</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Wigan Athletic</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Bradford City</team>
+<period>2003 - 2004</period>
+<fullapps>14</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bradford City</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackpool</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Blackpool</team>
+<period>2006 - 2007</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

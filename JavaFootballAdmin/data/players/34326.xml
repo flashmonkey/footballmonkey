@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="34326"><name>Richard Brown</name>
+
+<details>
+<country>ENG</country>
+<born>13 January 1967</born>
+<birthplace>Nottingham</birthplace>
+<weight>71 kg</weight>
+<height>1.78 m</height>
+<position>Full back</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Sheffield Wednesday</club>
+<date_joined unformated="1984-12-01">01-12-1984</date_joined>
+<date_left unformated="1990-09-01">01-09-1990</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1990-09-01">01-09-1990</date_joined>
+<date_left unformated="1995-03-01">01-03-1995</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Stockport County</club>
+<date_joined unformated="1995-03-01">01-03-1995</date_joined>
+<date_left unformated="1995-08-01">01-08-1995</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1992 - 1993</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

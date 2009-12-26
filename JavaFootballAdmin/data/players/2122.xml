@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="2122"><name>S�bastien Perez</name>
+
+<details>
+<country>FRA</country>
+<born>24 November 1973</born>
+<birthplace>Saint-Chamond</birthplace>
+<weight>74 kg</weight>
+<height>1.78 m</height>
+<position>Defender</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Saint Etienne</club>
+<date_joined unformated="1993-07-01">01-07-1993</date_joined>
+<date_left unformated="1996-07-01">01-07-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bastia</club>
+<date_joined unformated="1996-07-01">01-07-1996</date_joined>
+<date_left unformated="1998-07-01">01-07-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1998-07-01">01-07-1998</date_joined>
+<date_left unformated="1999-01-01">01-01-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bastia</club>
+<date_joined unformated="1999-01-01">01-01-1999</date_joined>
+<date_left unformated="1999-07-01">01-07-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Olympique Marseille</club>
+<date_joined unformated="1999-07-01">01-07-1999</date_joined>
+<date_left unformated="2001-07-01">01-07-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Galatasaray</club>
+<date_joined unformated="2001-07-01">01-07-2001</date_joined>
+<date_left unformated="2002-07-01">01-07-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Olympique Marseille</club>
+<date_joined unformated="2002-07-01">01-07-2002</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1998 - 1999</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Olympique Marseille</team>
+<period>1999 - 2000</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Olympique Marseille</team>
+<period>2000 - 2001</period>
+<fullapps>24</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>8</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Galatasaray</team>
+<period>2001 - 2002</period>
+<fullapps>10</fullapps>
+<subs>4</subs>
+<goals>1</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Olympique Marseille</team>
+<period>2002 - 2003</period>
+<fullapps>8</fullapps>
+<subs>5</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Olympique Marseille</team>
+<period>2003 - 2004</period>
+<fullapps>7</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Olympique Marseille</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Olympique Marseille</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Istres</team>
+<period>2004 - 2005</period>
+<fullapps>9</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

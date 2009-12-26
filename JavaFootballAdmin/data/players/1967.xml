@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="1967"><name>Andy Morrison</name>
+
+<details>
+<country>SCO</country>
+<born>30 July 1970</born>
+<birthplace>Inverness</birthplace>
+<weight>93 kg</weight>
+<height>1.83 m</height>
+<position>Defender/Centre back</position>
+
+</details>
+
+<description>Andy's career encompasses some 300 matches for his various clubs.</description>
+
+<club_history>
+
+<period>
+<club>Plymouth Argyle</club>
+<date_joined unformated="1988-07-06">06-07-1988</date_joined>
+<date_left unformated="1993-08-05">05-08-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1993-08-05">05-08-1993</date_joined>
+<date_left unformated="1994-12-09">09-12-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackpool</club>
+<date_joined unformated="1994-12-09">09-12-1994</date_joined>
+<date_left unformated="1998-10-29">29-10-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Huddersfield Town</club>
+<date_joined unformated="1996-07-04">04-07-1996</date_joined>
+<date_left unformated="1998-11-06">06-11-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Manchester City</club>
+<date_joined unformated="1998-10-29">29-10-1998</date_joined>
+<date_left unformated="1998-11-05">05-11-1998</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Manchester City</club>
+<date_joined unformated="1998-11-06">06-11-1998</date_joined>
+<date_left unformated="2002-06-30">30-06-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackpool</club>
+<date_joined unformated="2000-08-31">31-08-2000</date_joined>
+<date_left unformated="2000-09-30">30-09-2000</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Crystal Palace</club>
+<date_joined unformated="2000-10-10">10-10-2000</date_joined>
+<date_left unformated="2000-11-10">10-11-2000</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Sheffield United</club>
+<date_joined unformated="2001-03-22">22-03-2001</date_joined>
+<date_left unformated="2001-05-06">06-05-2001</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bury</club>
+<date_joined unformated="2002-11-18">18-11-2002</date_joined>
+<date_left unformated="2002-11-22">22-11-2002</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Bury</club>
+<date_joined unformated="2003-01-20">20-01-2003</date_joined>
+<date_left unformated="2003-01-24">24-01-2003</date_left>
+<trialist>T</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1993 - 1994</period>
+<fullapps>1</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Huddersfield Town</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Huddersfield Town</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Manchester City</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Huddersfield Town</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Manchester City</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Sheffield United</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Manchester City</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Crystal Palace</team>
+<period>2000 - 2001</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Blackpool</team>
+<period>2000 - 2001</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Manchester City</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Manchester City</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

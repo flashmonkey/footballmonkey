@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="196"><name>Kevin Campbell</name>
+
+<details>
+<country>ENG</country>
+<born>04 February 1970</born>
+<birthplace>Lambeth</birthplace>
+<weight>86 kg</weight>
+<height>1.85 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>A popular figure especially at Everton, Kevin's Arsenal hopes were hit by the phenomenal rise of Ian Wright.
+Evertonian soon took Super Kevin to their hearts when his goals helped save the club from relegation in 1998 and he went on to pass some notable milestones in 2000-01.
+He finished club top scorer for the third successive season, a feat not managed for almost a decade at Goodison, and was also named as captain of the club - an achievement he was justifiably proud of.
+Kevin did not show quite the same dash and drive he had managed in previous campaigns but he was asked to lead the line on his own on numerous occasions due to injuries sustained by strike partners Duncan Ferguson and Francis Jeffers.
+He also had injury problems of his own to overcome and did not start a Premiership match for the club until mid-September, but after that he remained pretty much an ever-present.
+Kevin joined West Bromwich Albion in January 2005 with a contract to June 2006.</description>
+
+<club_history>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="1988-02-11">11-02-1988</date_joined>
+<date_left unformated="1995-07-01">01-07-1995</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Leyton Orient</club>
+<date_joined unformated="1989-01-16">16-01-1989</date_joined>
+<date_left unformated="1989-04-04">04-04-1989</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Leicester City</club>
+<date_joined unformated="1989-11-08">08-11-1989</date_joined>
+<date_left unformated="1990-01-07">07-01-1990</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Nottingham Forest</club>
+<date_joined unformated="1995-07-01">01-07-1995</date_joined>
+<date_left unformated="1988-08-07">07-08-1988</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Trabzonspor</club>
+<date_joined unformated="1998-08-07">07-08-1998</date_joined>
+<date_left unformated="1999-07-14">14-07-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Everton</club>
+<date_joined unformated="1999-03-25">25-03-1999</date_joined>
+<date_left unformated="1999-05-17">17-05-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Everton</club>
+<date_joined unformated="1999-07-14">14-07-1999</date_joined>
+<date_left unformated="2005-01-10">10-01-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>West Bromwich Albion</club>
+<date_joined unformated="2005-01-10">10-01-2005</date_joined>
+<date_left unformated="2006-06-30">30-06-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Cardiff City</club>
+<date_joined unformated="2006-08-02">02-08-2006</date_joined>
+<date_left unformated="2007-06-30">30-06-2007</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>League Division One</competition>
+<team>Arsenal</team>
+<period>1987 - 1988</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Arsenal</team>
+<period>1989 - 1990</period>
+<fullapps>8</fullapps>
+<subs>7</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division Two</competition>
+<team>Leicester City</team>
+<period>1989 - 1990</period>
+<fullapps>11</fullapps>
+<subs>0</subs>
+<goals>5</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Rumbelows League Cup</competition>
+<team>Arsenal</team>
+<period>1990 - 1991</period>
+<fullapps>0</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>1990 - 1991</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>1990 - 1991</period>
+<fullapps>4</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>England</team>
+<period>1990 - 1991</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Arsenal</team>
+<period>1990 - 1991</period>
+<fullapps>15</fullapps>
+<subs>7</subs>
+<goals>9</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>1991 - 1992</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Rumbelows League Cup</competition>
+<team>Arsenal</team>
+<period>1991 - 1992</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Cup</competition>
+<team>Arsenal</team>
+<period>1991 - 1992</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Arsenal</team>
+<period>1991 - 1992</period>
+<fullapps>22</fullapps>
+<subs>9</subs>
+<goals>13</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>England</team>
+<period>1991 - 1992</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>1991 - 1992</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1992 - 1993</period>
+<fullapps>32</fullapps>
+<subs>5</subs>
+<goals>4</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>1992 - 1993</period>
+<fullapps>4</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Arsenal</team>
+<period>1992 - 1993</period>
+<fullapps>5</fullapps>
+<subs>4</subs>
+<goals>4</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>1993 - 1994</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Charity Shield</competition>
+<team>Arsenal</team>
+<period>1993 - 1994</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1993 - 1994</period>
+<fullapps>28</fullapps>
+<subs>9</subs>
+<goals>14</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Cup Winners Cup</competition>
+<team>Arsenal</team>
+<period>1993 - 1994</period>
+<fullapps>7</fullapps>
+<subs>1</subs>
+<goals>4</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Arsenal</team>
+<period>1993 - 1994</period>
+<fullapps>2</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Super Cup</competition>
+<team>Arsenal</team>
+<period>1994 - 1995</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Cup Winners Cup</competition>
+<team>Arsenal</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Arsenal</team>
+<period>1994 - 1995</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1994 - 1995</period>
+<fullapps>19</fullapps>
+<subs>4</subs>
+<goals>4</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Nottingham Forest</team>
+<period>1995 - 1996</period>
+<fullapps>21</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Nottingham Forest</team>
+<period>1996 - 1997</period>
+<fullapps>16</fullapps>
+<subs>1</subs>
+<goals>6</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Nottingham Forest</team>
+<period>1996 - 1997</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Everton</team>
+<period>1998 - 1999</period>
+<fullapps>8</fullapps>
+<subs>0</subs>
+<goals>9</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Everton</team>
+<period>1999 - 2000</period>
+<fullapps>26</fullapps>
+<subs>0</subs>
+<goals>12</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Everton</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Everton</team>
+<period>1999 - 2000</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Everton</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Everton</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Everton</team>
+<period>2000 - 2001</period>
+<fullapps>27</fullapps>
+<subs>2</subs>
+<goals>9</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Everton</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Everton</team>
+<period>2001 - 2002</period>
+<fullapps>21</fullapps>
+<subs>2</subs>
+<goals>4</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Everton</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Everton</team>
+<period>2002 - 2003</period>
+<fullapps>31</fullapps>
+<subs>5</subs>
+<goals>10</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Everton</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Everton</team>
+<period>2003 - 2004</period>
+<fullapps>8</fullapps>
+<subs>9</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Everton</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>West Bromwich Albion</team>
+<period>2004 - 2005</period>
+<fullapps>16</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Everton</team>
+<period>2004 - 2005</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Everton</team>
+<period>2004 - 2005</period>
+<fullapps>4</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Bromwich Albion</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>West Bromwich Albion</team>
+<period>2005 - 2006</period>
+<fullapps>19</fullapps>
+<subs>10</subs>
+<goals>3</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>West Bromwich Albion</team>
+<period>2005 - 2006</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Bromwich Albion</team>
+<period>2005 - 2006</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Cardiff City</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Cardiff City</team>
+<period>2006 - 2007</period>
+<fullapps>4</fullapps>
+<subs>15</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

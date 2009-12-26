@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="256"><name>Stan Collymore</name>
+
+<details>
+<country>ENG</country>
+<born>22 January 1971</born>
+<birthplace>Cannock</birthplace>
+<weight>87 kg</weight>
+<height>1.91 m</height>
+<position>Striker</position>
+
+</details>
+
+<description>Scored on his Liverpool debut versus Sheffield Wednesday.
+Having made such an impact under Martin O'Neill, Stan's career at Leicester under Peter Taylor was extremely brief amounting to a handful of appearances, mostly from the subs' bench, and a single goal in the 2-0 victory at Chelsea. His relationship with the new boss never seemed to get on a steady footing and in October he moved on to Bradford City. He made the perfect start at Valley Parade netting with a superb overhead kick in the 1-1 draw against Leeds but after half-a-dozen games he went on the transfer list and was eventually allowed to move to Spanish club Real Oviedo on a free transfer. That too failed to work out and before the end of the season he had announce his retirement from the game. A talented footballer who on his day could be more than a match for even the best defenders he was dogged by personal problems such that he never fulfilled his potential.</description>
+
+<club_history>
+
+<period>
+<club>Wolverhampton Wanderers</club>
+<date_joined unformated="1989-07-13">13-07-1989</date_joined>
+<date_left unformated="1990-08-02">02-08-1990</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Stafford Rangers</club>
+<date_joined unformated="1990-08-02">02-08-1990</date_joined>
+<date_left unformated="1991-01-04">04-01-1991</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Crystal Palace</club>
+<date_joined unformated="1991-01-04">04-01-1991</date_joined>
+<date_left unformated="1992-11-20">20-11-1992</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Southend United</club>
+<date_joined unformated="1992-11-20">20-11-1992</date_joined>
+<date_left unformated="1993-07-05">05-07-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Nottingham Forest</club>
+<date_joined unformated="1993-07-05">05-07-1993</date_joined>
+<date_left unformated="1995-07-03">03-07-1995</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Liverpool</club>
+<date_joined unformated="1995-07-03">03-07-1995</date_joined>
+<date_left unformated="1997-05-16">16-05-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="1997-05-16">16-05-1997</date_joined>
+<date_left unformated="2000-02-11">11-02-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Fulham</club>
+<date_joined unformated="1999-07-19">19-07-1999</date_joined>
+<date_left unformated="1999-10-15">15-10-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Leicester City</club>
+<date_joined unformated="2000-02-11">11-02-2000</date_joined>
+<date_left unformated="2000-10-26">26-10-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bradford City</club>
+<date_joined unformated="2000-10-26">26-10-2000</date_joined>
+<date_left unformated="2001-01-31">31-01-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Real Oviedo</club>
+<date_joined unformated="2001-01-31">31-01-2001</date_joined>
+<date_left unformated="2001-03-07">07-03-2001</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Crystal Palace</team>
+<period>1992 - 1993</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Nottingham Forest</team>
+<period>1994 - 1995</period>
+<fullapps>37</fullapps>
+<subs>0</subs>
+<goals>23</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Umbro Cup</competition>
+<team>England</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Liverpool</team>
+<period>1995 - 1996</period>
+<fullapps>2</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Liverpool</team>
+<period>1995 - 1996</period>
+<fullapps>30</fullapps>
+<subs>1</subs>
+<goals>14</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Liverpool</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Liverpool</team>
+<period>1995 - 1996</period>
+<fullapps>7</fullapps>
+<subs>0</subs>
+<goals>5</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Liverpool</team>
+<period>1996 - 1997</period>
+<fullapps>25</fullapps>
+<subs>5</subs>
+<goals>12</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Liverpool</team>
+<period>1996 - 1997</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>European Cup Winners Cup</competition>
+<team>Liverpool</team>
+<period>1996 - 1997</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>England</team>
+<period>1997 - 1998</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Aston Villa</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1997 - 1998</period>
+<fullapps>23</fullapps>
+<subs>2</subs>
+<goals>6</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1997 - 1998</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Aston Villa</team>
+<period>1997 - 1998</period>
+<fullapps>6</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1998 - 1999</period>
+<fullapps>11</fullapps>
+<subs>9</subs>
+<goals>1</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Aston Villa</team>
+<period>1998 - 1999</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>4</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Leicester City</team>
+<period>1999 - 2000</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>4</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Real Oviedo</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bradford City</team>
+<period>2000 - 2001</period>
+<fullapps>5</fullapps>
+<subs>2</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bradford City</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Leicester City</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Leicester City</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>4</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

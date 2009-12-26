@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="4138"><name>Paul Devlin</name>
+
+<details>
+<country>ENG</country>
+<born>14 April 1972</born>
+<birthplace>Birmingham</birthplace>
+<weight>72 kg</weight>
+<height>1.75 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Having committed himself to a further four years with Sheffield United, Paul continued to be a key player in the 2000-01 campaign.
+Despite being regularly marked by two opposition defenders, he still managed to create many chances with his foraging down the right-hand side but his goal tally was somewhat reduced.
+Paul is a speedy right winger with tenacity and excellent ball control.
+After appearing several times in 2001-02, he was loaned to Birmingham City in February 2002.
+He made the move permenant in May 2002.
+Paul joined Watford in September 2003 on a three-year contract which was cancelled in January 2006.
+He then joined Walsall with a contract to the end of the season.</description>
+
+<club_history>
+
+<period>
+<club>Stafford Rangers</club>
+<date_joined unformated="1990-07-01">01-07-1990</date_joined>
+<date_left unformated="1992-02-22">22-02-1992</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Notts County</club>
+<date_joined unformated="1992-02-22">22-02-1992</date_joined>
+<date_left unformated="1996-02-29">29-02-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="1996-02-29">29-02-1996</date_joined>
+<date_left unformated="1998-03-13">13-03-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Sheffield United</club>
+<date_joined unformated="1998-03-13">13-03-1998</date_joined>
+<date_left unformated="2002-05-07">07-05-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Notts County</club>
+<date_joined unformated="1998-10-23">23-10-1998</date_joined>
+<date_left unformated="1998-12-02">02-12-1998</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2002-02-04">04-02-2002</date_joined>
+<date_left unformated="2002-05-07">07-05-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2002-05-08">08-05-2002</date_joined>
+<date_left unformated="2003-09-12">12-09-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Watford</club>
+<date_joined unformated="2003-09-12">12-09-2003</date_joined>
+<date_left unformated="2006-01-16">16-01-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Walsall</club>
+<date_joined unformated="2006-01-17">17-01-2006</date_joined>
+<date_left unformated="2006-04-13">13-04-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Tamworth</club>
+<date_joined unformated="2006-09-07">07-09-2006</date_joined>
+<date_left unformated="2006-10-04">04-10-2006</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Notts County</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Birmingham City</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>1997 - 1998</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Sheffield United</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Sheffield United</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Sheffield United</team>
+<period>2000 - 2001</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Sheffield United</team>
+<period>2000 - 2001</period>
+<fullapps>41</fullapps>
+<subs>0</subs>
+<goals>5</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Birmingham City</team>
+<period>2001 - 2002</period>
+<fullapps>11</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Sheffield United</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Sheffield United</team>
+<period>2001 - 2002</period>
+<fullapps>14</fullapps>
+<subs>5</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Sheffield United</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1 Play-Offs</competition>
+<team>Birmingham City</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Scotland</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2002 - 2003</period>
+<fullapps>20</fullapps>
+<subs>12</subs>
+<goals>3</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Scotland</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Semi Pro</competition>
+<team>Scotland</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Birmingham City</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Watford</team>
+<period>2003 - 2004</period>
+<fullapps>39</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Watford</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Scotland</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Watford</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>European Championship</competition>
+<team>Scotland</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Watford</team>
+<period>2004 - 2005</period>
+<fullapps>15</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Watford</team>
+<period>2004 - 2005</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Watford</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Watford</team>
+<period>2005 - 2006</period>
+<fullapps>21</fullapps>
+<subs>2</subs>
+<goals>2</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Walsall</team>
+<period>2005 - 2006</period>
+<fullapps>8</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+</player_stats>
+
+</player>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="8780"><name>Mario Espartero</name>
+
+<details>
+<country>FRA</country>
+<born>17 January 1978</born>
+<birthplace>Fr�jus</birthplace>
+<weight>70 kg</weight>
+<height>1.74 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Louhans-Cuiseaux</club>
+<date_joined unformated="1997-07-01">01-07-1997</date_joined>
+<date_left unformated="2000-07-01">01-07-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Metz</club>
+<date_joined unformated="2000-07-01">01-07-2000</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2002-02-21">21-02-2002</date_joined>
+<date_left unformated="2002-05-11">11-05-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Metz</team>
+<period>2000 - 2001</period>
+<fullapps>7</fullapps>
+<subs>3</subs>
+<goals>2</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Metz</team>
+<period>2001 - 2002</period>
+<fullapps>8</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

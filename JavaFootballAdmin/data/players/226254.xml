@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="226254"><name>Chris Basham</name>
+
+<details>
+<country>ENG</country>
+<born>20 July 1988</born>
+<birthplace>Hebburn</birthplace>
+<weight>80 kg</weight>
+<height>1.80 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Chris was previously associated with Newcastle United.
+His contract at Bolton Wanderers was extended to June 2011 in November 2009.</description>
+
+<club_history>
+
+<period>
+<club>Stafford Rangers</club>
+<date_joined unformated="2006-11-23">23-11-2006</date_joined>
+<date_left unformated="2006-12-23">23-12-2006</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2007-10-20">20-10-2007</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Rochdale</club>
+<date_joined unformated="2008-02-08">08-02-2008</date_joined>
+<date_left unformated="2008-05-08">08-05-2008</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Stafford Rangers</team>
+<period>2006 - 2007</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Rochdale</team>
+<period>2007 - 2008</period>
+<fullapps>5</fullapps>
+<subs>8</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2008 - 2009</period>
+<fullapps>4</fullapps>
+<subs>7</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2009 - 2010</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2009 - 2010</period>
+<fullapps>1</fullapps>
+<subs>5</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

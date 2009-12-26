@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="47"><name>Jonathan Bewers</name>
+
+<details>
+<country>ENG</country>
+<born>10 September 1982</born>
+<birthplace>Kettering</birthplace>
+<weight>65 kg</weight>
+<height>1.75 m</height>
+<position>Defender/Right back</position>
+
+</details>
+
+<description>Jonathan joined Notts County in March 2004 with a contract to the end of the season. He joined Walsall in September 2004 on non-contract terms.</description>
+
+<club_history>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="1999-09-16">16-09-1999</date_joined>
+<date_left unformated="2004-03-25">25-03-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Scunthorpe United</club>
+<date_joined unformated="2002-07-22">22-07-2002</date_joined>
+<date_left unformated="2002-07-29">29-07-2002</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Macclesfield Town</club>
+<date_joined unformated="2004-01-19">19-01-2004</date_joined>
+<date_left unformated="2004-01-23">23-01-2004</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>AFC Bournemouth</club>
+<date_joined unformated="2004-01-26">26-01-2004</date_joined>
+<date_left unformated="2004-01-30">30-01-2004</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Notts County</club>
+<date_joined unformated="2004-03-25">25-03-2004</date_joined>
+<date_left unformated="2004-06-30">30-06-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>AFC Bournemouth</club>
+<date_joined unformated="2004-07-12">12-07-2004</date_joined>
+<date_left unformated="2004-07-24">24-07-2004</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Walsall</club>
+<date_joined unformated="2004-09-09">09-09-2004</date_joined>
+<date_left unformated="2004-11-23">23-11-2004</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Under 18</competition>
+<team>England</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Toulon Under 20</competition>
+<team>England</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 20</competition>
+<team>England</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Notts County</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Walsall</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

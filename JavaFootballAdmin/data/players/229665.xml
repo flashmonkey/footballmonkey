@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="229665"><name>Aaron Doran</name>
+
+<details>
+<country>IRL</country>
+<born>13 May 1991</born>
+<birthplace>Dublin</birthplace>
+<weight>76 kg</weight>
+<height>1.70 m</height>
+<position>Midfielder/Forward</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="2008-05-14">14-05-2008</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Milton Keynes Dons</club>
+<date_joined unformated="2009-10-05">05-10-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Milton Keynes Dons</team>
+<period>2009 - 2010</period>
+<fullapps>2</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Johnstones Paint Trophy</competition>
+<team>Milton Keynes Dons</team>
+<period>2009 - 2010</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

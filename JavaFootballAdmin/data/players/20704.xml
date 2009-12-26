@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="20704"><name>Andrew Barrowman</name>
+
+<details>
+<country>SCO</country>
+<born>27 November 1984</born>
+<birthplace>Wishaw</birthplace>
+<weight>73 kg</weight>
+<height>1.80 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>Andrew joined Kilmarnock in July 2006 with a one-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2001-12-11">11-12-2001</date_joined>
+<date_left unformated="2006-01-31">31-01-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Crewe Alexandra</club>
+<date_joined unformated="2003-10-10">10-10-2003</date_joined>
+<date_left unformated="2003-11-07">07-11-2003</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Blackpool</club>
+<date_joined unformated="2004-08-02">02-08-2004</date_joined>
+<date_left unformated="2004-08-19">19-08-2004</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Mansfield Town</club>
+<date_joined unformated="2005-03-04">04-03-2005</date_joined>
+<date_left unformated="2005-04-04">04-04-2005</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Walsall</club>
+<date_joined unformated="2006-01-31">31-01-2006</date_joined>
+<date_left unformated="2006-06-30">30-06-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Kilmarnock</club>
+<date_joined unformated="2006-07-26">26-07-2006</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Under 19</competition>
+<team>Scotland</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 19</competition>
+<team>Scotland</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Crewe Alexandra</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Mansfield Town</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Blackpool</team>
+<period>2004 - 2005</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Walsall</team>
+<period>2005 - 2006</period>
+<fullapps>10</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

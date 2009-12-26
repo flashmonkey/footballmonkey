@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="6614"><name>Didier Agathe</name>
+
+<details>
+<country>FRA</country>
+<born>16 August 1975</born>
+<birthplace>Saint-Pierre</birthplace>
+<weight>86 kg</weight>
+<height>1.81 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>This talented midfield player signed for Montpellier as a 15-year old but never establish himself in the first team and in the summer of 1999 he joined Raith Rovers.
+He did well at Kirkcaldy and 12 months later he moved on to Hibernian.
+He was only on a short-term contract at Easter Road and, after some exceptional performances at the start of the 2000-01 campaign, he controversially signed for Celtic in September 2000.
+A pacy winger who is very composed on the ball, he soon established himself as a firm favourite at Parkhead and was an important figure in Martin O'Neill's treble-winning team in his first season.
+He teamed up with Martin O'Neill again at Aston Villa in September 2006 on a short-term contract.</description>
+
+<club_history>
+
+<period>
+<club>Montpellier</club>
+<date_joined unformated="1995-07-01">01-07-1995</date_joined>
+<date_left unformated="1999-08-26">26-08-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Raith Rovers</club>
+<date_joined unformated="1999-08-26">26-08-1999</date_joined>
+<date_left unformated="2000-07-04">04-07-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hibernian</club>
+<date_joined unformated="2000-07-04">04-07-2000</date_joined>
+<date_left unformated="2000-09-01">01-09-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Celtic</club>
+<date_joined unformated="2000-09-01">01-09-2000</date_joined>
+<date_left unformated="2006-05-31">31-05-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="2006-09-12">12-09-2006</date_joined>
+<date_left unformated="2007-01-12">12-01-2007</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Celtic</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish FA Cup</competition>
+<team>Celtic</team>
+<period>2000 - 2001</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Hibernian</team>
+<period>2000 - 2001</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>4</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish League Cup</competition>
+<team>Hibernian</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Celtic</team>
+<period>2000 - 2001</period>
+<fullapps>26</fullapps>
+<subs>1</subs>
+<goals>3</goals>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Scottish League Cup</competition>
+<team>Celtic</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish FA Cup</competition>
+<team>Celtic</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Celtic</team>
+<period>2001 - 2002</period>
+<fullapps>20</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Celtic</team>
+<period>2001 - 2002</period>
+<fullapps>8</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish League Cup</competition>
+<team>Celtic</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Celtic</team>
+<period>2002 - 2003</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Celtic</team>
+<period>2002 - 2003</period>
+<fullapps>12</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Celtic</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Celtic</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Celtic</team>
+<period>2003 - 2004</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Celtic</team>
+<period>2004 - 2005</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish Premier League</competition>
+<team>Celtic</team>
+<period>2004 - 2005</period>
+<fullapps>14</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Aston Villa</team>
+<period>2006 - 2007</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>2006 - 2007</period>
+<fullapps>0</fullapps>
+<subs>5</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

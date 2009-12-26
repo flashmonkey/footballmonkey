@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="5269"><name>Keith Hill</name>
+
+<details>
+<country>ENG</country>
+<born>17 May 1969</born>
+<birthplace>Bolton</birthplace>
+<weight>79 kg</weight>
+<height>1.83 m</height>
+<position>Defender/Centre back</position>
+
+</details>
+
+<description>Keith started the 2000-01 season in excellent form in central defence for Rochdale, but lost his place through injury. He then had to bide his time as the partnership between Dave Bayliss and Mark Monington proved equally successful. Dale manager Steve Parkin elected to change his centre half partnership only if one became unavailable through injury or suspension. Keith regained his place for two short spells only to have to drop out again through injury or suspension. He is a commanding centre half known for his consistent performances. 
+ He joined Cheltenham Town in the 2001 close season but his Whaddon Road contract was cancelled by mutual consent in July 2002 with two years to run.</description>
+
+<club_history>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1987-05-09">09-05-1987</date_joined>
+<date_left unformated="1992-09-23">23-09-1992</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Plymouth Argyle</club>
+<date_joined unformated="1992-09-23">23-09-1992</date_joined>
+<date_left unformated="1996-07-03">03-07-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Rochdale</club>
+<date_joined unformated="1996-07-03">03-07-1996</date_joined>
+<date_left unformated="2001-05-23">23-05-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Cheltenham Town</club>
+<date_joined unformated="2001-05-23">23-05-2001</date_joined>
+<date_left unformated="2002-07-30">30-07-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Wrexham</club>
+<date_joined unformated="2001-10-09">09-10-2001</date_joined>
+<date_left unformated="2002-01-09">09-01-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Morecambe</club>
+<date_joined unformated="2002-08-16">16-08-2002</date_joined>
+<date_left unformated="2003-06-30">30-06-2003</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1992 - 1993</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Rochdale</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Rochdale</team>
+<period>2000 - 2001</period>
+<fullapps>22</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>7</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Rochdale</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Wrexham</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Wrexham</team>
+<period>2001 - 2002</period>
+<fullapps>12</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Wrexham</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Cheltenham Town</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Morecambe</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Morecambe</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

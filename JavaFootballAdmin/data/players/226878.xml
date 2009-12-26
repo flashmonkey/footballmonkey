@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="226878"><name>Franco Di Santo</name>
+
+<details>
+<country>ARG</country>
+<born>07 April 1989</born>
+<birthplace>Mendoza</birthplace>
+<weight>78 kg</weight>
+<height>1.94 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>Franco joined Chelsea in January 2008 with a contract to June 2012.</description>
+
+<club_history>
+
+<period>
+<club>Audax Italiano</club>
+<date_joined unformated="2006-01-01">01-01-2006</date_joined>
+<date_left unformated="2008-01-25">25-01-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Chelsea</club>
+<date_joined unformated="2008-01-25">25-01-2008</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="2009-08-03">03-08-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Chelsea</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Chelsea</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Chelsea</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>8</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Chelsea</team>
+<period>2008 - 2009</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2009 - 2010</period>
+<fullapps>11</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="907"><name>Wayne Burnett</name>
+
+<details>
+<country>ENG</country>
+<born>04 September 1971</born>
+<birthplace>Lambeth</birthplace>
+<weight>79 kg</weight>
+<height>1.82 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>A former England Youth international, having finally shaken off the groin problem that had dogged him for so long Wayne eventually won his place back in Grimsby Town's line-up in November 2000. He gradually returned to his old form but was then sidelined by a knee injury in the New Year and it was not until the final day of the season that he made a return to the squad. When fully fit he is a creative midfield player able to deliver a telling pass.</description>
+
+<club_history>
+
+<period>
+<club>Leyton Orient</club>
+<date_joined unformated="1989-11-13">13-11-1989</date_joined>
+<date_left unformated="1992-08-19">19-08-1992</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1992-08-19">19-08-1992</date_joined>
+<date_left unformated="1993-08-09">09-08-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Plymouth Argyle</club>
+<date_joined unformated="1993-08-09">09-08-1993</date_joined>
+<date_left unformated="1995-10-12">12-10-1995</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="1995-10-12">12-10-1995</date_joined>
+<date_left unformated="1996-09-20">20-09-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Huddersfield Town</club>
+<date_joined unformated="1996-09-06">06-09-1996</date_joined>
+<date_left unformated="1996-09-19">19-09-1996</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Huddersfield Town</club>
+<date_joined unformated="1996-09-20">20-09-1996</date_joined>
+<date_left unformated="1998-02-12">12-02-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Grimsby Town</club>
+<date_joined unformated="1998-01-09">09-01-1998</date_joined>
+<date_left unformated="1998-02-08">08-02-1998</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Grimsby Town</club>
+<date_joined unformated="1998-02-12">12-02-1998</date_joined>
+<date_left unformated="2002-06-30">30-06-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Southend United</club>
+<date_joined unformated="2002-07-29">29-07-2002</date_joined>
+<date_left unformated="2002-08-09">09-08-2002</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Woking</club>
+<date_joined unformated="2002-09-06">06-09-2002</date_joined>
+<date_left unformated="2004-01-23">23-01-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Peterborough United</club>
+<date_joined unformated="2004-01-23">23-01-2004</date_joined>
+<date_left unformated="2004-01-28">28-01-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Fisher Athletic</club>
+<date_joined unformated="2004-02-06">06-02-2004</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>1995 - 1996</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Huddersfield Town</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Grimsby Town</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Grimsby Town</team>
+<period>2000 - 2001</period>
+<fullapps>20</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Grimsby Town</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Grimsby Town</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Grimsby Town</team>
+<period>2001 - 2002</period>
+<fullapps>18</fullapps>
+<subs>14</subs>
+<goals>2</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Grimsby Town</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

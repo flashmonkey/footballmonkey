@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="31252"><name>John Fashanu</name>
+
+<details>
+<country>ENG</country>
+<born>18 September 1962</born>
+<birthplace>Kensington</birthplace>
+<weight>86 kg</weight>
+<height>1.88 m</height>
+<position>Forward</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Norwich City</club>
+<date_joined unformated="1979-10-01">01-10-1979</date_joined>
+<date_left unformated="1983-09-01">01-09-1983</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Lincoln City</club>
+<date_joined unformated="1983-09-01">01-09-1983</date_joined>
+<date_left unformated="1984-11-01">01-11-1984</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Millwall</club>
+<date_joined unformated="1984-11-01">01-11-1984</date_joined>
+<date_left unformated="1986-03-01">01-03-1986</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Wimbledon</club>
+<date_joined unformated="1986-03-01">01-03-1986</date_joined>
+<date_left unformated="1994-08-01">01-08-1994</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Rous Cup</competition>
+<team>England</team>
+<period>1988 - 1989</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Wimbledon</team>
+<period>1992 - 1993</period>
+<fullapps>27</fullapps>
+<subs>2</subs>
+<goals>6</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Wimbledon</team>
+<period>1993 - 1994</period>
+<fullapps>35</fullapps>
+<subs>1</subs>
+<goals>11</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1994 - 1995</period>
+<fullapps>11</fullapps>
+<subs>2</subs>
+<goals>3</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1994 - 1995</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Aston Villa</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="429"><name>David Hughes</name>
+
+<details>
+<country>WAL</country>
+<born>01 February 1978</born>
+<birthplace>Wrexham</birthplace>
+<weight>89 kg</weight>
+<height>1.93 m</height>
+<position>Defender/Centre back</position>
+
+</details>
+
+<description>David started the 2000-01 campaign a little uncertainly in the centre of the Shrewsbury Town defence but quickly found his feet and went on to produce some excellent form in the first half of the season. He moved on to Cardiff in February for a substantial fee as the Bluebirds sought to firm up their defence in the run-in to their promotion challenge. He took time to settle in at Ninian Park but by the end of the season had begun to do an effective job in sealing up the back line. David is a tall commanding central defender with a powerful long throw. 
+ David was forced to retire through injury in April 2003.</description>
+
+<club_history>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="1996-07-05">05-07-1996</date_joined>
+<date_left unformated="1999-09-22">22-09-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Carlisle United</club>
+<date_joined unformated="1998-03-26">26-03-1998</date_joined>
+<date_left unformated="1998-04-26">26-04-1998</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Shrewsbury Town</club>
+<date_joined unformated="1999-09-22">22-09-1999</date_joined>
+<date_left unformated="2001-02-09">09-02-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Cardiff City</club>
+<date_joined unformated="2001-02-09">09-02-2001</date_joined>
+<date_left unformated="2003-04-09">09-04-2003</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1996 - 1997</period>
+<fullapps>4</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Shrewsbury Town</team>
+<period>2000 - 2001</period>
+<fullapps>24</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Shrewsbury Town</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Shrewsbury Town</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Cardiff City</team>
+<period>2000 - 2001</period>
+<fullapps>11</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Shrewsbury Town</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Cardiff City</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Cardiff City</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Cardiff City</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

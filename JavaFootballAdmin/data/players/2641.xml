@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="2641"><name>Gavin Ward</name>
+
+<details>
+<country>ENG</country>
+<born>30 June 1970</born>
+<birthplace>Sutton Coldfield</birthplace>
+<weight>92 kg</weight>
+<height>1.91 m</height>
+<position>Goalkeeper</position>
+
+</details>
+
+<description>Stoke City's popular 'keeper held his place in the starting line-up for most of the early part of 2000-01 before succumbing to a back injury that kept him out of action for almost six months.
+He eventually returned towards the end of March and re-established himself in the side in the closing weeks of the campaign.
+A goalkeeper who is an excellent shot stopper and has firm control over his box, he was sorely missed by City during his absence.
+Gavin was given special dispensation to sign for Barnsley in April 2004 - after the Transfer Deadline -  after Marlon Beresford suffered a back injury.
+After being released by Coventry City at the end of the 2003-04 season, Gavin re-joined the Sky Blues on a monthly contract but soon joined Preston North End in a one-year deal.
+This was extended to June 2006 in March 2005.
+Gavin joined Tranmere Rovers in July 2006 with a one-year contract.
+He joined Wrexham in January 2008 with a contract to June 2009.</description>
+
+<club_history>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="1987-07-01">01-07-1987</date_joined>
+<date_left unformated="1988-09-26">26-09-1988</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Shrewsbury Town</club>
+<date_joined unformated="1988-09-26">26-09-1988</date_joined>
+<date_left unformated="1989-09-18">18-09-1989</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>West Bromwich Albion</club>
+<date_joined unformated="1989-09-18">18-09-1989</date_joined>
+<date_left unformated="1989-10-05">05-10-1989</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Cardiff City</club>
+<date_joined unformated="1989-10-05">05-10-1989</date_joined>
+<date_left unformated="1993-07-16">16-07-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Leicester City</club>
+<date_joined unformated="1993-07-16">16-07-1993</date_joined>
+<date_left unformated="1995-07-13">13-07-1995</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bradford City</club>
+<date_joined unformated="1995-07-13">13-07-1995</date_joined>
+<date_left unformated="1996-03-29">29-03-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="1996-03-29">29-03-1996</date_joined>
+<date_left unformated="1999-02-25">25-02-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Burnley</club>
+<date_joined unformated="1998-08-14">14-08-1998</date_joined>
+<date_left unformated="1998-11-14">14-11-1998</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Stoke City</club>
+<date_joined unformated="1999-02-25">25-02-1999</date_joined>
+<date_left unformated="2002-06-30">30-06-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Wigan Athletic</club>
+<date_joined unformated="2002-07-22">22-07-2002</date_joined>
+<date_left unformated="2002-07-29">29-07-2002</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Walsall</club>
+<date_joined unformated="2002-08-09">09-08-2002</date_joined>
+<date_left unformated="2003-06-30">30-06-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Coventry City</club>
+<date_joined unformated="2003-08-01">01-08-2003</date_joined>
+<date_left unformated="2004-07-16">16-07-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Barnsley</club>
+<date_joined unformated="2004-04-29">29-04-2004</date_joined>
+<date_left unformated="2004-05-05">05-05-2004</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Preston North End</club>
+<date_joined unformated="2004-07-16">16-07-2004</date_joined>
+<date_left unformated="2006-06-30">30-06-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Tranmere Rovers</club>
+<date_joined unformated="2006-07-01">01-07-2006</date_joined>
+<date_left unformated="2007-06-30">30-06-2007</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Chester City</club>
+<date_joined unformated="2007-07-02">02-07-2007</date_joined>
+<date_left unformated="2008-01-08">08-01-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Wrexham</club>
+<date_joined unformated="2008-01-08">08-01-2008</date_joined>
+<date_left unformated="2009-06-30">30-06-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hednesford Town</club>
+<date_joined unformated="2009-07-14">14-07-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Leicester City</team>
+<period>1993 - 1994</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1 Play-Offs</competition>
+<team>Leicester City</team>
+<period>1993 - 1994</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Leicester City</team>
+<period>1993 - 1994</period>
+<fullapps>32</fullapps>
+<subs>0</subs>
+
+<cleansheets>24</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Leicester City</team>
+<period>1994 - 1995</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>13</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Leicester City</team>
+<period>1994 - 1995</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+
+<cleansheets/>
+<goalsconceded/>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Bradford City</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>1995 - 1996</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>7</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Bolton Wanderers</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>1997 - 1998</period>
+<fullapps>4</fullapps>
+<subs>2</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>9</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Stoke City</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Stoke City</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>5</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2 Play-Offs</competition>
+<team>Stoke City</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Stoke City</team>
+<period>2000 - 2001</period>
+<fullapps>17</fullapps>
+<subs>0</subs>
+
+<cleansheets>3</cleansheets>
+<goalsconceded>15</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Stoke City</team>
+<period>2001 - 2002</period>
+<fullapps>10</fullapps>
+<subs>0</subs>
+
+<cleansheets>5</cleansheets>
+<goalsconceded>5</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Stoke City</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Stoke City</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Walsall</team>
+<period>2002 - 2003</period>
+<fullapps>5</fullapps>
+<subs>2</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>8</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Barnsley</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Coventry City</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Coventry City</team>
+<period>2003 - 2004</period>
+<fullapps>12</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>12</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Preston North End</team>
+<period>2004 - 2005</period>
+<fullapps>6</fullapps>
+<subs>1</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>13</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Preston North End</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Tranmere Rovers</team>
+<period>2006 - 2007</period>
+<fullapps>36</fullapps>
+<subs>2</subs>
+
+<cleansheets>9</cleansheets>
+<goalsconceded>42</goalsconceded>
+<yellowcards>3</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Tranmere Rovers</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Tranmere Rovers</team>
+<period>2006 - 2007</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Wrexham</team>
+<period>2007 - 2008</period>
+<fullapps>22</fullapps>
+<subs>0</subs>
+
+<cleansheets>4</cleansheets>
+<goalsconceded>27</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Johnstones Paint Trophy</competition>
+<team>Chester City</team>
+<period>2007 - 2008</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+
+<cleansheets/>
+<goalsconceded/>
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="54"><name>Najwan Ghrayib</name>
+
+<details>
+<country>ISR</country>
+<born>30 January 1974</born>
+<birthplace>Nazareth</birthplace>
+<weight>70 kg</weight>
+<height>1.75 m</height>
+<position>Full back</position>
+
+</details>
+
+<description>Israeli International who came to Villa before the 1999-2000 season. He has failed so far to get a regular first team spot down the left hand side. Quick, skillful and has a good scoring record for a full back.</description>
+
+<club_history>
+
+<period>
+<club>Maccabi Haifa</club>
+<date_joined unformated="1994-00-00">30-11-1993</date_joined>
+<date_left unformated="1995-00-00">30-11-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Maccabi Petach Tikva</club>
+<date_joined unformated="1995-00-00">30-11-1994</date_joined>
+<date_left unformated="1997-00-00">30-11-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hapoel Haifa</club>
+<date_joined unformated="1997-00-00">30-11-1996</date_joined>
+<date_left unformated="1999-08-04">04-08-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="1999-08-04">04-08-1999</date_joined>
+<date_left unformated="2001-02-09">09-02-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hapoel Haifa</club>
+<date_joined unformated="2001-02-09">09-02-2001</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Aston Villa</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

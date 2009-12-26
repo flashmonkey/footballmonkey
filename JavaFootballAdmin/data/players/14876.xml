@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="14876"><name>Djibril Diawara</name>
+
+<details>
+<country>SEN</country>
+<born>03 January 1975</born>
+<birthplace>Pout</birthplace>
+<weight>77 kg</weight>
+<height>1.85 m</height>
+<position>Defender</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Le Havre</club>
+<date_joined unformated="1994-00-00">30-11-1993</date_joined>
+<date_left unformated="1997-00-00">30-11-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>AS Monaco</club>
+<date_joined unformated="1997-00-00">30-11-1996</date_joined>
+<date_left unformated="1999-00-00">30-11-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Torino</club>
+<date_joined unformated="1999-00-00">30-11-1998</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2001-06-22">22-06-2001</date_joined>
+<date_left unformated="2002-01-29">29-01-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>AS Monaco</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2001 - 2002</period>
+<fullapps>4</fullapps>
+<subs>5</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+</player_stats>
+
+</player>

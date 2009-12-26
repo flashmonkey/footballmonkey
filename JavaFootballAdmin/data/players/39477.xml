@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="39477"><name>Jovo Bosancic</name>
+
+<details>
+<country>YUG</country>
+<born>07 August 1970</born>
+<birthplace>Yugoslavia</birthplace>
+<weight>83 kg</weight>
+<height>1.80 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Uniao de Madeira</club>
+<date_joined unformated="1995-07-01">01-07-1995</date_joined>
+<date_left unformated="1996-06-30">30-06-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Barnsley</club>
+<date_joined unformated="1996-08-02">02-08-1996</date_joined>
+<date_left unformated="1998-06-30">30-06-1998</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Barnsley</team>
+<period>1997 - 1998</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Barnsley</team>
+<period>1997 - 1998</period>
+<fullapps>13</fullapps>
+<subs>4</subs>
+<goals>2</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+</player_stats>
+
+</player>

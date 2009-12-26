@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="77"><name>Isaiah Rankin</name>
+
+<details>
+<country>ENG</country>
+<born>22 May 1978</born>
+<birthplace>Edmonton</birthplace>
+<weight>73 kg</weight>
+<height>1.78 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>Isaiah's only Arsenal appearance was a five-minute sub appearance in the North London derby at Tottenham Hotspur during the Christmas programme in 1997.
+Isaiah scored a pre-season goal for Bradford City in their Inter Toto Cup tie against Lithuanian outfit FK Atlantas before joining Bolton Wanderers on loan at the start of the 2000-01 campaign as manager Sam Allardyce sought some extra attacking options.
+He made an explosive entrance, scoring two goals in his first four games, his cracker against Preston North End being particularly memorable, but this fine start fizzled out, however, and he returned to Bradford City upon completion of his three-month loan period.
+He made his only Premiership appearance when coming on as a late substitute at Leicester City on New Year's Day and soon afterwards he was sold to neighbours Barnsley, becoming new manager Nigel Spackman's first signing for the club.
+Although initially asked to play in an unaccustomed wide role, his pace proved a real asset as he helped pull the Tykes away from the relegation zone.
+He scored in the 3- 2 win against Tranmere Rovers but niggling injuries brought his campaign to a premature halt and he later underwent a hernia operation. 
+After a loan spell, Isaiah joined Grimsby Town in March 2004 with a contract to the end of the season.
+Isaiah returned to Grimsby in July 2006 with a two-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="1995-09-12">12-09-1995</date_joined>
+<date_left unformated="1998-08-14">14-08-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Colchester United</club>
+<date_joined unformated="1997-09-25">25-09-1997</date_joined>
+<date_left unformated="1997-12-26">26-12-1997</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bradford City</club>
+<date_joined unformated="1998-08-14">14-08-1998</date_joined>
+<date_left unformated="2001-01-19">19-01-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2000-01-19">19-01-2000</date_joined>
+<date_left unformated="2000-05-19">19-05-2000</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2000-08-11">11-08-2000</date_joined>
+<date_left unformated="2000-11-10">10-11-2000</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Barnsley</club>
+<date_joined unformated="2001-01-19">19-01-2001</date_joined>
+<date_left unformated="2004-03-25">25-03-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>AFC Bournemouth</club>
+<date_joined unformated="2002-01-28">28-01-2002</date_joined>
+<date_left unformated="2002-02-01">01-02-2002</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Grimsby Town</club>
+<date_joined unformated="2004-02-12">12-02-2004</date_joined>
+<date_left unformated="2004-03-24">24-03-2004</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Grimsby Town</club>
+<date_joined unformated="2004-03-25">25-03-2004</date_joined>
+<date_left unformated="2004-06-30">30-06-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Brentford</club>
+<date_joined unformated="2004-07-02">02-07-2004</date_joined>
+<date_left unformated="2006-06-30">30-06-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Grimsby Town</club>
+<date_joined unformated="2006-07-01">01-07-2006</date_joined>
+<date_left unformated="2008-01-31">31-01-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Macclesfield Town</club>
+<date_joined unformated="2007-03-22">22-03-2007</date_joined>
+<date_left unformated="2007-05-31">31-05-2007</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Stevenage Borough</club>
+<date_joined unformated="2008-01-31">31-01-2008</date_joined>
+<date_left unformated="2008-06-30">30-06-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Crawley Town</club>
+<date_joined unformated="2008-07-23">23-07-2008</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1997 - 1998</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bradford City</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bradford City</team>
+<period>1998 - 1999</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bradford City</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>9</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bradford City</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Barnsley</team>
+<period>2000 - 2001</period>
+<fullapps>6</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Bolton Wanderers</team>
+<period>2000 - 2001</period>
+<fullapps>9</fullapps>
+<subs>7</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Intertoto Cup</competition>
+<team>Bradford City</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bradford City</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Barnsley</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Barnsley</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>7</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Barnsley</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Barnsley</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>7</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Barnsley</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Grimsby Town</team>
+<period>2003 - 2004</period>
+<fullapps>12</fullapps>
+<subs>0</subs>
+<goals>4</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Barnsley</team>
+<period>2003 - 2004</period>
+<fullapps>9</fullapps>
+<subs>11</subs>
+<goals>5</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Barnsley</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Barnsley</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Brentford</team>
+<period>2004 - 2005</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Brentford</team>
+<period>2004 - 2005</period>
+<fullapps>33</fullapps>
+<subs>8</subs>
+<goals>8</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League One Play-Offs</competition>
+<team>Brentford</team>
+<period>2004 - 2005</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Brentford</team>
+<period>2004 - 2005</period>
+<fullapps>8</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Brentford</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>3</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League One Play-Offs</competition>
+<team>Brentford</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League One</competition>
+<team>Brentford</team>
+<period>2005 - 2006</period>
+<fullapps>31</fullapps>
+<subs>6</subs>
+<goals>7</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Grimsby Town</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Grimsby Town</team>
+<period>2006 - 2007</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Macclesfield Town</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Johnstones Paint Trophy</competition>
+<team>Grimsby Town</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Grimsby Town</team>
+<period>2006 - 2007</period>
+<fullapps>15</fullapps>
+<subs>5</subs>
+<goals>2</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Grimsby Town</team>
+<period>2007 - 2008</period>
+<fullapps>12</fullapps>
+<subs>5</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Grimsby Town</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Johnstones Paint Trophy</competition>
+<team>Grimsby Town</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

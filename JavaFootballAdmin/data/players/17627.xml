@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="17627"><name>Adrian Clarke</name>
+
+<details>
+<country>ENG</country>
+<born>28 September 1974</born>
+<birthplace>Suffolk</birthplace>
+<weight>70 kg</weight>
+<height>1.78 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Able to play on either wing, with few opportunities at Arsenal, he moved on to Southend United during a difficult time at Roots Hall.</description>
+
+<club_history>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="1993-07-06">06-07-1993</date_joined>
+<date_left unformated="1997-03-27">27-03-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Rotherham United</club>
+<date_joined unformated="1996-12-02">02-12-1996</date_joined>
+<date_left unformated="1997-01-02">02-01-1997</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Southend United</club>
+<date_joined unformated="1997-03-27">27-03-1997</date_joined>
+<date_left unformated="2000-06-30">30-06-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Carlisle United</club>
+<date_joined unformated="1999-09-10">10-09-1999</date_joined>
+<date_left unformated="1999-11-10">10-11-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Stevenage Borough</club>
+<date_joined unformated="2000-08-11">11-08-2000</date_joined>
+<date_left unformated="2002-11-29">29-11-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Margate</club>
+<date_joined unformated="2002-11-29">29-11-2002</date_joined>
+<date_left unformated="2005-06-30">30-06-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Welling United</club>
+<date_joined unformated="2005-08-03">03-08-2005</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1994 - 1995</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1995 - 1996</period>
+<fullapps>4</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Southend United</team>
+<period>1997 - 1998</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Southend United</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Stevenage Borough</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Margate</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Welling United</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

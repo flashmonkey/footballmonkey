@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="15026"><name>Rafael Schmitz</name>
+
+<details>
+<country>BRA</country>
+<born>17 December 1980</born>
+<birthplace>Blunemau</birthplace>
+<weight>72 kg</weight>
+<height>1.83 m</height>
+<position>Defender</position>
+
+</details>
+
+<description> </description>
+
+<club_history>
+
+<period>
+<club>Malutrom</club>
+<date_joined unformated="2000-01-01">01-01-2000</date_joined>
+<date_left unformated="2001-07-05">05-07-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Lille OSC</club>
+<date_joined unformated="2001-07-05">05-07-2001</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Krylya Sovetov Samara</club>
+<date_joined unformated="2004-06-01">01-06-2004</date_joined>
+<date_left unformated="2004-08-01">01-08-2004</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="2007-07-06">06-07-2007</date_joined>
+<date_left unformated="2008-05-31">31-05-2008</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Lille OSC</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Lille OSC</team>
+<period>2001 - 2002</period>
+<fullapps>6</fullapps>
+<subs>9</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Lille OSC</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Lille OSC</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Intertoto Cup</competition>
+<team>Lille OSC</team>
+<period>2002 - 2003</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Lille OSC</team>
+<period>2003 - 2004</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Lille OSC</team>
+<period>2004 - 2005</period>
+<fullapps>27</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Lille OSC</team>
+<period>2005 - 2006</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Lille OSC</team>
+<period>2005 - 2006</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Birmingham City</team>
+<period>2007 - 2008</period>
+<fullapps>12</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Birmingham City</team>
+<period>2007 - 2008</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

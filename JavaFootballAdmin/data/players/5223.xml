@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="5223"><name>Bobby Mimms</name>
+
+<details>
+<country>ENG</country>
+<born>12 October 1963</born>
+<birthplace>York</birthplace>
+<weight>90 kg</weight>
+<height>1.91 m</height>
+<position>Goalkeeper</position>
+
+</details>
+
+<description>With Everton, 1st Division Champion 1987 FA Cup runner-up 1986 
+This veteran &amp;#8216;keeper replaced Ian Bowling as first-choice at Mansfield in the early part of last season and went on to retain his position right up until the end of the campaign. Bobby performed consistently well plugging what had been a leaking defence and never letting the side down. He also helped the club as a goalkeeping coach and after his release in May and became Wolverhampton Wanderers' Goalkeeping Coach.</description>
+
+<club_history>
+
+<period>
+<club>Halifax Town</club>
+<date_joined unformated="1981-08-05">05-08-1981</date_joined>
+<date_left unformated="1981-11-06">06-11-1981</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Rotherham United</club>
+<date_joined unformated="1981-11-06">06-11-1981</date_joined>
+<date_left unformated="1985-05-30">30-05-1985</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Everton</club>
+<date_joined unformated="1985-05-30">30-05-1985</date_joined>
+<date_left unformated="1988-02-25">25-02-1988</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Notts County</club>
+<date_joined unformated="1986-03-13">13-03-1986</date_joined>
+<date_left unformated="1986-04-13">13-04-1986</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Sunderland</club>
+<date_joined unformated="1986-12-11">11-12-1986</date_joined>
+<date_left unformated="1987-01-11">11-01-1987</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1987-01-23">23-01-1987</date_joined>
+<date_left unformated="1987-02-28">28-02-1987</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Manchester City</club>
+<date_joined unformated="1987-09-24">24-09-1987</date_joined>
+<date_left unformated="1987-10-24">24-10-1987</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Tottenham Hotspur</club>
+<date_joined unformated="1988-02-25">25-02-1988</date_joined>
+<date_left unformated="1990-12-22">22-12-1990</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Aberdeen</club>
+<date_joined unformated="1990-02-16">16-02-1990</date_joined>
+<date_left unformated="1990-04-16">16-04-1990</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1990-12-22">22-12-1990</date_joined>
+<date_left unformated="1996-08-30">30-08-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Crystal Palace</club>
+<date_joined unformated="1996-08-30">30-08-1996</date_joined>
+<date_left unformated="1996-09-05">05-09-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Preston North End</club>
+<date_joined unformated="1996-09-05">05-09-1996</date_joined>
+<date_left unformated="1997-08-08">08-08-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Rotherham United</club>
+<date_joined unformated="1997-08-08">08-08-1997</date_joined>
+<date_left unformated="1998-08-14">14-08-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>York City</club>
+<date_joined unformated="1998-08-14">14-08-1998</date_joined>
+<date_left unformated="2000-03-22">22-03-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Mansfield Town</club>
+<date_joined unformated="2000-03-22">22-03-2000</date_joined>
+<date_left unformated="2001-06-30">30-06-2001</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Under 21</competition>
+<team>England</team>
+<period>1984 - 1985</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+
+<cleansheets/>
+<goalsconceded/>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>England</team>
+<period>1985 - 1986</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Everton</team>
+<period>1985 - 1986</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Everton</team>
+<period>1985 - 1986</period>
+<fullapps>10</fullapps>
+<subs>0</subs>
+
+<cleansheets>5</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Littlewoods Cup</competition>
+<team>Everton</team>
+<period>1986 - 1987</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Everton</team>
+<period>1986 - 1987</period>
+<fullapps>11</fullapps>
+<subs>0</subs>
+
+<cleansheets>6</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Everton</team>
+<period>1987 - 1988</period>
+<fullapps>8</fullapps>
+<subs>0</subs>
+
+<cleansheets>3</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Tottenham Hotspur</team>
+<period>1987 - 1988</period>
+<fullapps>13</fullapps>
+<subs>0</subs>
+
+<cleansheets>6</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Littlewoods Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>1988 - 1989</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>1988 - 1989</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Tottenham Hotspur</team>
+<period>1988 - 1989</period>
+<fullapps>20</fullapps>
+<subs>0</subs>
+
+<cleansheets>8</cleansheets>
+<goalsconceded>11</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>1988 - 1989</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Tottenham Hotspur</team>
+<period>1989 - 1990</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division One</competition>
+<team>Tottenham Hotspur</team>
+<period>1989 - 1990</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+
+<cleansheets>3</cleansheets>
+<goalsconceded>0</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1992 - 1993</period>
+<fullapps>42</fullapps>
+<subs>0</subs>
+
+<cleansheets>12</cleansheets>
+<goalsconceded>44</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1993 - 1994</period>
+<fullapps>13</fullapps>
+<subs>0</subs>
+
+<cleansheets>4</cleansheets>
+<goalsconceded>12</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1994 - 1995</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>5</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Mansfield Town</team>
+<period>2000 - 2001</period>
+<fullapps>40</fullapps>
+<subs>0</subs>
+
+<cleansheets>6</cleansheets>
+<goalsconceded>58</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Mansfield Town</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>5</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Mansfield Town</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>5</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

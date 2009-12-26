@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="230205"><name>Lee Chung-Yong</name>
+
+<details>
+<country>KOR</country>
+<born>02 July 1988</born>
+<birthplace>Seoul</birthplace>
+<weight>60 kg</weight>
+<height>1.78 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>Lee Chung-Yong joined Bolton Wanderers in August 2009 with a three-year contract.</description>
+
+<club_history>
+
+<period>
+<club>FC Seoul</club>
+<date_joined unformated="2006-01-01">01-01-2006</date_joined>
+<date_left unformated="2009-08-14">14-08-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2009-08-14">14-08-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2009 - 2010</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2009 - 2010</period>
+<fullapps>8</fullapps>
+<subs>4</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

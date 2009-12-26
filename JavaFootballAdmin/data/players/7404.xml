@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="7404"><name>Varela Javi Moreno</name>
+
+<details>
+<country>ESP</country>
+<born>10 September 1974</born>
+<birthplace>Silla</birthplace>
+<weight>78 kg</weight>
+<height>1.78 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>Javi joined Bolton Wanderers on loan from Atletico Madrid in January 2004 upto the end of the 2003-04 season.</description>
+
+<club_history>
+
+<period>
+<club>Barcelona B</club>
+<date_joined unformated="1995-07-01">01-07-1995</date_joined>
+<date_left unformated="1996-12-01">01-12-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Cordoba</club>
+<date_joined unformated="1996-12-01">01-12-1996</date_joined>
+<date_left unformated="1997-07-01">01-07-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Yeclano</club>
+<date_joined unformated="1997-07-01">01-07-1997</date_joined>
+<date_left unformated="1997-12-01">01-12-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Alaves</club>
+<date_joined unformated="1997-07-01">01-07-1997</date_joined>
+<date_left unformated="1998-07-01">01-07-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Numancia</club>
+<date_joined unformated="1998-07-01">01-07-1998</date_joined>
+<date_left unformated="1999-07-01">01-07-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Alaves</club>
+<date_joined unformated="1999-07-01">01-07-1999</date_joined>
+<date_left unformated="2001-07-01">01-07-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>AC Milan</club>
+<date_joined unformated="2001-07-01">01-07-2001</date_joined>
+<date_left unformated="2002-07-01">01-07-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Atletico Madrid</club>
+<date_joined unformated="2002-07-01">01-07-2002</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2004-01-07">07-01-2004</date_joined>
+<date_left unformated="2004-05-16">16-05-2004</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Alaves</team>
+<period>2000 - 2001</period>
+<fullapps>6</fullapps>
+<subs>2</subs>
+<goals>6</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Alaves</team>
+<period>2000 - 2001</period>
+<fullapps>32</fullapps>
+<subs>2</subs>
+<goals>22</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>AC Milan</team>
+<period>2001 - 2002</period>
+<fullapps>4</fullapps>
+<subs>3</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Serie A</competition>
+<team>AC Milan</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>13</subs>
+<goals>2</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Atletico Madrid</team>
+<period>2002 - 2003</period>
+<fullapps>8</fullapps>
+<subs>16</subs>
+<goals>5</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>7</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Atletico Madrid</team>
+<period>2003 - 2004</period>
+<fullapps>0</fullapps>
+<subs>5</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Real Zaragoza</team>
+<period>2004 - 2005</period>
+<fullapps>11</fullapps>
+<subs>7</subs>
+<goals>4</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

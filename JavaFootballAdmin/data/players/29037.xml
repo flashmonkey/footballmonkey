@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="29037"><name>Lars Leese</name>
+
+<details>
+<country>GER</country>
+<born>18 August 1969</born>
+<birthplace>Deutschland</birthplace>
+<weight>91 kg</weight>
+<height>1.96 m</height>
+<position>Goalkeeper</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Bayer Leverkusen</club>
+<date_joined unformated="1996-07-01">01-07-1996</date_joined>
+<date_left unformated="1997-07-23">23-07-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Barnsley</club>
+<date_joined unformated="1997-07-23">23-07-1997</date_joined>
+<date_left unformated="1999-06-30">30-06-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Barnsley</team>
+<period>1997 - 1998</period>
+<fullapps>8</fullapps>
+<subs>1</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>16</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="230020"><name>Steven N'Zonzi</name>
+
+<details>
+<country>FRA</country>
+<born>15 December 1988</born>
+<birthplace>Colombes</birthplace>
+<weight>75 kg</weight>
+<height>1.90 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Steven joined Blackburn Rovers in June 2009 with a four-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Amiens</club>
+<date_joined unformated="2007-07-01">01-07-2007</date_joined>
+<date_left unformated="2009-06-30">30-06-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="2009-06-30">30-06-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Blackburn Rovers</team>
+<period>2009 - 2010</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>2009 - 2010</period>
+<fullapps>14</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

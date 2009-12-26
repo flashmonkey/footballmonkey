@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="19350"><name>Laurens Ten Heuvel</name>
+
+<details>
+<country>NED</country>
+<born>06 June 1976</born>
+<birthplace>Duivendrecht</birthplace>
+<weight>77 kg</weight>
+<height>1.85 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>Laurens was transfer-listed by Sheffield United in July 2003.</description>
+
+<club_history>
+
+<period>
+<club>Den Bosch</club>
+<date_joined unformated="1995">30-11-1994</date_joined>
+<date_left unformated="1996-03-12">12-03-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Barnsley</club>
+<date_joined unformated="1996-03-12">12-03-1996</date_joined>
+<date_left unformated="1998-06-30">30-06-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Northampton Town</club>
+<date_joined unformated="1998-02-06">06-02-1998</date_joined>
+<date_left unformated="1998-02-28">28-02-1998</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>First Vienna</club>
+<date_joined unformated="1998-07-01">01-07-1998</date_joined>
+<date_left unformated="2001">30-11-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Telstar</club>
+<date_joined unformated="2001">30-11-2000</date_joined>
+<date_left unformated="2002-07-09">09-07-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Sheffield United</club>
+<date_joined unformated="2002-07-09">09-07-2002</date_joined>
+<date_left unformated="2003-09-10">10-09-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bradford City</club>
+<date_joined unformated="2003-03-27">27-03-2003</date_joined>
+<date_left unformated="2003-05-05">05-05-2003</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Grimsby Town</club>
+<date_joined unformated="2003-08-08">08-08-2003</date_joined>
+<date_left unformated="2003-09-07">07-09-2003</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>De Graafschap</club>
+<date_joined unformated="2003-09-10">10-09-2003</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Barnsley</team>
+<period>1997 - 1998</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Bradford City</team>
+<period>2002 - 2003</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Sheffield United</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Sheffield United</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Sheffield United</team>
+<period>2002 - 2003</period>
+<fullapps>0</fullapps>
+<subs>5</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Grimsby Town</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Grimsby Town</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

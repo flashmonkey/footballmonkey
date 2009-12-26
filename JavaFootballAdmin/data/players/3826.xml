@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="3826"><name>David Grondin</name>
+
+<details>
+<country>FRA</country>
+<born>08 May 1980</born>
+<birthplace>Paris</birthplace>
+<weight>74 kg</weight>
+<height>1.75 m</height>
+<position>Defender/Left back</position>
+
+</details>
+
+<description>A promising left-back whose progress at Arsenal was thwarted by the rise of Ashley Cole.</description>
+
+<club_history>
+
+<period>
+<club>Saint Etienne</club>
+<date_joined unformated="">30-12-1999</date_joined>
+<date_left unformated="1998-06-17">17-06-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="1998-06-17">17-06-1998</date_joined>
+<date_left unformated="2003-01-31">31-01-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>AS Cannes</club>
+<date_joined unformated="2000-06-30">30-06-2000</date_joined>
+<date_left unformated="2001-05-20">20-05-2001</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Beveren</club>
+<date_joined unformated="2001-07-24">24-07-2001</date_joined>
+<date_left unformated="2002-05-30">30-05-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Sedan</club>
+<date_joined unformated="2002-06-26">26-06-2002</date_joined>
+<date_left unformated="2002-07-03">03-07-2002</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Dunfermline Athletic</club>
+<date_joined unformated="2003-01-31">31-01-2003</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Arsenal</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Jupiler League</competition>
+<team>Beveren</team>
+<period>2001 - 2002</period>
+<fullapps>14</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

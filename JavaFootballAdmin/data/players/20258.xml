@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="20258"><name>Sebastien Puygrenier</name>
+
+<details>
+<country>FRA</country>
+<born>28 January 1982</born>
+<birthplace>Limoges</birthplace>
+<weight>64 kg</weight>
+<height>1.86 m</height>
+<position>Defender</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Rennes</club>
+<date_joined unformated="2002-07-01">01-07-2002</date_joined>
+<date_left unformated="2003-07-01">01-07-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>AS Nancy</club>
+<date_joined unformated="2003-07-01">01-07-2003</date_joined>
+<date_left unformated="2008-07-01">01-07-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Zenit St Petersburg</club>
+<date_joined unformated="2008-07-01">01-07-2008</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2009-01-09">09-01-2009</date_joined>
+<date_left unformated="2009-05-31">31-05-2009</date_left>
+<trialist>L</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>French Championnat</competition>
+<team>Rennes</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>French Championnat</competition>
+<team>AS Nancy</team>
+<period>2005 - 2006</period>
+<fullapps>27</fullapps>
+<subs>4</subs>
+<goals>1</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>AS Nancy</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2008 - 2009</period>
+<fullapps>5</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Super Cup</competition>
+<team>Zenit St Petersburg</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

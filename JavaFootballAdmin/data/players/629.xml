@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="629"><name> Silvinho</name>
+
+<details>
+<country>BRA</country>
+<born>12 April 1974</born>
+<birthplace>Sao Paulo</birthplace>
+<weight>67 kg</weight>
+<height>1.75 m</height>
+<position>Defender/Left back</position>
+
+</details>
+
+<description><b>Full name is Silvio Mendes Campos Junior.</b>
+An exciting, attacking left back, despite many excellent performances, Silvinho's progress at Arsenal was hampered by injury and the emergence of Ashley Cole.
+He netted a vital goal in Arsenal's opening Champions' League game against Sparta Prague in September, jinking past several defenders before firing past the 'keeper.
+His fantastic skill, strong tackles and pinpoint distribution have enabled him to break into the Brazil national squad.
+He won a place in the PFA's Premiership team selected by his fellow professionals.
+Silvinho joined Manchester City in August 2009 with a one-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Corinthians (Brazil)</club>
+<date_joined unformated="1993-01-01">01-01-1993</date_joined>
+<date_left unformated="1999-06-30">30-06-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="1999-06-30">30-06-1999</date_joined>
+<date_left unformated="2001-08-31">31-08-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Celta Vigo</club>
+<date_joined unformated="2001-08-28">28-08-2001</date_joined>
+<date_left unformated="2001-08-30">30-08-2001</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Celta Vigo</club>
+<date_joined unformated="2001-08-31">31-08-2001</date_joined>
+<date_left unformated="2004-07-01">01-07-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Barcelona</club>
+<date_joined unformated="2004-07-01">01-07-2004</date_joined>
+<date_left unformated="2009-06-30">30-06-2009</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Manchester City</club>
+<date_joined unformated="2009-08-25">25-08-2009</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1999 - 2000</period>
+<fullapps>23</fullapps>
+<subs>8</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Arsenal</team>
+<period>1999 - 2000</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>1999 - 2000</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Arsenal</team>
+<period>1999 - 2000</period>
+<fullapps>7</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Charity Shield</competition>
+<team>Arsenal</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>2000 - 2001</period>
+<fullapps>23</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>2000 - 2001</period>
+<fullapps>6</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Celta Vigo</team>
+<period>2001 - 2002</period>
+<fullapps>15</fullapps>
+<subs>8</subs>
+<goals/>
+
+<yellowcards>5</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Celta Vigo</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Celta Vigo</team>
+<period>2002 - 2003</period>
+<fullapps>28</fullapps>
+<subs>4</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Celta Vigo</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Celta Vigo</team>
+<period>2003 - 2004</period>
+<fullapps>26</fullapps>
+<subs>3</subs>
+<goals>0</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Celta Vigo</team>
+<period>2003 - 2004</period>
+<fullapps>8</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Barcelona</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Barcelona</team>
+<period>2004 - 2005</period>
+<fullapps>14</fullapps>
+<subs>8</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Barcelona</team>
+<period>2005 - 2006</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Barcelona</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Manchester City</team>
+<period>2009 - 2010</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Manchester City</team>
+<period>2009 - 2010</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

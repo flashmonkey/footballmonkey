@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="5065"><name>Lee Fitzpatrick</name>
+
+<details>
+<country>ENG</country>
+<born>31 October 1978</born>
+<birthplace>Manchester</birthplace>
+<weight>73 kg</weight>
+<height>1.78 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Lee had a mixed time for Hartlepool in the 2000-01 campaign. He began the season in fine style, scoring both goals in a great 2-0 win at Lincoln on the opening day but his form was subsequently a little patchy, and when Pool signed Mark Tinkler he was relegated to the subs' bench. He is a promising young midfield player who makes darting runs at opposition defences. Lee was surprisingly released in the summer. After a brief spell with Leigh RMI in the Conference, Lee joined Rossendale United.</description>
+
+<club_history>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1996-07-02">02-07-1996</date_joined>
+<date_left unformated="2000-01-27">27-01-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hartlepool United</club>
+<date_joined unformated="1999-09-17">17-09-1999</date_joined>
+<date_left unformated="1999-11-17">17-11-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Hartlepool United</club>
+<date_joined unformated="2000-01-27">27-01-2000</date_joined>
+<date_left unformated="2001-06-30">30-06-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Cambridge United</club>
+<date_joined unformated="2001-07-03">03-07-2001</date_joined>
+<date_left unformated="2001-07-31">31-07-2001</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Halifax Town</club>
+<date_joined unformated="2001-09-12">12-09-2001</date_joined>
+<date_left unformated="2001-09-19">19-09-2001</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Leigh RMI</club>
+<date_joined unformated="2001-09-28">28-09-2001</date_joined>
+<date_left unformated="2002-01-04">04-01-2002</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Hartlepool United</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Hartlepool United</team>
+<period>2000 - 2001</period>
+<fullapps>12</fullapps>
+<subs>11</subs>
+<goals>4</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Hartlepool United</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Leigh RMI</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="5323"><name>Martin Carruthers</name>
+
+<details>
+<country>ENG</country>
+<born>07 August 1972</born>
+<birthplace>Nottingham</birthplace>
+<weight>74 kg</weight>
+<height>1.80 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>After the fireworks of the previous season, Martin never found the same goal-scoring form for Southend United in the 2000-01 campaign and finally departed to Scunthorpe United for a cut-price fee on transfer deadline day.
+Iron manager Brian Laws hoped that his presence would help the team towards the Play-Offs but he only netted once for the Glanford Park club.
+Martin is a talented striker who works hard and has an excellent goalscoring record.
+After rejecting a new contract with Scunthorpe United, Martin joined Macclesfield Town in July 2003 in a two-year deal but was made available for transfer in July 2004.
+He joined Lincoln City in September 2004 with a contract to the end of the season.</description>
+
+<club_history>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="1990-07-04">04-07-1990</date_joined>
+<date_left unformated="1993-07-05">05-07-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hull City</club>
+<date_joined unformated="1992-10-31">31-10-1992</date_joined>
+<date_left unformated="1993-01-31">31-01-1993</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Stoke City</club>
+<date_joined unformated="1993-07-05">05-07-1993</date_joined>
+<date_left unformated="1996-11-18">18-11-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Peterborough United</club>
+<date_joined unformated="1996-11-18">18-11-1996</date_joined>
+<date_left unformated="1999-03-25">25-03-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>York City</club>
+<date_joined unformated="1999-01-29">29-01-1999</date_joined>
+<date_left unformated="1999-03-06">06-03-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Darlington</club>
+<date_joined unformated="1999-03-25">25-03-1999</date_joined>
+<date_left unformated="1999-09-17">17-09-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Southend United</club>
+<date_joined unformated="1999-09-17">17-09-1999</date_joined>
+<date_left unformated="2001-03-22">22-03-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Scunthorpe United</club>
+<date_joined unformated="2001-03-22">22-03-2001</date_joined>
+<date_left unformated="2003-06-30">30-06-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Macclesfield Town</club>
+<date_joined unformated="2003-07-01">01-07-2003</date_joined>
+<date_left unformated="2004-07-20">20-07-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Mansfield Town</club>
+<date_joined unformated="2004-07-05">05-07-2004</date_joined>
+<date_left unformated="2004-07-16">16-07-2004</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Boston United</club>
+<date_joined unformated="2004-07-20">20-07-2004</date_joined>
+<date_left unformated="2004-09-21">21-09-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Lincoln City</club>
+<date_joined unformated="2004-09-21">21-09-2004</date_joined>
+<date_left unformated="2005-06-30">30-06-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Cambridge United</club>
+<date_joined unformated="2005-01-28">28-01-2005</date_joined>
+<date_left unformated="2005-02-28">28-02-2005</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Grantham Town</club>
+<date_joined unformated="2005-08-01">01-08-2005</date_joined>
+<date_left unformated="2006-01-06">06-01-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Ilkeston Town</club>
+<date_joined unformated="2006-01-06">06-01-2006</date_joined>
+<date_left unformated="2008-06-30">30-06-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Arnold Town</club>
+<date_joined unformated="2008-07-24">24-07-2008</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>League Division One</competition>
+<team>Aston Villa</team>
+<period>1991 - 1992</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1991 - 1992</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1992 - 1993</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Southend United</team>
+<period>2000 - 2001</period>
+<fullapps>31</fullapps>
+<subs>1</subs>
+<goals>7</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Scunthorpe United</team>
+<period>2000 - 2001</period>
+<fullapps>8</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Southend United</team>
+<period>2000 - 2001</period>
+<fullapps>4</fullapps>
+<subs>1</subs>
+<goals>3</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Southend United</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Southend United</team>
+<period>2000 - 2001</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Scunthorpe United</team>
+<period>2001 - 2002</period>
+<fullapps>30</fullapps>
+<subs>3</subs>
+<goals>13</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Scunthorpe United</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Scunthorpe United</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Scunthorpe United</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Scunthorpe United</team>
+<period>2002 - 2003</period>
+<fullapps>42</fullapps>
+<subs>3</subs>
+<goals>20</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Scunthorpe United</team>
+<period>2002 - 2003</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Scunthorpe United</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Scunthorpe United</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3 Play-Offs</competition>
+<team>Scunthorpe United</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Macclesfield Town</team>
+<period>2003 - 2004</period>
+<fullapps>30</fullapps>
+<subs>9</subs>
+<goals>8</goals>
+
+<yellowcards>6</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Macclesfield Town</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Macclesfield Town</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Macclesfield Town</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Cambridge United</team>
+<period>2004 - 2005</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Lincoln City</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Lincoln City</team>
+<period>2004 - 2005</period>
+<fullapps>7</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Two</competition>
+<team>Boston United</team>
+<period>2004 - 2005</period>
+<fullapps>4</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Boston United</team>
+<period>2004 - 2005</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

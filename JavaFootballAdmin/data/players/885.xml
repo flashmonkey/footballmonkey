@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="885"><name>Paul Browne</name>
+
+<details>
+<country>SCO</country>
+<born>17 February 1975</born>
+<birthplace>Glasgow</birthplace>
+<weight>79 kg</weight>
+<height>1.88 m</height>
+<position>Defender</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="1993-08-01">01-08-1993</date_joined>
+<date_left unformated="1996-07-03">03-07-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Raith Rovers</club>
+<date_joined unformated="1996-07-03">03-07-1996</date_joined>
+<date_left unformated="2002-06-30">30-06-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Cardiff City</club>
+<date_joined unformated="2001-01-30">30-01-2001</date_joined>
+<date_left unformated="2001-02-02">02-02-2001</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Arbroath</club>
+<date_joined unformated="2002-08-30">30-08-2002</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1995 - 1996</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish League Cup</competition>
+<team>Raith Rovers</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish League Cup</competition>
+<team>Raith Rovers</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish Division 1</competition>
+<team>Raith Rovers</team>
+<period>2000 - 2001</period>
+<fullapps>32</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Bells Challenge Cup</competition>
+<team>Raith Rovers</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish FA Cup</competition>
+<team>Raith Rovers</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish FA Cup</competition>
+<team>Raith Rovers</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Bells Challenge Cup</competition>
+<team>Raith Rovers</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish Division 1</competition>
+<team>Raith Rovers</team>
+<period>2001 - 2002</period>
+<fullapps>34</fullapps>
+<subs>1</subs>
+<goals>0</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Scottish League Cup</competition>
+<team>Raith Rovers</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Scottish Division 1</competition>
+<team>Arbroath</team>
+<period>2002 - 2003</period>
+<fullapps>12</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

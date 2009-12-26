@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="3912"><name>Steve Banks</name>
+
+<details>
+<country>ENG</country>
+<born>09 February 1972</born>
+<birthplace>Hillingdon</birthplace>
+<weight>84 kg</weight>
+<height>1.83 m</height>
+<position>Goalkeeper</position>
+
+</details>
+
+<description>Having spent the majority of the 1999-2000 season as Jussi Jaaskelainen's deputy, Steve was looking to get a sustained run in goal for Bolton Wanderers in 2000-01. When his rival damaged a cruciate ligament early in the New Year, he was given his chance, but although generally confident boss Sam Allardyce eventually opted to bring in Matt Clarke on loan and Steve returned to his place on the subs' bench. 
+ An experienced 'keeper, Steve joined Wimbledon in August 2003 on non-contract terms before returning to Gillingham in March 2004 with a contract to June 2006.</description>
+
+<club_history>
+
+<period>
+<club>West Ham United</club>
+<date_joined unformated="1990-03-24">24-03-1990</date_joined>
+<date_left unformated="1993-03-25">25-03-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Gillingham</club>
+<date_joined unformated="1993-03-25">25-03-1993</date_joined>
+<date_left unformated="1995-08-18">18-08-1995</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackpool</club>
+<date_joined unformated="1995-08-18">18-08-1995</date_joined>
+<date_left unformated="1999-03-25">25-03-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="1999-03-25">25-03-1999</date_joined>
+<date_left unformated="2003-02-17">17-02-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Rochdale</club>
+<date_joined unformated="2001-12-14">14-12-2001</date_joined>
+<date_left unformated="2002-03-14">14-03-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bradford City</club>
+<date_joined unformated="2002-08-28">28-08-2002</date_joined>
+<date_left unformated="2002-11-15">15-11-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Stoke City</club>
+<date_joined unformated="2002-12-06">06-12-2002</date_joined>
+<date_left unformated="2003-02-16">16-02-2003</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Stoke City</club>
+<date_joined unformated="2003-02-17">17-02-2003</date_joined>
+<date_left unformated="2003-06-30">30-06-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Macclesfield Town</club>
+<date_joined unformated="2003-07-21">21-07-2003</date_joined>
+<date_left unformated="2003-08-01">01-08-2003</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Wimbledon</club>
+<date_joined unformated="2003-08-08">08-08-2003</date_joined>
+<date_left unformated="2004-03-12">12-03-2004</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Gillingham</club>
+<date_joined unformated="2004-03-12">12-03-2004</date_joined>
+<date_left unformated="2005-08-10">10-08-2005</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Heart of Midlothian</club>
+<date_joined unformated="2005-08-10">10-08-2005</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Blackpool</team>
+<period>1997 - 1998</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Bolton Wanderers</team>
+<period>2000 - 2001</period>
+<fullapps>8</fullapps>
+<subs>1</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>13</goalsconceded>
+<yellowcards>2</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>5</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Rochdale</team>
+<period>2001 - 2002</period>
+<fullapps>15</fullapps>
+<subs>0</subs>
+
+<cleansheets>4</cleansheets>
+<goalsconceded>19</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Stoke City</team>
+<period>2002 - 2003</period>
+<fullapps>14</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>24</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Bradford City</team>
+<period>2002 - 2003</period>
+<fullapps>8</fullapps>
+<subs>1</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>16</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Stoke City</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Gillingham</team>
+<period>2003 - 2004</period>
+<fullapps>13</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>20</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Wimbledon</team>
+<period>2003 - 2004</period>
+<fullapps>24</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>48</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Wimbledon</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Wimbledon</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>2</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Gillingham</team>
+<period>2004 - 2005</period>
+<fullapps>26</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>37</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Gillingham</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

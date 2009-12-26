@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="38267"><name>Peter Markstedt</name>
+
+<details>
+<country>SWE</country>
+<born>11 January 1972</born>
+<birthplace>Vasteras</birthplace>
+<weight>87 kg</weight>
+<height>1.80 m</height>
+<position>Central defender</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Vasteras</club>
+<date_joined unformated="1996-07-01">01-07-1996</date_joined>
+<date_left unformated="1997-11-21">21-11-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Barnsley</club>
+<date_joined unformated="1997-11-21">21-11-1997</date_joined>
+<date_left unformated="1999-08-04">04-08-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Helsingborgs</club>
+<date_joined unformated="1999-08-04">04-08-1999</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Barnsley</team>
+<period>1997 - 1998</period>
+<fullapps>6</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Barnsley</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="3844"><name>Matty Holmes</name>
+
+<details>
+<country>ENG</country>
+<born>01 August 1969</born>
+<birthplace>Luton</birthplace>
+<weight>70 kg</weight>
+<height>1.70 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Matty was promoted to Dorchester's player / coach in June 2001.</description>
+
+<club_history>
+
+<period>
+<club>AFC Bournemouth</club>
+<date_joined unformated="1988-08-22">22-08-1988</date_joined>
+<date_left unformated="1992-08-19">19-08-1992</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Cardiff City</club>
+<date_joined unformated="1989-03-23">23-03-1989</date_joined>
+<date_left unformated="1989-03-26">26-03-1989</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>West Ham United</club>
+<date_joined unformated="1992-08-19">19-08-1992</date_joined>
+<date_left unformated="1995-08-15">15-08-1995</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1995-08-15">15-08-1995</date_joined>
+<date_left unformated="1997-07-24">24-07-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Charlton Athletic</club>
+<date_joined unformated="1997-07-24">24-07-1997</date_joined>
+<date_left unformated="2000-04-17">17-04-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Dorchester Town</club>
+<date_joined unformated="2000-07-01">01-07-2000</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>League Division 1</competition>
+<team>West Ham United</team>
+<period>1992 - 1993</period>
+<fullapps>6</fullapps>
+<subs>12</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Ham United</team>
+<period>1992 - 1993</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>West Ham United</team>
+<period>1993 - 1994</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Ham United</team>
+<period>1993 - 1994</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>West Ham United</team>
+<period>1993 - 1994</period>
+<fullapps>33</fullapps>
+<subs>1</subs>
+<goals>3</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>West Ham United</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Ham United</team>
+<period>1994 - 1995</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>West Ham United</team>
+<period>1994 - 1995</period>
+<fullapps>24</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1995 - 1996</period>
+<fullapps>8</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Charlton Athletic</team>
+<period>1998 - 1999</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Dorchester Town</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

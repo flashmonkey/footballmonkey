@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="7919"><name>Danny Shittu</name>
+
+<details>
+<country>NGA</country>
+<born>02 September 1980</born>
+<birthplace>Lagos</birthplace>
+<weight>102 kg</weight>
+<height>1.91 m</height>
+<position>Defender/Centre back</position>
+
+</details>
+
+<description>Danny is a powerfully built central defender who was loaned to Blackpool for the final months of 2000-01 to provide him with first-team action.
+He scored with a header on his Football League debut against Lincoln City and produced some impressive displays for the Bloomfield Road club.
+He was called up by Nigeria for their friendly game against Libya in April but turned down the opportunity, preferring to help the Tangerines in their promotion campaign, and went on to play a vital role right up to the Play-Off semi-finals.
+Unfortunately, his loan period expired before the Final and he had to watch from the sidelines as his team-mates defeated Leyton Orient to win promotion to the Second Division.
+Danny's contract at Queens Park Rangers was extended up to June 2006 in November 2003.
+He joined Watford in August 2006 with a three-year contract.
+Danny joined Bolton Wanderers in August 2008 with a three-year contract.</description>
+
+<club_history>
+
+<period>
+<club>Carshalton Athletic</club>
+<date_joined unformated="1999-07-01">01-07-1999</date_joined>
+<date_left unformated="1999-09-15">15-09-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Charlton Athletic</club>
+<date_joined unformated="1999-09-15">15-09-1999</date_joined>
+<date_left unformated="2002-01-07">07-01-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackpool</club>
+<date_joined unformated="2001-02-15">15-02-2001</date_joined>
+<date_left unformated="2001-05-17">17-05-2001</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Queens Park Rangers</club>
+<date_joined unformated="2001-10-23">23-10-2001</date_joined>
+<date_left unformated="2002-01-06">06-01-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Queens Park Rangers</club>
+<date_joined unformated="2002-01-07">07-01-2002</date_joined>
+<date_left unformated="2006-08-06">06-08-2006</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Watford</club>
+<date_joined unformated="2006-08-06">06-08-2006</date_joined>
+<date_left unformated="2008-08-06">06-08-2008</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="2008-08-06">06-08-2008</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>League Division 3 Play-Offs</competition>
+<team>Blackpool</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Blackpool</team>
+<period>2000 - 2001</period>
+<fullapps>15</fullapps>
+<subs>2</subs>
+<goals>2</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Nigeria</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Queens Park Rangers</team>
+<period>2001 - 2002</period>
+<fullapps>27</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>2</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Queens Park Rangers</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Queens Park Rangers</team>
+<period>2002 - 2003</period>
+<fullapps>43</fullapps>
+<subs>0</subs>
+<goals>7</goals>
+
+<yellowcards>9</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Queens Park Rangers</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2 Play-Offs</competition>
+<team>Queens Park Rangers</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Queens Park Rangers</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Queens Park Rangers</team>
+<period>2003 - 2004</period>
+<fullapps>18</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Queens Park Rangers</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Queens Park Rangers</team>
+<period>2004 - 2005</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Queens Park Rangers</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Queens Park Rangers</team>
+<period>2004 - 2005</period>
+<fullapps>33</fullapps>
+<subs>1</subs>
+<goals>4</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Queens Park Rangers</team>
+<period>2005 - 2006</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Queens Park Rangers</team>
+<period>2005 - 2006</period>
+<fullapps>45</fullapps>
+<subs>0</subs>
+<goals>4</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Watford</team>
+<period>2006 - 2007</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Watford</team>
+<period>2006 - 2007</period>
+<fullapps>27</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Nigeria</team>
+<period>2006 - 2007</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Watford</team>
+<period>2006 - 2007</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship Play-Offs</competition>
+<team>Watford</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Watford</team>
+<period>2007 - 2008</period>
+<fullapps>37</fullapps>
+<subs>2</subs>
+<goals>7</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Nigeria</team>
+<period>2007 - 2008</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Watford</team>
+<period>2007 - 2008</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Nigeria</team>
+<period>2007 - 2008</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2008 - 2009</period>
+<fullapps>9</fullapps>
+<subs>1</subs>
+<goals>0</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2008 - 2009</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

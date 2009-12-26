@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="764"><name>Vince Bartram</name>
+
+<details>
+<country>ENG</country>
+<born>07 August 1968</born>
+<birthplace>Birmingham</birthplace>
+<weight>84 kg</weight>
+<height>1.88 m</height>
+<position>Goalkeeper</position>
+
+</details>
+
+<description>Signed as cover for David Seaman, Vince enjoyed greater success at Gillingham.
+Although he took a little time to find his best form, Vince appeared in every first-team game for Gillingham in 2000-01. He became the first goalkeeper to win the Nationwide 'Save of the Month' award twice in the same season when he was selected in both August and September and went on to make his 150th first-team appearance for the Gills. He was outstanding in the latter stages of the campaign when his agility and reflex saves made a significant contribution in helping the club retain their First Division status. 
+ Vince retired due to a wrist injury in February 2004.</description>
+
+<club_history>
+
+<period>
+<club>Wolverhampton Wanderers</club>
+<date_joined unformated="1985-08-17">17-08-1985</date_joined>
+<date_left unformated="1991-07-24">24-07-1991</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackpool</club>
+<date_joined unformated="1989-10-27">27-10-1989</date_joined>
+<date_left unformated="1990-01-23">23-01-1990</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>West Bromwich Albion</club>
+<date_joined unformated="1991-02-20">20-02-1991</date_joined>
+<date_left unformated="1991-03-19">19-03-1991</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>AFC Bournemouth</club>
+<date_joined unformated="1991-07-24">24-07-1991</date_joined>
+<date_left unformated="1994-08-10">10-08-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="1994-08-10">10-08-1994</date_joined>
+<date_left unformated="1998-03-20">20-03-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Huddersfield Town</club>
+<date_joined unformated="1997-10-17">17-10-1997</date_joined>
+<date_left unformated="1997-12-13">13-12-1997</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Gillingham</club>
+<date_joined unformated="1998-03-20">20-03-1998</date_joined>
+<date_left unformated="2004-02-02">02-02-2004</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Arsenal</team>
+<period>1994 - 1995</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+
+<cleansheets/>
+<goalsconceded/>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1994 - 1995</period>
+<fullapps>11</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>18</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Gillingham</team>
+<period>1999 - 2000</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>7</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Gillingham</team>
+<period>2000 - 2001</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+
+<cleansheets>1</cleansheets>
+<goalsconceded>8</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Gillingham</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>6</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Gillingham</team>
+<period>2000 - 2001</period>
+<fullapps>46</fullapps>
+<subs>0</subs>
+
+<cleansheets>6</cleansheets>
+<goalsconceded>64</goalsconceded>
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Gillingham</team>
+<period>2001 - 2002</period>
+<fullapps>36</fullapps>
+<subs>0</subs>
+
+<cleansheets>7</cleansheets>
+<goalsconceded>54</goalsconceded>
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Gillingham</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>4</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Gillingham</team>
+<period>2001 - 2002</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+
+<cleansheets>2</cleansheets>
+<goalsconceded>5</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Gillingham</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>1</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Gillingham</team>
+<period>2002 - 2003</period>
+<fullapps>7</fullapps>
+<subs>1</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>16</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Gillingham</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+
+<cleansheets>0</cleansheets>
+<goalsconceded>3</goalsconceded>
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

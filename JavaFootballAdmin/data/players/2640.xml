@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="2640"><name>Ashley Ward</name>
+
+<details>
+<country>ENG</country>
+<born>24 November 1970</born>
+<birthplace>Manchester</birthplace>
+<weight>87 kg</weight>
+<height>1.88 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>Having joined Bradford City during the close season, Ashley started the first four matches of the 2000-01 campaign on the substitutes' bench before breaking into the starting line-up. He was a regular choice for the next three months until a thigh strain forced him to miss five matches. Although he showed tremendous work rate he found goals hard to come by, and it was not until November that he found the net, hitting a double in the Worthington Cup game against Newcastle. His first Premiership goal was even longer in coming - not until March in fact - but even so the Bantams' fans were won over by his non-stop running and enthusiasm. 
+ Ashley's contract with Bradford City was cancelled by mutual consent in August 2003. He was quickly snapped up by Sheffield United in a two-year deal. </description>
+
+<club_history>
+
+<period>
+<club>Manchester City</club>
+<date_joined unformated="1989-08-05">05-08-1989</date_joined>
+<date_left unformated="1991-07-30">30-07-1991</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Wrexham</club>
+<date_joined unformated="1991-01-10">10-01-1991</date_joined>
+<date_left unformated="1991-02-09">09-02-1991</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Leicester City</club>
+<date_joined unformated="1991-07-30">30-07-1991</date_joined>
+<date_left unformated="1992-12-01">01-12-1992</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackpool</club>
+<date_joined unformated="1992-11-21">21-11-1992</date_joined>
+<date_left unformated="1992-11-29">29-11-1992</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Crewe Alexandra</club>
+<date_joined unformated="1992-12-01">01-12-1992</date_joined>
+<date_left unformated="1994-12-08">08-12-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Norwich City</club>
+<date_joined unformated="1994-12-08">08-12-1994</date_joined>
+<date_left unformated="1996-03-19">19-03-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Derby County</club>
+<date_joined unformated="1996-03-19">19-03-1996</date_joined>
+<date_left unformated="1997-09-05">05-09-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Barnsley</club>
+<date_joined unformated="1997-09-05">05-09-1997</date_joined>
+<date_left unformated="1998-12-31">31-12-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1998-12-31">31-12-1998</date_joined>
+<date_left unformated="2000-08-18">18-08-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bradford City</club>
+<date_joined unformated="2000-08-18">18-08-2000</date_joined>
+<date_left unformated="2003-08-06">06-08-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Sheffield United</club>
+<date_joined unformated="2003-08-07">07-08-2003</date_joined>
+<date_left unformated="2005-06-30">30-06-2005</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>League Division Two</competition>
+<team>Leicester City</team>
+<period>1991 - 1992</period>
+<fullapps>2</fullapps>
+<subs>8</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Rumbelows League Cup</competition>
+<team>Leicester City</team>
+<period>1991 - 1992</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Leicester City</team>
+<period>1991 - 1992</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Norwich City</team>
+<period>1994 - 1995</period>
+<fullapps>25</fullapps>
+<subs>0</subs>
+<goals>8</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Derby County</team>
+<period>1995 - 1996</period>
+<fullapps>5</fullapps>
+<subs>2</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Derby County</team>
+<period>1996 - 1997</period>
+<fullapps>25</fullapps>
+<subs>5</subs>
+<goals>8</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Derby County</team>
+<period>1996 - 1997</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Derby County</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Barnsley</team>
+<period>1997 - 1998</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Derby County</team>
+<period>1997 - 1998</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Barnsley</team>
+<period>1997 - 1998</period>
+<fullapps>28</fullapps>
+<subs>1</subs>
+<goals>8</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Barnsley</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1998 - 1999</period>
+<fullapps>17</fullapps>
+<subs>0</subs>
+<goals>5</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bradford City</team>
+<period>2000 - 2001</period>
+<fullapps>24</fullapps>
+<subs>9</subs>
+<goals>4</goals>
+
+<yellowcards>8</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bradford City</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bradford City</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Bradford City</team>
+<period>2001 - 2002</period>
+<fullapps>27</fullapps>
+<subs>0</subs>
+<goals>10</goals>
+
+<yellowcards>11</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bradford City</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bradford City</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Bradford City</team>
+<period>2002 - 2003</period>
+<fullapps>24</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards>8</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Sheffield United</team>
+<period>2003 - 2004</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Sheffield United</team>
+<period>2003 - 2004</period>
+<fullapps>20</fullapps>
+<subs>3</subs>
+<goals>4</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Sheffield United</team>
+<period>2003 - 2004</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Carling Cup</competition>
+<team>Sheffield United</team>
+<period>2004 - 2005</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Championship</competition>
+<team>Sheffield United</team>
+<period>2004 - 2005</period>
+<fullapps>5</fullapps>
+<subs>5</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

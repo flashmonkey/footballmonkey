@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="35"><name>Benito Carbone</name>
+
+<details>
+<country>ITA</country>
+<born>14 August 1971</born>
+<birthplace>Bagnara</birthplace>
+<weight>67 kg</weight>
+<height>1.68 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>Beni joined Bradford City on a four-year contract in the close season of 2000-2001and was an ever-present in the Bantams' team until he was dropped by boss Jim Jeffries in mid-January and placed on the transfer list. He turned down a proposed move to Middlesbrough and announced his intention of fighting to win back his place in the line-up. He eventually returned after missing just five games but proved unable to prevent the club slipping out of the Premiership. An immense talent, he is one of the most exciting players to appear at Valley Parade in City's recent history and his skills were much appreciated by the club's supporters. After ten matches in Division One Bradford City to ease their wage bill loaned him to Derby County In October 2001. Derby did not sign him on a permanant deal and he returned to Bradford after his loan expired. After one more appearance for Bradford City he joined Middlesbrough on loan after they failed to attract Dwight Yorke to the club. He stayed until the end of the season but Middlesbrough did not make the deal a permanent one and he returned to Bradford City. He like most of the other players were released from their contracts when the club was placed into administration in the summer of 2002, after the TV deal had collapsed. He was owed over � 3 million in back wages by the club and his acceptance of a lower amount of compensation allowed Bradford City to survive. He had been training with Italian club Como and joined them in the summer of 2002 on a two year contract.</description>
+
+<club_history>
+
+<period>
+<club>Torino</club>
+<date_joined unformated="1988-00-00">30-11-1987</date_joined>
+<date_left unformated="1990-00-00">30-11-1989</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Reggina</club>
+<date_joined unformated="1990-00-00">30-11-1989</date_joined>
+<date_left unformated="1991-00-00">30-11-1990</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Casertana</club>
+<date_joined unformated="1991-00-00">30-11-1990</date_joined>
+<date_left unformated="1992-00-00">30-11-1991</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Ascoli</club>
+<date_joined unformated="1992-00-00">30-11-1991</date_joined>
+<date_left unformated="1993-00-00">30-11-1992</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Torino</club>
+<date_joined unformated="1993-00-00">30-11-1992</date_joined>
+<date_left unformated="1994-00-00">30-11-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Napoli</club>
+<date_joined unformated="1994-00-00">30-11-1993</date_joined>
+<date_left unformated="1995-00-00">30-11-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Inter Milano</club>
+<date_joined unformated="1995-00-00">30-11-1994</date_joined>
+<date_left unformated="1996-10-18">18-10-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Sheffield Wednesday</club>
+<date_joined unformated="1996-10-18">18-10-1996</date_joined>
+<date_left unformated="1999-10-21">21-10-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Aston Villa</club>
+<date_joined unformated="1999-10-21">21-10-1999</date_joined>
+<date_left unformated="2000-08-09">09-08-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bradford City</club>
+<date_joined unformated="2000-08-09">09-08-2000</date_joined>
+<date_left unformated="2002-06-30">30-06-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Derby County</club>
+<date_joined unformated="2001-10-18">18-10-2001</date_joined>
+<date_left unformated="2002-01-10">10-01-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Middlesbrough</club>
+<date_joined unformated="2002-02-07">07-02-2002</date_joined>
+<date_left unformated="2002-05-12">12-05-2002</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Como</club>
+<date_joined unformated="2002-07-27">27-07-2002</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Under 18</competition>
+<team>Italy</team>
+<period>1988 - 1989</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 18</competition>
+<team>Italy</team>
+<period>1989 - 1990</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>Italy</team>
+<period>1989 - 1990</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Italy</team>
+<period>1992 - 1993</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Under 21</competition>
+<team>Italy</team>
+<period>1993 - 1994</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Under 21</competition>
+<team>Italy</team>
+<period>1993 - 1994</period>
+<fullapps>5</fullapps>
+<subs>0</subs>
+<goals>0</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Sheffield Wednesday</team>
+<period>1996 - 1997</period>
+<fullapps>24</fullapps>
+<subs>1</subs>
+<goals>6</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Sheffield Wednesday</team>
+<period>1996 - 1997</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Sheffield Wednesday</team>
+<period>1997 - 1998</period>
+<fullapps>28</fullapps>
+<subs>5</subs>
+<goals>9</goals>
+
+<yellowcards>8</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Sheffield Wednesday</team>
+<period>1997 - 1998</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Sheffield Wednesday</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Sheffield Wednesday</team>
+<period>1998 - 1999</period>
+<fullapps>31</fullapps>
+<subs>0</subs>
+<goals>8</goals>
+
+<yellowcards>8</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Sheffield Wednesday</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Sheffield Wednesday</team>
+<period>1998 - 1999</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Sheffield Wednesday</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Sheffield Wednesday</team>
+<period>1999 - 2000</period>
+<fullapps>3</fullapps>
+<subs>4</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1999 - 2000</period>
+<fullapps>22</fullapps>
+<subs>2</subs>
+<goals>3</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1999 - 2000</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals>5</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bradford City</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bradford City</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bradford City</team>
+<period>2000 - 2001</period>
+<fullapps>29</fullapps>
+<subs>2</subs>
+<goals>5</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Derby County</team>
+<period>2001 - 2002</period>
+<fullapps>13</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>0</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Derby County</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bradford City</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Middlesbrough</team>
+<period>2001 - 2002</period>
+<fullapps>13</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Bradford City</team>
+<period>2001 - 2002</period>
+<fullapps>10</fullapps>
+<subs>1</subs>
+<goals>5</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Serie A</competition>
+<team>Como</team>
+<period>2002 - 2003</period>
+<fullapps>15</fullapps>
+<subs>7</subs>
+<goals>2</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Parma</team>
+<period>2003 - 2004</period>
+<fullapps>3</fullapps>
+<subs>1</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Serie A</competition>
+<team>Parma</team>
+<period>2003 - 2004</period>
+<fullapps>12</fullapps>
+<subs>6</subs>
+<goals>3</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

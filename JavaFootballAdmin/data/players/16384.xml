@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="16384"><name>Ballesta Vialcho Salva</name>
+
+<details>
+<country>ESP</country>
+<born>25 May 1975</born>
+<birthplace>Zaragoza</birthplace>
+<weight>79 kg</weight>
+<height>1.83 m</height>
+<position>Striker</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Valencia</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Valencia</team>
+<period>2001 - 2002</period>
+<fullapps>19</fullapps>
+<subs>3</subs>
+<goals>5</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>5</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Valencia</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Valencia</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Malaga</team>
+<period>2003 - 2004</period>
+<fullapps>34</fullapps>
+<subs>0</subs>
+<goals>19</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Primera Liga</competition>
+<team>Atletico Madrid</team>
+<period>2004 - 2005</period>
+<fullapps>16</fullapps>
+<subs>12</subs>
+<goals>7</goals>
+
+<yellowcards>5</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+</player_stats>
+
+</player>

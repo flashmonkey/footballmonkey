@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="10332"><name>Neil Davis</name>
+
+<details>
+<country>ENG</country>
+<born>15 August 1973</born>
+<birthplace>Bloxwich</birthplace>
+<weight>70 kg</weight>
+<height>1.73 m</height>
+<position>Striker</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Hednesford Town</club>
+<date_joined unformated="1998-11-01">01-11-1998</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Aston Villa</team>
+<period>1995 - 1996</period>
+<fullapps>0</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Aston Villa</team>
+<period>1995 - 1996</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Hednesford Town</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

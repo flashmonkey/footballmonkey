@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="11300"><name>Neil Thompson</name>
+
+<details>
+<country>ENG</country>
+<born>02 October 1963</born>
+<birthplace>Beverley</birthplace>
+<weight>86 kg</weight>
+<height>1.78 m</height>
+<position>Defender/Left back</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Nottingham Forest</club>
+<date_joined unformated="">30-12-1999</date_joined>
+<date_left unformated="1981-11-28">28-11-1981</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hull City</club>
+<date_joined unformated="1981-11-28">28-11-1981</date_joined>
+<date_left unformated="1983-06-30">30-06-1983</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Scarborough</club>
+<date_joined unformated="1983-08-01">01-08-1983</date_joined>
+<date_left unformated="1989-06-09">09-06-1989</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Ipswich Town</club>
+<date_joined unformated="1989-06-09">09-06-1989</date_joined>
+<date_left unformated="1996-06-14">14-06-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Barnsley</club>
+<date_joined unformated="1996-06-14">14-06-1996</date_joined>
+<date_left unformated="1998-03-02">02-03-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Oldham Athletic</club>
+<date_joined unformated="1997-12-24">24-12-1997</date_joined>
+<date_left unformated="1998-02-24">24-02-1998</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>York City</club>
+<date_joined unformated="1998-03-02">02-03-1998</date_joined>
+<date_left unformated="2000-02-09">09-02-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Scarborough</club>
+<date_joined unformated="2000-04-07">07-04-2000</date_joined>
+<date_left unformated="2001-09-21">21-09-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Boston United</club>
+<date_joined unformated="2001-11-09">09-11-2001</date_joined>
+<date_left unformated="2004-02-13">13-02-2004</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Ipswich Town</team>
+<period>1992 - 1993</period>
+<fullapps>31</fullapps>
+<subs>0</subs>
+<goals>4</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Ipswich Town</team>
+<period>1993 - 1994</period>
+<fullapps>32</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Ipswich Town</team>
+<period>1994 - 1995</period>
+<fullapps>11</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Barnsley</team>
+<period>1997 - 1998</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Barnsley</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Scarborough</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Boston United</team>
+<period>2002 - 2003</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Boston United</team>
+<period>2002 - 2003</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

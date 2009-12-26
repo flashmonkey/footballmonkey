@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="30687"><name>Peter Shirtliff</name>
+
+<details>
+<country>ENG</country>
+<born>06 April 1961</born>
+<birthplace>Hoyland</birthplace>
+<weight>84 kg</weight>
+<height>1.83 m</height>
+<position>Central defender</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Sheffield Wednesday</club>
+<date_joined unformated="1978-10-01">01-10-1978</date_joined>
+<date_left unformated="1986-07-01">01-07-1986</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Charlton Athletic</club>
+<date_joined unformated="1986-07-01">01-07-1986</date_joined>
+<date_left unformated="1989-07-01">01-07-1989</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Sheffield Wednesday</club>
+<date_joined unformated="1989-07-01">01-07-1989</date_joined>
+<date_left unformated="1993-08-01">01-08-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Wolverhampton Wanderers</club>
+<date_joined unformated="1993-08-01">01-08-1993</date_joined>
+<date_left unformated="1995-08-01">01-08-1995</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Sheffield Wednesday</team>
+<period>1992 - 1993</period>
+<fullapps>20</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Barnsley</team>
+<period>1997 - 1998</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

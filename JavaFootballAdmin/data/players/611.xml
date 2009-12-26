@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="611"><name>Tore Pedersen</name>
+
+<details>
+<country>NOR</country>
+<born>29 September 1969</born>
+<birthplace>Fredrikstad</birthplace>
+<weight>79 kg</weight>
+<height>1.83 m</height>
+<position>Defender/Centre back</position>
+
+</details>
+
+<description/>
+
+<club_history>
+
+<period>
+<club>Selbak</club>
+<date_joined unformated="1987-00-00">30-11-1986</date_joined>
+<date_left unformated="1988-00-00">30-11-1987</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Lillestrom</club>
+<date_joined unformated="1988-00-00">30-11-1987</date_joined>
+<date_left unformated="1989-00-00">30-11-1988</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Fredrikstad</club>
+<date_joined unformated="1989-00-00">30-11-1988</date_joined>
+<date_left unformated="1990-00-00">30-11-1989</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>IFK Goteborg</club>
+<date_joined unformated="1990-00-00">30-11-1989</date_joined>
+<date_left unformated="1993-00-00">30-11-1992</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>SK Brann Bergen</club>
+<date_joined unformated="1993-00-00">30-11-1992</date_joined>
+<date_left unformated="1993-10-30">30-10-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Oldham Athletic</club>
+<date_joined unformated="1993-11-30">30-11-1993</date_joined>
+<date_left unformated="1994-04-19">19-04-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>SK Brann Bergen</club>
+<date_joined unformated="1994-04-19">19-04-1994</date_joined>
+<date_left unformated="1994-07-01">01-07-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Sanfrecce Hiroshima</club>
+<date_joined unformated="1994-07-01">01-07-1994</date_joined>
+<date_left unformated="1995-00-00">30-11-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>St Pauli</club>
+<date_joined unformated="1995-00-00">30-11-1994</date_joined>
+<date_left unformated="1997-09-15">15-09-1997</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1997-09-15">15-09-1997</date_joined>
+<date_left unformated="1998-10-29">29-10-1998</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Eintracht Frankfurt</club>
+<date_joined unformated="1998-10-29">29-10-1998</date_joined>
+<date_left unformated="1999-07-01">01-07-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Wimbledon</club>
+<date_joined unformated="1999-07-01">01-07-1999</date_joined>
+<date_left unformated="2001-06-30">30-06-2001</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Oldham Athletic</team>
+<period>1993 - 1994</period>
+<fullapps>7</fullapps>
+<subs>3</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Blackburn Rovers</team>
+<period>1997 - 1998</period>
+<fullapps>3</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Blackburn Rovers</team>
+<period>1997 - 1998</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Wimbledon</team>
+<period>1999 - 2000</period>
+<fullapps>6</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

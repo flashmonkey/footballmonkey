@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="2374"><name>Scott Sellars</name>
+
+<details>
+<country>ENG</country>
+<born>27 November 1965</born>
+<birthplace>Sheffield</birthplace>
+<weight>64 kg</weight>
+<height>1.73 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>Signed from Leeds United to replace Kevin Sheedy on Newcastle�s left flank in Kevin Keegan�s teams� run-in to promotion to the Premiership. Having helped the Toon settle in to the top flight, Scott suffered a terrible cartilage injury and was subsequently replaced by David Ginola. 
+This skilful midfielder started the early part of the 2000-01 season on the substitutes' bench for Huddersfield, often called upon late in the game to add extra fuel to the midfield fires. With his bright and inventive style of play he was able to conjure up that vital tackle or pass to unlock opposition defences. Scott became a regular in the side in late October, before a sending off and then injury put him on the sidelines. Still considered for first-team duties when fully fit, the experienced midfielder turned down a loan deal to Hartlepool before deadline day and in mid-April moved to Denmark to join Aarhus on a free transfer. 
+ Scott returned to English football in March 2002 when he joined Mansfield Town on a short-term contract and helped guide the Stags to promotion to Division Two. He agreed a further deal in the close season that keeps him at Field Mill until Christmas 2002.</description>
+
+<club_history>
+
+<period>
+<club>Leeds United</club>
+<date_joined unformated="1983-07-25">25-07-1983</date_joined>
+<date_left unformated="1986-07-28">28-07-1986</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Blackburn Rovers</club>
+<date_joined unformated="1986-07-28">28-07-1986</date_joined>
+<date_left unformated="1992-07-01">01-07-1992</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Leeds United</club>
+<date_joined unformated="1992-07-01">01-07-1992</date_joined>
+<date_left unformated="1993-03-09">09-03-1993</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Newcastle United</club>
+<date_joined unformated="1993-03-09">09-03-1993</date_joined>
+<date_left unformated="1995-12-07">07-12-1995</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="1995-12-07">07-12-1995</date_joined>
+<date_left unformated="1999-07-30">30-07-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Huddersfield Town</club>
+<date_joined unformated="1999-07-30">30-07-1999</date_joined>
+<date_left unformated="2001-04-18">18-04-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Aarhus GF</club>
+<date_joined unformated="2001-04-18">18-04-2001</date_joined>
+<date_left unformated="2001-12-10">10-12-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Port Vale</club>
+<date_joined unformated="2002-03-01">01-03-2002</date_joined>
+<date_left unformated="2002-03-08">08-03-2002</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Mansfield Town</club>
+<date_joined unformated="2002-03-22">22-03-2002</date_joined>
+<date_left unformated="2003-06-30">30-06-2003</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Kettering Town</club>
+<date_joined unformated="2002-07-08">08-07-2002</date_joined>
+<date_left unformated="2002-07-22">22-07-2002</date_left>
+<trialist>T</trialist>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Premier League</competition>
+<team>Leeds United</team>
+<period>1992 - 1993</period>
+<fullapps>6</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Newcastle United</team>
+<period>1992 - 1993</period>
+<fullapps>13</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Newcastle United</team>
+<period>1993 - 1994</period>
+<fullapps>29</fullapps>
+<subs>1</subs>
+<goals>4</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Newcastle United</team>
+<period>1993 - 1994</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Newcastle United</team>
+<period>1993 - 1994</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Newcastle United</team>
+<period>1994 - 1995</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Newcastle United</team>
+<period>1994 - 1995</period>
+<fullapps>12</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Newcastle United</team>
+<period>1994 - 1995</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Newcastle United</team>
+<period>1995 - 1996</period>
+<fullapps>2</fullapps>
+<subs>4</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>1995 - 1996</period>
+<fullapps>22</fullapps>
+<subs>0</subs>
+<goals>3</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Newcastle United</team>
+<period>1995 - 1996</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>1997 - 1998</period>
+<fullapps>22</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards>7</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Bolton Wanderers</team>
+<period>1997 - 1998</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>1998 - 1999</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Huddersfield Town</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Huddersfield Town</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Huddersfield Town</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Huddersfield Town</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Huddersfield Town</team>
+<period>2000 - 2001</period>
+<fullapps>6</fullapps>
+<subs>8</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Mansfield Town</team>
+<period>2001 - 2002</period>
+<fullapps>5</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>League Division 2</competition>
+<team>Mansfield Town</team>
+<period>2002 - 2003</period>
+<fullapps>12</fullapps>
+<subs>2</subs>
+<goals>2</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+</player_stats>
+
+</player>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="1395"><name>Bo Hansen</name>
+
+<details>
+<country>DEN</country>
+<born>16 June 1972</born>
+<birthplace>Denmark</birthplace>
+<weight>74 kg</weight>
+<height>1.80 m</height>
+<position>Striker</position>
+
+</details>
+
+<description>Bo had a fantastic season for Bolton 
+Wanderers in 2000-01. Although he had 
+previously played as a centre forward, boss 
+Sam Allardyce saw his potential in other 
+areas and the hunch proved to be a 
+masterstroke. Featuring mainly on the wings 
+or just behind one or two other front-line 
+strikers he was a revelation. Quick and 
+skilful, with bags of pace and willing to 
+chase every ball he swiftly become a real 
+crowd favourite and will be aiming to retain 
+his place as a regular in the line-up in 
+2001-02.</description>
+
+<club_history>
+
+<period>
+<club>Brondby</club>
+<date_joined unformated="1994-00-00">30-11-1993</date_joined>
+<date_left unformated="1999-02-12">12-02-1999</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="1999-02-12">12-02-1999</date_joined>
+<date_left unformated="2002-08-26">26-08-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>FC Midtjylland</club>
+<date_joined unformated="2002-08-26">26-08-2002</date_joined>
+<date_left unformated="">30-12-1999</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>1999 - 2000</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1 Play-Offs</competition>
+<team>Bolton Wanderers</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Bolton Wanderers</team>
+<period>2000 - 2001</period>
+<fullapps>38</fullapps>
+<subs>3</subs>
+<goals>5</goals>
+
+<yellowcards>4</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Bolton Wanderers</team>
+<period>2001 - 2002</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>2001 - 2002</period>
+<fullapps>10</fullapps>
+<subs>7</subs>
+<goals>1</goals>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+</player_stats>
+
+</player>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="4257"><name>Richard Sneekes</name>
+
+<details>
+<country>NED</country>
+<born>30 October 1968</born>
+<birthplace>Amsterdam</birthplace>
+<weight>77 kg</weight>
+<height>1.80 m</height>
+<position>Midfielder</position>
+
+</details>
+
+<description>16 Youth and 2 U-21 appearances for Holland. Over 300 club appearances mainly for Albion. Richard was in and out of the West Bromwich Albion team in the early part of last season but took on a much greater responsibility after Derek McInnes was sidelined by injury and was rarely absent after that. Although not a great tackler he enjoyed battling it out in the centre of the park even though it meant that his scoring opportunities were severely restricted. A clean striker of the ball from distance, he was always involved in the Baggies' build-up play but generously allowed others to play a more attacking role. He was released in the summer and, following a brief spell at Stockport, Richard rejoined his former Baggies boss Brian Little at Hull City.</description>
+
+<club_history>
+
+<period>
+<club>Ajax</club>
+<date_joined unformated="1985-00-00">30-11-1984</date_joined>
+<date_left unformated="1988-00-00">30-11-1987</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Volendam</club>
+<date_joined unformated="1988-00-00">30-11-1987</date_joined>
+<date_left unformated="1989-00-00">30-11-1988</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Fortuna Sittard</club>
+<date_joined unformated="1989-00-00">30-11-1988</date_joined>
+<date_left unformated="1994-08-12">12-08-1994</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Locarno</club>
+<date_joined unformated="1993-00-00">30-11-1992</date_joined>
+<date_left unformated="1994-00-00">30-11-1993</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Bolton Wanderers</club>
+<date_joined unformated="1994-08-12">12-08-1994</date_joined>
+<date_left unformated="1996-03-11">11-03-1996</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>West Bromwich Albion</club>
+<date_joined unformated="1996-03-11">11-03-1996</date_joined>
+<date_left unformated="2001-06-30">30-06-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Stockport County</club>
+<date_joined unformated="2001-09-03">03-09-2001</date_joined>
+<date_left unformated="2001-11-28">28-11-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Hull City</club>
+<date_joined unformated="2001-11-28">28-11-2001</date_joined>
+<date_left unformated="2002-05-21">21-05-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Herfolge</club>
+<date_joined unformated="2002-08-30">30-08-2002</date_joined>
+<date_left unformated="2002-10-31">31-10-2002</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Bolton Wanderers</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Bolton Wanderers</team>
+<period>1995 - 1996</period>
+<fullapps>14</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards>3</yellowcards>
+<redcards>1</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Bromwich Albion</team>
+<period>1996 - 1997</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Bromwich Albion</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>West Bromwich Albion</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1 Play-Offs</competition>
+<team>West Bromwich Albion</team>
+<period>2000 - 2001</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>West Bromwich Albion</team>
+<period>2000 - 2001</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>West Bromwich Albion</team>
+<period>2000 - 2001</period>
+<fullapps>39</fullapps>
+<subs>6</subs>
+<goals>2</goals>
+
+<yellowcards>2</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>West Bromwich Albion</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>3</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 1</competition>
+<team>Stockport County</team>
+<period>2001 - 2002</period>
+<fullapps>8</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Stockport County</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>League Division 3</competition>
+<team>Hull City</team>
+<period>2001 - 2002</period>
+<fullapps>17</fullapps>
+<subs>5</subs>
+<goals/>
+
+<yellowcards>5</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>LDV Vans Trophy</competition>
+<team>Hull City</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Hull City</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>

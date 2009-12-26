@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?><player id="4"><name>Christopher Wreh</name>
+
+<details>
+<country>LBR</country>
+<born>14 May 1975</born>
+<birthplace>Monrovia</birthplace>
+<weight>76 kg</weight>
+<height>1.73 m</height>
+<position>Forward</position>
+
+</details>
+
+<description>George Weah�s cousin joined Arsenal from Arsene Wenger�s old club, AS Monaco. A quick and confident striker.
+After spending a long period of the 1999- 2000 season away from Highbury, Chris featured only briefly for Arsenal last term. His only first-team outing came as a substitute in the Worthington Cup third round defeat by Ipswich Town in November before he was sold to top Saudi Arabian club Al-Hilal shortly before Christmas.</description>
+
+<club_history>
+
+<period>
+<club>AS Monaco</club>
+<date_joined unformated="1995-00-00">30-11-1994</date_joined>
+<date_left unformated="1996-00-00">30-11-1995</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Arsenal</club>
+<date_joined unformated="1997-08-14">14-08-1997</date_joined>
+<date_left unformated="2000-12-15">15-12-2000</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>AEK Athens</club>
+<date_joined unformated="1999-02-03">03-02-1999</date_joined>
+<date_left unformated="1999-08-01">01-08-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Birmingham City</club>
+<date_joined unformated="1999-10-21">21-10-1999</date_joined>
+<date_left unformated="1999-12-14">14-12-1999</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Den Bosch</club>
+<date_joined unformated="2000-02-01">01-02-2000</date_joined>
+<date_left unformated="2000-05-31">31-05-2000</date_left>
+<trialist>L</trialist>
+</period>
+
+<period>
+<club>Al-Hilal Al Saudi</club>
+<date_joined unformated="2000-12-15">15-12-2000</date_joined>
+<date_left unformated="2001-06-30">30-06-2001</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>AFC Bournemouth</club>
+<date_joined unformated="2001-08-28">28-08-2001</date_joined>
+<date_left unformated="2001-09-04">04-09-2001</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>St Mirren</club>
+<date_joined unformated="2001-09-17">17-09-2001</date_joined>
+<date_left unformated="2001-09-18">18-09-2001</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>St Mirren</club>
+<date_joined unformated="2001-09-19">19-09-2001</date_joined>
+<date_left unformated="2002-06-30">30-06-2002</date_left>
+<trialist/>
+</period>
+
+<period>
+<club>Northampton Town</club>
+<date_joined unformated="2003-02-10">10-02-2003</date_joined>
+<date_left unformated="2003-02-14">14-02-2003</date_left>
+<trialist>T</trialist>
+</period>
+
+<period>
+<club>Bishops Stortford</club>
+<date_joined unformated="2003-03-20">20-03-2003</date_joined>
+<date_left unformated="2003-06-30">30-06-2003</date_left>
+<trialist/>
+</period>
+
+</club_history>
+
+<player_stats>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Liberia</team>
+<period>1994 - 1995</period>
+<fullapps>5</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Liberia</team>
+<period>1995 - 1996</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Liberia</team>
+<period>1996 - 1997</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Liberia</team>
+<period>1996 - 1997</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Liberia</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1997 - 1998</period>
+<fullapps>7</fullapps>
+<subs>9</subs>
+<goals>3</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Coca-Cola League Cup</competition>
+<team>Arsenal</team>
+<period>1997 - 1998</period>
+<fullapps>1</fullapps>
+<subs>2</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Cup</competition>
+<team>Arsenal</team>
+<period>1997 - 1998</period>
+<fullapps>2</fullapps>
+<subs>4</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Cup</competition>
+<team>Arsenal</team>
+<period>1997 - 1998</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>UEFA Champions League</competition>
+<team>Arsenal</team>
+<period>1998 - 1999</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Arsenal</team>
+<period>1998 - 1999</period>
+<fullapps>2</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Premier League</competition>
+<team>Arsenal</team>
+<period>1998 - 1999</period>
+<fullapps>3</fullapps>
+<subs>9</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Liberia</team>
+<period>1998 - 1999</period>
+<fullapps>4</fullapps>
+<subs>0</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FA Charity Shield</competition>
+<team>Arsenal</team>
+<period>1998 - 1999</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals>1</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Liberia</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Arsenal</team>
+<period>1999 - 2000</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Liberia</team>
+<period>2000 - 2001</period>
+<fullapps>3</fullapps>
+<subs>0</subs>
+<goals>2</goals>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Worthington Cup</competition>
+<team>Arsenal</team>
+<period>2000 - 2001</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards>1</yellowcards>
+<redcards>0</redcards>
+</stat>
+
+<stat>
+<competition>FIFA World Cup</competition>
+<team>Liberia</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish FA Cup</competition>
+<team>St Mirren</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>1</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>International</competition>
+<team>Liberia</team>
+<period>2001 - 2002</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>Scottish Division 1</competition>
+<team>St Mirren</team>
+<period>2001 - 2002</period>
+<fullapps>0</fullapps>
+<subs>5</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+<stat>
+<competition>African Nations Cup</competition>
+<team>Liberia</team>
+<period>2002 - 2003</period>
+<fullapps>1</fullapps>
+<subs>0</subs>
+<goals/>
+
+<yellowcards/>
+<redcards/>
+</stat>
+
+</player_stats>
+
+</player>
